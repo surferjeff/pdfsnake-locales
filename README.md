@@ -10,7 +10,7 @@ Localized messages for [pdfsnake.app](https://pdfsnake.app).
 
 2.  Fork this repository.
 
-3.  Copy the files `messages/en.json` to a file name for your
+3.  Copy the files `messages/en.json` to a file named for your
     [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
 4.  Translate all the English values in *your-lang*.json.
@@ -45,10 +45,12 @@ Localized messages for [pdfsnake.app](https://pdfsnake.app).
         Only use html tags for bold or italic when suitable for your language.  Never add links, javascript, or any other HTML tags.
         Only keys with the suffix `Html` are interpreted as HTML.
 
-5.  Copy the files `search/en.json` to a file name for your
+5.  Copy the directory `search/en` and all the files it contains to a directory named for your
     [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
-6.  Translate the search terms in *your-lang*.json.  There may 
+6.  Reinterpret the search keywords, headlines, and descriptions in search/*your-lang*.  There may be no connection to the original English; there may be more or fewer lines in your language's text files than in the English text files.  Please *reinterpret*. Don't translate.  What keywords would a speaker of your language search for to find a tool like PDF Snake?  What headlines and descriptions would catch their attention?
+
+7.  Commit your new files to your forked repository.
 
 6.  Create a pull request on this repository.
 
