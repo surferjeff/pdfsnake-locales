@@ -118,7 +118,7 @@
       "step0": "Os livros são encadernados usando o seguinte processo:",
       "step1": "As folhas são impressas 2 em 1, frente e verso.",
       "step2": "As folhas são colocadas em pilhas de N, normalmente por volta de 5 folhas.",
-      "step3": "Cada pilha de folhas é dobrada ao meio."
+      "step3": "Cada pilha de folhas é dobrada ao meio.",
       "step4": "As pilhas de folhas são coladas e/ou costuradas.",
       "step5": "As bordas livres das páginas são cortadas para que todas as páginas fiquem alinhadas.",
       "saddleSize": "Tamanho da sela",
@@ -268,7 +268,7 @@
     "intro": "PDF Snake possui todas as ferramentas que você precisa para preparar seu documento para impressão.",
     "bookletHtml": "<b>Livreto</b> reordena e organiza páginas 2 em 1 para que o resultado possa ser impresso, empilhado e dobrado ao meio.",
     "gridHtml": "<b>Grid</b> organiza as páginas em um padrão fixo. Ela também reordena as páginas para que fiquem nos dois lados ou possam ser cortadas e empilhadas.",
-    "monkeyHtml": "<b>Várias páginas em uma folha",</b> encontra o padrão ideal para caber o máximo de páginas em uma única folha.",
+    "monkeyHtml": "<b>Várias páginas em uma folha</b> encontra o padrão ideal para caber o máximo de páginas em uma única folha.",
     "resizeHtml": "<b>Redimensionar</b> aumenta e diminui o conteúdo da página para caber em qualquer tamanho de papel.",
     "rotateHtml": "<b>Girar</b> rotaciona as páginas em qualquer grau.",
     "cropHtml": "<b>Cortar</b> corta as bordas das páginas.",
