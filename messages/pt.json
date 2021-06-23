@@ -47,7 +47,7 @@
       "introHtml": "O tamanho de papel para o documento resultante. Para especificar um tamanho de papel não listado, selecione <strong>Personalizado</strong> na caixa <strong>Tamanhos de papel</strong> e insira as dimensões da página nas caixas <strong>Largura</strong> e <strong>Altura</strong>.",
       "width": "A largura das páginas do documento resultante. Deve ser maior que zero.",
       "height": "A altura das páginas do documento resultante. Deve ser maior que zero.",
-      "landscapeHtml": "Quando marcada, troca os valores de largura e altura ao criar páginas no documento resultante. Por exemplo, se a opção <strong>Carta</strong> estiver selecionada e <strong>Paisagem</strong> não estiver marcada, as páginas resultantes terão 216 x 279mm. Se a opção<strong>Paisagem</strong> estiver marcada, as páginas resultantes terão 279 x 216mm."
+      "landscapeHtml": "Quando marcada, troca os valores de largura e altura ao criar páginas no documento resultante. Por exemplo, se a opção <strong>Carta</strong> estiver selecionada e <strong>Paisagem</strong> não estiver marcada, as páginas resultantes terão 216 x 279mm. Se a opção <strong>Paisagem</strong> estiver marcada, as páginas resultantes terão 279 x 216mm."
     }
   },
   "units": {
