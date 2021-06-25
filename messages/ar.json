@@ -1,26 +1,26 @@
   
 {
   "titles" : {
-    "privacyPolicy": "Privacy Policy",
-    "terms": "Terms and Conditions",
+    "privacyPolicy": "سياسة الخصوصية",
+    "terms": "الأحكام والشروط",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
   "topNav" : {
-    "home": "Home",
-    "about": "About",
-    "signIn": "Sign In",
-    "myAccount": "My Account"
+    "home": "الصفحة الرئيسية",
+    "about": "معلومات عنا",
+    "signIn": "تسجيل الدخول",
+    "myAccount": "حسابي"
   },
   "dropTarget" : {
-    "dropHere": "Drag and drop a PDF file here or",
-    "browse": "Browse to Begin",
-    "docsStayPrivate": "Your documents stay private because they never leave your device.",
-    "help": "Help"
+    "dropHere": "اسحب ملف الـ PDF وأفلته هنا أو",
+    "browse": "تصفح لتبدأ",
+    "docsStayPrivate": "تحتفظ مستنداتك بخصوصيتها الكاملة لأنها لا تغادر جهازك مطلقًا.",
+    "help": "مساعدة"
   },
   "about" : {
-    "privacy": "Read our {link}.",
-    "terms": "Using this website means that you agree with our {link}.",
+    "privacy": "اطلع على {link}.",
+    "terms": "استخدامك لهذا الموقع الإلكتروني يعد موافقة منك على {link}.",
     "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
     "questions": "We love to hear your questions and comments.",
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
