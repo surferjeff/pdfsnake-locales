@@ -1,1 +1,318 @@
-
+  
+{
+  "titles" : {
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "pdfSnake": "PDF Snake",
+    "pdfSnakeVersion": "PDF Snake {version}"
+  },
+  "topNav" : {
+    "home": "Home",
+    "about": "About",
+    "signIn": "Sign In",
+    "myAccount": "My Account"
+  },
+  "dropTarget" : {
+    "dropHere": "Drag and drop a PDF file here or",
+    "browse": "Browse to Begin",
+    "docsStayPrivate": "Your documents stay private because they never leave your device.",
+    "help": "Help"
+  },
+  "about" : {
+    "privacy": "Read our {link}.",
+    "terms": "Using this website means that you agree with our {link}.",
+    "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
+    "questions": "We love to hear your questions and comments.",
+    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
+  },
+  "choose": {
+    "whatNext": "What next?"
+  },
+  "tools": {
+    "booklet": "Booklet",
+    "grid": "Grid",
+    "monkey": "Monkey",
+    "resize": "Resize",
+    "crop": "Crop",
+    "rotate": "Rotate",
+    "shuffle": "Shuffle"
+  },
+  "pageSize": {
+    "paperSize": "Paper Size",
+    "custom": "Custom",
+    "edit": "Add & edit paper sizes",
+    "width":  "Width",
+    "height": "Height",
+    "landscape": "Landscape",
+    "help": {
+      "introHtml": "The paper size for the resulting document. To specify a paper size not listed in the box, select <strong>Custom</strong> in the <strong>Paper Size</strong> box, and then enter the page dimensions in the <strong>Width</strong> and <strong>Height</strong> boxes.",
+      "width": "The width of the pages in the resulting document. Must be greater than zero.",
+      "height": "The height of the pages in the resulting document. Must be greater than zero.",
+      "landscapeHtml": "When checked, swaps the values for the width and height when creating pages in the resulting document. For example, if <strong>Letter</strong> is selected and <strong>Landscape</strong> is not checked then the resulting pages will be 8.5 by 11 inches. If <strong>Landscape</strong> is checked then the resulting pages will be 11 by 8.5 inches."
+    }
+  },
+  "units": {
+    "mms": "mms",
+    "inches": "inches",
+    "points": "points"
+  },
+  "pageOrder": {
+    "pageOrder": "Page Order",
+    "doubleSided": "Double sided",
+    "doubleSidedHelp": "Pages will be arranged so that page 2 appears on the back of page 1, etc.",
+    "repeat": "Repeat each page",
+    "repeatHelp": "Each page in the source document will appear in the resulting document this many times.",
+    "sequential": "sequential",
+    "sequentialHelp": "Pages will be imposed in the same order they appear in the source document.",
+    "stack": "stack",
+    "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document."
+  },
+  "whiteSpace": {
+    "whiteSpace": "White Space",
+    "left": "Left",
+    "top": "Top",
+    "right": "Right",
+    "bottom": "Bottom",
+    "margins": "Margins:",
+    "horizontal": "Horizontal",
+    "vertical": "Vertical",
+    "gutters": "Gutters:",
+    "center": "Center output on page",
+    "centerGutter": "Center Gutter",
+    "pageCreep": "Page Creep"
+   },
+  "layout": {
+    "layout": "Layout",
+    "columns": "Columns",
+    "rows": "Rows"
+  },
+  "autoscale": {
+    "autoscale": "Autoscale",
+    "autoscaleHelp": "When checked, pages are scaled to the largest size possible, while still fitting within the margins and gutters.",
+    "preserveAspectRatio": "Preserve aspect ratio"
+  },
+  "cropMarks": {
+    "cropMarks": "Printer's Marks",
+    "drawCropMarks": "Draw crop marks",
+    "drawCenterMarks": "Draw center marks",
+    "lineLength": "Line length",
+    "lineThickness": "Line thickness",
+    "lineDistance": "Line distance",
+    "fourColorBlack": "Four-color black",
+    "fourColorBlackHelp": "When checked, crop marks are drawn with full cyan, magenta, yellow, and black ink. When not checked, the crop marks are drawn only in black ink."
+  },
+  "bleeds": {
+    "bleeds": "Bleeds",
+    "noBleeds": "No bleeds",
+    "pullBleeds": "Pull bleed information from document",
+    "fixedBleeds": "Fixed bleeds",
+    "leftAndRight": "Left & right",
+    "topAndBottom": "Top & bottom"
+  },
+  "booklet": {
+    "bookBinding": "Book Binding",
+    "saddleSize": "Saddle size: {count} sheets",
+    "fillLastSaddle": "Fill last saddle",
+    "scale": "Scale",
+    "help": {
+      "intro": "PDF Snake's Booklet tool re-arranges pages to make a booklet. It first shuffles them into book page order, and then puts two pages side by side on each sheet of paper. The resulting document can be folded and stapled down the middle to make a booklet or book.",
+      "step0": "Books are bound using the following process:",
+      "step1": "Sheets are printed 2 up, double sided.",
+      "step2": "Sheets are put into stacks of N, usually around 5 sheets.",
+      "step3": "Each stack is folded in half.",
+      "step4": "The stacks are glued and/or stitched together.",
+      "step5": "The free edges of the pages are cut to make all the pages flush.",
+      "saddleSize": "Saddle size",
+      "saddleSizeHelp": "The number of sheets to put into each stack and fold. When left empty, all the sheets are put into a single stack.",
+      "fillLastSaddleHtml": "Often, there will be an odd number of pages in the source document, and the last fold will have some empty pages. When <strong>Fill last saddle</strong> is checked, blank pages will be added so that all folds will have the same number of sheets. When it is not checked, the last fold may have fewer sheets than the rest.",
+      "pageCreepHtml": "In Step 5 of the book binding process listed above, the pages are cut to make the free edges flush. More paper is cut from the sheet in the center of the fold than from the sheet on the outside of the fold, because its edge sticks out more. This is called <i>page creep</i>. In order to compensate for this, and have all the pages appear in the same position after the book is bound and cut, the pages must be slightly adjusted, depending on factors such as paper thickness. Each page is slightly adjusted by the value set in <strong>Page Creep</strong>. To understand exactly what this does, try setting <strong>Page Creep</strong> to half an inch, or about ten millimeters, and look at the results."
+    }
+  },
+  "rotate": {
+    "rotation": "Rotation",
+    "degrees": "degrees",
+    "degreesHelp": "The angle to rotate the pages by.",
+    "help": "PDF Snake's Rotate tool rotates pages by any degree."
+  },
+  "pageRange": {
+    "pageRange": "Pages",
+    "help": {
+      "intro": "Page ranges are generally specified in the following format:",
+      "generalExample": "first-last odd? even?",
+      "someExamples": "However, the best way to understand how to specify page ranges is to look at some examples:",
+      "allThePages": "all the pages in the document",
+      "pages-3-10-15": "pages 3, 10, and 15",
+      "pages-10-15": "pages 10 through 15 (6 pages)",
+      "pages-3-4-10-15": "pages 3, 4, and 10 through 15 (8 pages)",
+      "pages-10-15-even": "pages 10, 12, and 14",
+      "pages-10-15-odd": "pages 11, 13, and 15",
+      "pages-10-odd": "all the odd numbered pages after page 10",
+      "pages-1-10-even-10-odd": "pages 2, 4, 6, 8, 10 and all the odd numbered pages after page 10",
+      "pages-even": "all the even numbered pages"
+    }
+  },
+  "shuffle": {
+    "note": "Note: Use {link} to merge pages from multiple documents.",
+    "help": {
+      "intro": "PDF Snake's Shuffle tool shuffles the pages in a document. All in one step it can reorder the pages, delete pages duplicate pages, add blank pages, and rotate pages.",
+      "format": "Page orders are generally specified in the following format, very similar to the page range format.",
+      "allThePages": "all the pages in the document, in the same order",
+      "theLastPage": "the last page in the document",
+      "theSecondToLastPage": "the second to last page in the document",
+      "pages-15-10-3": "pages 15, 10, and 3",
+      "pages-15-10": "pages 10 through 15 in reverse order (6 pages)",
+      "allReversed": "all the pages in the document in reverse order",
+      "pages-15-10-odd": "pages 15, 13, and 11",
+      "pages-odd-even": "all the odd pages followed by all the even pages",
+      "pages-odd-1-even": "all the odd pages followed by all the even pages in reverse order",
+      "pages-5-1": "five copies of the first page",
+      "pages-2-odd-even-8": "all the odd pages, then all the even pages, then all the odd pages again, then all the even pages again, then page 8",
+      "pages-all-all": "2 copies of page 1, 2 copies of page 2, 2 copies of page 3, etc.",
+      "pages-square-odd-even": "all the pages in normal order",
+      "rotateIntro": "PDF Snake can rotate the pages as it shuffles them. Use the following symbols after the page number to specify the rotation:",
+      "rotate90": "rotate 90 degrees clockwise",
+      "rotate180": "rotate 180 degrees",
+      "rotate270": "rotate 270 degrees clockwise (90 degrees counter-clockwise)",
+      "allUpsideDown": "all the pages in the document, upside down",
+      "pages-1-2-3-4": "page 1, page 2 rotated 90 degrees clockwise, page 3 upside down, page 4 rotated 90 degrees counter-clockwise.",
+      "groupIntro": "PDF Snake can repeat a shuffle pattern many times over the same document.  For example:",
+      "pages-group-3": "for a six page document, yields the page order 3 2 1 6 5 4",
+      "blankIntro": "PDF Snake will insert blank pages whenever you enter an X:",
+      "pages-1-X-3": "page 1, a blank page, page 3"
+    }
+  },
+  "pages": {
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "download": "Download PDF",
+    "viewFirst": "View first {count} pages",
+    "viewPrevious": "View previous {count} pages",
+    "pageRange": "{first}-{last}",
+    "viewNext": "View next {count} pages",
+    "viewFinal": "View final {count} pages",
+    "recalculating": "Recalculating..."
+  },
+  "home": {
+    "step": "Step {number}: {name}",
+    "help": "Help",
+    "saveAs": "Save these steps as:",
+    "cancel": "Cancel",
+    "saved": "Saved {name}",
+    "addStep": "Add Step",
+    "saveSteps": "Save Steps"
+  },
+  "error": {
+    "notEmpty": "must not be empty",
+    "greaterThanZero": "must be greater than 0",
+    "atLeastZero": "must be at least 0",
+    "aNumber": "must be a number",
+    "atLeastOne": "must be at least 1",
+    "aWholeNumber": "must be a whole number",
+    "duplicatePaperSizeName": "'{name}' is already the name of a paper size",
+    "badRange": "I'm confused here:",
+    "reading": "Error reading {fileName}:",
+    "error": "Error: {msg}",
+    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents."
+  },
+  "paperSizes": {
+    "paperSizes": "Paper Sizes",
+    "name": "Name",
+    "add": "Add",
+    "remove": "Remove {name}",
+    "restoreDefaults": "Restore defaults"
+  },
+  "range": {
+    "all": "all",
+    "first": "first",
+    "last": "last",
+    "odd": "odd",
+    "even": "even",
+    "group": "group"
+  },
+  "crop": {
+    "help": {
+      "intro": "PDF Snake's Crop tool crops the edges of pages.",
+      "edgeList": "Top, Left, Right, Bottom",
+      "amount": "The amount to crop each edge."
+    }
+  },
+  "resize": {
+    "help": {
+      "intro": "PDF Snake's Resize tool shrinks or expands the pages' contents to fit any size paper.",
+      "preserveAspectRatio": " When checked, preserves the ratio of height-to-width in the pages of the source document. If this box is not checked, the pages may be significantly stretched either horizontally or vertically."
+    }
+  },
+  "impose": {
+    "help": {
+      "margin": "margin",
+      "bleed": "bleed",
+      "cropMarks": "crop marks",
+      "gutter": "gutter",
+      "lineDistance": "line distance",
+      "centerMarks": "center marks",
+      "lineLength": "line length",
+      "measurementsList": "Margins, Crop Marks, Center Marks, Line Length, Line Thickness, Line Distance, Bleeds",
+      "measurementsIntro": "The rest of the values in the dialog box are explained by this picture:"
+    }
+  },
+  "grid": {
+    "help": {
+      "intro": "PDF Snake's Grid tool imposes pages in a fixed pattern.  It also reorders pages so they come out double-sided, or can be cut and stacked."
+    }
+  },
+  "monkey": {
+    "help": {
+      "intro": "PDF Snake's Monkey tool imposes pages in a variable pattern.  It finds the optimal pattern to fit as many source pages as possible on a single output page."
+    }
+  },
+  "help": {
+    "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
+    "bookletHtml": "<b>Booklet</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
+    "gridHtml": "<b>Grid</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
+    "monkeyHtml": "<b>Monkey</b> finds the optimal pattern to fit the most pages onto a single sheet.",
+    "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
+    "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
+    "cropHtml": "<b>Crop</b> crops the edges of pages.",
+    "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages."
+  },
+  "account": {
+    "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
+    "subscribersCan": "Subscribers can download unlimited documents for only {monthlyPrice} per month.",
+    "signOut": "Sign Out",
+    "thankYouForSubscribing": "Thank You For Subscribing",
+    "downloadAsMany": "Download as many files as you want!",
+    "connectingToStripe": "Connecting to Stripe...",
+    "manageMySubscription": "Manage My Subscription",
+    "subscriptionEnded": "Your Subscription Has Ended",
+    "subscriptionEndedOn": "Your subscription ended on {date}.",
+    "freeTrial": "Free Trial",
+    "freeTrialWillEndOn": "Your free trial will end on {date}.",
+    "freeTrialEndedOn": "Your free trial ended on {date}.",
+    "youAreEligibleForFreeTrial": "Congratulations!  You are eligible for a 10-day free trial.  You can download unlimited documents during the free trial.",
+    "beginMyFreeTrialNow": "Begin My Free Trial Now",
+    "subscribe": "Subscribe",
+    "subscribersCanDownload": "Subscribers can download unlimited documents for",
+    "perMonth": "{price} per month",
+    "perYear": "{price} per year",
+    "subscribeNow": "Subscribe Now",
+    "stripeError": "An error occurred: {msg}"
+  },
+  "helpFor": {
+    "noHelp": "There's no help topic named {topic}."
+  },
+  "cookieNotice": {
+    "privacyLink": "This website uses cookies in accordance with our {link}.",
+    "okButton": "Ok"
+  },
+  "download": {
+    "downloadTitle": "Download",
+    "subscriptionEnded": "Your subscription ended.",
+    "freeTrialEnded": "Your free trial ended.",
+    "youCanDownload8hours": "You can download one document every 8 hours.",
+    "anonymousCanDownload8hours": "Anonymous users can download one document every 8 hours.",
+    "youCanDownloadNext": "You can download your next document at {date}.",
+    "downloadNowButton": "Download Now",
+    "signedInCanDownload10days": "Signed-in users can download unlimited documents for 10 days.",
+    "subscribersCanDownloadUnlimited": "Subscribers can download unlimited documents."
+  }
+}
