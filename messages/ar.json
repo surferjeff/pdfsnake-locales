@@ -28,13 +28,13 @@
     "whatNext": "ما التالي؟"
   },
   "tools": {
-    "booklet": "Booklet",
-    "grid": "Grid",
-    "monkey": "Monkey",
-    "resize": "Resize",
+    "booklet": "كتيب",
+    "grid": "شبكة",
+    "monkey": "النمط الأمثل",
+    "resize": "تعديل الحجم",
     "crop": "اقتتصاص",
     "rotate": "تدوير",
-    "shuffle": "Shuffle"
+    "shuffle": "ترتيب عشوائي"
   },
   "pageSize": {
     "paperSize": "حجم الصفحة",
