@@ -19,10 +19,10 @@
     "help": "مساعدة"
   },
   "about" : {
-    "privacy": "اطلع على {link}.",
+    "privacy": "اطّلع على {link}.",
     "terms": "استخدامك لهذا الموقع الإلكتروني يعد موافقة منك على {link}.",
-    "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
-    "questions": "We love to hear your questions and comments.",
+    "plugIn": "PDF Snake 6 هو الإصدار الجديد من إضافة Adobe Acrobat الإلكترونية الأفضل مبيعًا {link}.",
+    "questions": "نرحب بجميع أسئلتك واقتراحاتك.",
     "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
   },
   "choose": {
