@@ -23,27 +23,26 @@
     "terms": "استخدامك لهذا الموقع الإلكتروني يعد موافقة منك على {link}.",
     "plugIn": "PDF Snake 6 هو الإصدار الجديد من إضافة Adobe Acrobat الإلكترونية الأفضل مبيعًا {link}.",
     "questions": "نرحب بجميع أسئلتك واقتراحاتك.",
-    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
-  },
+    "copyright": "الملكية الفكرية 2002-{year} Rennie Glen Software ذ.م.م."},
   "choose": {
-    "whatNext": "What next?"
+    "whatNext": "ما التالي؟"
   },
   "tools": {
     "booklet": "Booklet",
     "grid": "Grid",
     "monkey": "Monkey",
     "resize": "Resize",
-    "crop": "Crop",
-    "rotate": "Rotate",
+    "crop": "اقتتصاص",
+    "rotate": "تدوير",
     "shuffle": "Shuffle"
   },
   "pageSize": {
-    "paperSize": "Paper Size",
-    "custom": "Custom",
-    "edit": "Add & edit paper sizes",
-    "width":  "Width",
-    "height": "Height",
-    "landscape": "Landscape",
+    "paperSize": "حجم الصفحة",
+    "custom": "مخصص",
+    "edit": "إضافة وتعديل أبعاد الصفحة",
+    "width":  "العرض",
+    "height": "الطول",
+    "landscape": "أفقي",
     "help": {
       "introHtml": "The paper size for the resulting document. To specify a paper size not listed in the box, select <strong>Custom</strong> in the <strong>Paper Size</strong> box, and then enter the page dimensions in the <strong>Width</strong> and <strong>Height</strong> boxes.",
       "width": "The width of the pages in the resulting document. Must be greater than zero.",
