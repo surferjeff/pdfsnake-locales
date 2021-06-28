@@ -20,7 +20,7 @@
   "about" : {
     "privacy": "Baca {link} kami.",
     "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
-    "plugIn": "PDF Snake 6 adalah versi daring baru dari <i>Plug-In</i> Adobe Acrobat yang terkenal, {link}.",
+    "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
     "questions": "Kami senang menerima pertanyaan dan komentar Anda.",
     "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC"
   },
@@ -29,8 +29,8 @@
   },
   "tools": {
     "booklet": "Buklet",
-    "grid": "<i>Grid</i>",
-    "monkey": "<i>Monkey</i>",
+    "grid": "Grid",
+    "monkey": "Monkey",
     "resize": "Ubah Ukuran",
     "crop": "Potong",
     "rotate": "Putar",
@@ -67,18 +67,18 @@
     "stackHelp": "Halaman-halaman akan diatur supaya setelah dicetak dan dipotong, tumpukan hasilnya dapat ditumpuk di atas satu sama lain, dan urutan halamannya akan sama dengan dokumen sumber."
   },
   "whiteSpace": {
-    "whiteSpace": "Spasi (<i>White Space</i>)",
+    "whiteSpace": "Spasi",
     "left": "Kiri",
     "top": "Atas",
     "right": "Kanan",
     "bottom": "Bawah",
-    "margins": "<i>Margin</i>:",
+    "margins": "Margin:",
     "horizontal": "Horizontal",
     "vertical": "Vertikal",
-    "gutters": "<i>Gutter</i>:",
+    "gutters": "Gutter:",
     "center": "Buat halaman ada di tengah",
-    "centerGutter": "<i>Gutter</i> tengah",
-    "pageCreep": "<i>Creep</i> Halaman"
+    "centerGutter": "Gutter tengah",
+    "pageCreep": "Creep Halaman"
    },
   "layout": {
     "layout": "Susunan",
@@ -86,7 +86,7 @@
     "rows": "Baris"
   },
   "autoscale": {
-    "autoscale": "<i>Autoscale</i>",
+    "autoscale": "Skala Otomatis",
     "autoscaleHelp": "Ketika dicentang, halaman akan diskalakan sebesar mungkin, sambil tetap meletakkannya di dalam <i>margin</i> dan <i>gutter</i>.",
     "preserveAspectRatio": "Pertahankan rasio aspek"
   },
@@ -101,17 +101,17 @@
     "fourColorBlackHelp": "Ketika dicentang, tanda potong akan dicetak dengan semua warna tinta. Jika tidak dicentang, tanda potong hanya akan dicetak menggunakan tinta hitam."
   },
   "bleeds": {
-    "bleeds": "<i>Bleed</i>",
-    "noBleeds": "Tanpa <i>bleed</i>",
-    "pullBleeds": "Ambil informasi <i>bleed</i> dari dokumen",
-    "fixedBleeds": "<i>Bleed</i> tertentu",
+    "bleeds": "Bleed",
+    "noBleeds": "Tanpa bleed",
+    "pullBleeds": "Ambil informasi bleed dari dokumen",
+    "fixedBleeds": "Bleed tertentu",
     "leftAndRight": "Kiri & kanan",
     "topAndBottom": "Atas & bawah"
   },
   "booklet": {
     "bookBinding": "Penjilidan Buku",
-    "saddleSize": "Ukuran <i>saddle</i>: {count} lembar",
-    "fillLastSaddle": "Isi <i>saddle</i> terakhir",
+    "saddleSize": "Ukuran saddle: {count} lembar",
+    "fillLastSaddle": "Isi saddle terakhir",
     "scale": "Skala",
     "help": {
       "intro": "Alat Buklet PDF Snake mengatur ulang halaman untuk membuat sebuah buklet. Pertama-tama, halaman diatur menjadi urutan cetakan buku, lalu dua halaman ditaruh bersebelahan dalam satu lembar kertas. Dokumen hasilnya dapat dilipat dan dijilid di tengah, menjadi sebuah buklet atau buku.",
@@ -121,7 +121,7 @@
       "step3": "Setiap tumpukan dilipat menjadi dua.",
       "step4": "Tumpukan-tumpukan tersebut dilem dan/atau dijahit menyatu.",
       "step5": "Pinggiran bebas halaman dipotong supaya semua halamannya rata.",
-      "saddleSize": "Ukuran <i>saddle</i>",
+      "saddleSize": "Ukuran saddle",
       "saddleSizeHelp": "Jumlah lembaran yang ditumpukkan untuk dilipat. Jika dibiarkan kosong, semua lembaran dianggap ditaruh dalam satu tumpukan.",
       "fillLastSaddleHtml": "Terkadang, ada jumlah halaman ganjil di dokumen sumber, dan lipatan terakhir akan memiliki beberapa halaman kosong. Ketika <strong>Isi <i>saddle</i> terakhir</strong> dicentang, halaman-halaman kosong akan ditambahkan supaya semua lipatan memiliki jumlah lembaran yang sama. Jika tidak dicentang, lipatan terakhir mungkin memiliki lembaran yang lebih sedikit dari lipatan lainnya.",
       "pageCreepHtml": "Pada Langkah 5 proses penjilidan buku di atas, halaman-halamannya dipotong untuk meratakan kertasnya. Lembaran yang berada di tengah lipatan akan dipotong lebih banyak daripada lembaran yang berada di bagian luar, karena pinggirannya lebih muncul. Hal ini dinamakan \"<i>creep</i> halaman\". Supaya semua halaman terlihat berada dalam posisi yang sama setelah buku tersebut dijilid dan dipotong, halaman-halamannya harus diatur sedemikian rupa dengan memperhitungkan faktor-faktor seperti ketebalan kertas. Setiap halaman digeser sedikit berdasarkan nilai yang ditentukan dalam <strong><i>Creep</i> Halaman</strong>. Untuk lebih mengerti apa yang dilakukan oleh nilai ini, cobalah mengatur <strong><i>Creep</i> Halaman</strong> menjadi setengah inci atau sekitar sepuluh milimeter, dan lihat hasilnya."
@@ -243,25 +243,25 @@
   },
   "impose": {
     "help": {
-      "margin": "<i>margin</i>",
-      "bleed": "<i>bleed</i>",
+      "margin": "margin",
+      "bleed": "bleed",
       "cropMarks": "tanda potong",
-      "gutter": "<i>gutter</i>",
+      "gutter": "gutter",
       "lineDistance": "jarak garis",
       "centerMarks": "tanda tengah",
       "lineLength": "panjang garis",
-      "measurementsList": "<i>Margin</i>, Tanda Potong, Tanda Tengah, Panjang Garis, Tebal Garis, Jarak Garis, <i>Bleed</i>",
+      "measurementsList": "Margin, Tanda Potong, Tanda Tengah, Panjang Garis, Tebal Garis, Jarak Garis, Bleed",
       "measurementsIntro": "Istilah-istilah lainnya dalam kotak dialog dijelaskan dalam gambar ini:"
     }
   },
   "grid": {
     "help": {
-      "intro": "Alat <i>Grid</i> PDF Snake mengatur letak halaman dalam pola tertentu. Alat ini juga mengatur ulang urutan halaman supaya dicetak di dua sisi, atau supaya dapat dipotong dan ditumpuk."
+      "intro": "Alat Grid PDF Snake mengatur letak halaman dalam pola tertentu. Alat ini juga mengatur ulang urutan halaman supaya dicetak di dua sisi, atau supaya dapat dipotong dan ditumpuk."
     }
   },
   "monkey": {
     "help": {
-      "intro": "Alat <i>Monkey</i> PDF Snake mengatur letak halaman dalam pola bervariasi. Alat ini menentukan pola optimal untuk memuat sebanyak mungkin halaman sumber dalam satu halaman hasil."
+      "intro": "Alat Monkey PDF Snake mengatur letak halaman dalam pola bervariasi. Alat ini menentukan pola optimal untuk memuat sebanyak mungkin halaman sumber dalam satu halaman hasil."
     }
   },
   "help": {
