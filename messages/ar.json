@@ -47,7 +47,7 @@
       "introHtml": "حجم الصفحة في المستند الناتج. لتحديد حجم غير متوفر في صندوق الخيارات، اختر <strong>مخصص</strong> في صندوق <strong>حجم الصفحة</strong>، ثم أدخل أبعاد الصفحة في صندوقي <strong>العرض</strong> و <strong>الارتفاع</strong>.",
       "width": "عرض صفحات المستند الناتج. يجب أن يكون أكبر من صفر.",
       "height": "ارتفاع صفحات المستند الناتج. يجب أن يكون أكبر من صفر.",
-      "landscapeHtml": "When checked, swaps the values for the width and height when creating pages in the resulting document. For example, if <strong>Letter</strong> is selected and <strong>Landscape</strong> is not checked then the resulting pages will be 8.5 by 11 inches. If <strong>Landscape</strong> is checked then the resulting pages will be 11 by 8.5 inches."
+      "landscapeHtml": "عند التفعيل، ستتبدل قيمتي العرض والارتفاع عند إنشاء الصفحات في المستند الناتج. على سبيل المثال، إذا تم تحديد خيار <strong>Letter</strong> لحجم الصفحة مع عدم تحديد اتجاه <strong>أفقي</strong> سيكون حجم الصفحات الناتج 8.5 بوصة * 11 بوصة. بينما إذا تم تحديد اتجاه <strong>أفقي</strong> فسيكون حجم الصفحات الناتج 11 بوصة * 8.5 بوصة."
     }
   },
   "units": {
