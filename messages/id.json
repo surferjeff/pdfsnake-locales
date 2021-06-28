@@ -300,7 +300,7 @@
     "noHelp": "Tidak ada topik bantuan bernama {topic}."
   },
   "cookieNotice": {
-    "privacyLink": "Situs web ini menggunakan <i>cookie</i> seturut dengan {link} kami.",
+    "privacyLink": "Situs web ini menggunakan cookie seturut dengan {link} kami.",
     "okButton": "OK"
   },
   "download": {
