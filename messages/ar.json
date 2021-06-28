@@ -101,12 +101,12 @@
     "fourColorBlackHelp": "عند التفعيل، ستُرسَم علامات الاقتصاص باللون النيلي والأرجواني والأصفر والأزرق. وعند عدم تفعيله ستُرسَم علامات الاقتصاص باللون الأسود فقط."
   },
   "bleeds": {
-    "bleeds": "Bleeds",
-    "noBleeds": "No bleeds",
-    "pullBleeds": "Pull bleed information from document",
-    "fixedBleeds": "Fixed bleeds",
-    "leftAndRight": "Left & right",
-    "topAndBottom": "Top & bottom"
+    "bleeds": "التسييل",
+    "noBleeds": "دون تسييل",
+    "pullBleeds": "سحب معلومات التسييل من المستند",
+    "fixedBleeds": "تسييل ثابت",
+    "leftAndRight": "أيسر وأيمن",
+    "topAndBottom": "أعلى وأسفل"
   },
   "booklet": {
     "bookBinding": "Book Binding",
