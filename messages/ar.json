@@ -91,14 +91,14 @@
     "preserveAspectRatio": "المحافظة على تناسب الطول مع العرض"
   },
   "cropMarks": {
-    "cropMarks": "Printer's Marks",
-    "drawCropMarks": "Draw crop marks",
-    "drawCenterMarks": "Draw center marks",
-    "lineLength": "Line length",
-    "lineThickness": "Line thickness",
-    "lineDistance": "Line distance",
-    "fourColorBlack": "Four-color black",
-    "fourColorBlackHelp": "When checked, crop marks are drawn with full cyan, magenta, yellow, and black ink. When not checked, the crop marks are drawn only in black ink."
+    "cropMarks": "علامات الطابعة",
+    "drawCropMarks": "رسم علامات الاقتصاص",
+    "drawCenterMarks": "رسم علامات المركز",
+    "lineLength": "طول الخط",
+    "lineThickness": "سمك الخط",
+    "lineDistance": "المسافة بين الخطوط",
+    "fourColorBlack": "أربعة ألوان / أسود",
+    "fourColorBlackHelp": "عند التفعيل، ستُرسَم علامات الاقتصاص باللون النيلي والأرجواني والأصفر والأزرق. وعند عدم تفعيله ستُرسَم علامات الاقتصاص باللون الأسود فقط."
   },
   "bleeds": {
     "bleeds": "Bleeds",
