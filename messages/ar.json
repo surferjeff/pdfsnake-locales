@@ -75,9 +75,9 @@
     "margins": "الهوامش:",
     "horizontal": "أفقي",
     "vertical": "عمودي",
-    "gutters": "Gutters:",
-    "center": "Center output on page",
-    "centerGutter": "Center Gutter",
+    "gutters": "هوامش التوثيق:",
+    "center": "توسيط في الصفحة",
+    "centerGutter": "توسيط هامش التوثيق",
     "pageCreep": "Page Creep"
    },
   "layout": {
