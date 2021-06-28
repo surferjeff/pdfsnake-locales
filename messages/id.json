@@ -87,7 +87,7 @@
   },
   "autoscale": {
     "autoscale": "Skala Otomatis",
-    "autoscaleHelp": "Ketika dicentang, halaman akan diskalakan sebesar mungkin, sambil tetap meletakkannya di dalam <i>margin</i> dan <i>gutter</i>.",
+    "autoscaleHelp": "Ketika dicentang, halaman akan diskalakan sebesar mungkin, sambil tetap meletakkannya di dalam margin dan gutter.",
     "preserveAspectRatio": "Pertahankan rasio aspek"
   },
   "cropMarks": {
