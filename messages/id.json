@@ -47,7 +47,7 @@
       "introHtml": "Ukuran kertas untuk dokumen hasil. Untuk menentukan ukuran kertas yang tidak ada dalam pilihan, pilih <strong>Kustom</strong> di kotak <strong>Ukuran Kertas</strong>, lalu masukkan dimensi halaman ke dalam kotak <strong>Lebar</strong> dan <strong>Tinggi</strong>.",
       "width": "Lebar halaman pada dokumen hasil. Harus lebih besar dari nol.",
       "height": "Tinggi halaman pada dokumen hasil. Harus lebih besar dari nol.",
-      "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentangm maka hasil halamannya akan berukuran 11 x 8.5 inci."
+      "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentang maka hasil halamannya akan berukuran 11 x 8.5 inci."
     }
   },
   "units": {
@@ -136,8 +136,8 @@
   "pageRange": {
     "pageRange": "Halaman",
     "help": {
-      "intro": "Cakupan halaman biasanya ditentukan dalam format berikut ini (<i>odd</i> = ganjil, <i>even</i> = genap):",
-      "generalExample": "pertama-terakhir odd? even?",
+      "intro": "Cakupan halaman biasanya ditentukan dalam format berikut ini:",
+      "generalExample": "pertama-terakhir ganjil? genap?",
       "someExamples": "Namun, cara terbaik untuk mengerti cara menentukan cakupan halaman adalah dengan melihat beberapa contoh:",
       "allThePages": "semua halaman dalam dokumen",
       "pages-3-10-15": "halaman 3, 10, dan 15",
@@ -300,7 +300,7 @@
     "noHelp": "Tidak ada topik bantuan bernama {topic}."
   },
   "cookieNotice": {
-    "privacyLink": "Situs web ini menggunakan <i>cookie</i> seturut dengan {link} kami.",
+    "privacyLink": "Situs web ini menggunakan cookie seturut dengan {link} kami.",
     "okButton": "OK"
   },
   "download": {
