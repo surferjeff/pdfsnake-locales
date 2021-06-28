@@ -51,18 +51,18 @@
     }
   },
   "units": {
-    "mms": "mms",
-    "inches": "inches",
-    "points": "points"
+    "mms": "مم",
+    "inches": "بوصة",
+    "points": "نقطة"
   },
   "pageOrder": {
-    "pageOrder": "Page Order",
-    "doubleSided": "Double sided",
-    "doubleSidedHelp": "Pages will be arranged so that page 2 appears on the back of page 1, etc.",
-    "repeat": "Repeat each page",
-    "repeatHelp": "Each page in the source document will appear in the resulting document this many times.",
-    "sequential": "sequential",
-    "sequentialHelp": "Pages will be imposed in the same order they appear in the source document.",
+    "pageOrder": "ترتيب الصفحات",
+    "doubleSided": "طباعة مزدوجة",
+    "doubleSidedHelp": "سيتم ترتيب الصفحات بحيث تكون صفحة 2 على الوجه الخلفي لصفحة 1، وهكذا.",
+    "repeat": "تكرار كل صفحة",
+    "repeatHelp": "ستتكرر كل صفحة من صفحات المستند الأصلي بالعدد المحدد في المستند الناتج.",
+    "sequential": "تسلسلي",
+    "sequentialHelp": "ستظهر الصفحات في المستند الناتج بنفس ترتيبها في المستند الأصلي.",
     "stack": "stack",
     "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document."
   },
