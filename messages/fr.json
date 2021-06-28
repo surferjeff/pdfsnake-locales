@@ -1,0 +1,317 @@
+{
+  "titles" : {
+    "privacyPolicy": "Politique de confidentialité",
+    "terms": "Modalités et conditions",
+    "pdfSnake": "PDF Snake",
+    "pdfSnakeVersion": "PDF Snake {version}"
+  },
+  "topNav" : {
+    "home": "Accueil",
+    "about": "À propos de",
+    "signIn": "S'inscrire",
+    "myAccount": "Mon compte"
+  },
+  "dropTarget" : {
+    "dropHere": "Faites glisser et déposez un fichier PDF ici ou",
+    "browse": "Parcourir pour commencer",
+    "docsStayPrivate": "Vos documents restent privés car ils ne quittent jamais votre appareil.",
+    "help": "Aide"
+  },
+  "about" : {
+    "privacy": "Lisez notre {link}.",
+    "terms": "L'utilisation de ce site web signifie que vous êtes d'accord avec notre {link}.",
+    "plugIn": "PDF Snake 6 est une nouvelle version en ligne du plug-in Adobe Acrobat le plus vendu {link}.",
+    "questions": "Nous sommes ravis d'entendre vos questions et vos commentaires.",
+    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
+  },
+  "choose": {
+    "whatNext": "Et ensuite?"
+  },
+  "tools": {
+    "booklet": "Livret",
+    "grid": "Grille",
+    "monkey": "Singe",
+    "resize": "Redimensionner",
+    "crop": "Recadrer",
+    "rotate": "Faire pivoter",
+    "shuffle": "Mélangez"
+  },
+  "pageSize": {
+    "paperSize": "Taille du papier",
+    "custom": "Personnalisé",
+    "edit": "Ajouter et modifier des formats de papier",
+    "width":  "Largeur",
+    "height": "Hauteur",
+    "landscape": "Paysage",
+    "help": {
+      "introHtml": "Le format de papier pour le document résultant. Pour spécifier un format de papier non répertorié dans la case, sélectionnez <strong>Custom</strong> dans la case <strong>Paper Size</strong>, puis saisissez les dimensions de la page dans les boîtes <strong>Width</strong> et <strong>Height</strong>.",
+      "width": "La largeur des pages dans le document résultant. Doit être supérieure à zéro.",
+      "height": "La hauteur des pages dans le document résultant. Doit être supérieure à zéro.",
+      "landscapeHtml": "Lorsque cette option est cochée, les valeurs de la largeur et de la hauteur sont permutées lors de la création de pages dans le document résultant. Par exemple, si <strong>Letter</strong> est sélectionné et que <strong>Paysage</strong> n'est pas coché, les pages obtenues seront de 8,5 par 11 pouces. Si <strong>Paysage</strong> est coché, les pages résultantes seront de 11 par 8,5 pouces."
+    }
+  },
+  "units": {
+    "mms": "mms",
+    "inches": "pouces",
+    "points": "points"
+  },
+  "pageOrder": {
+    "pageOrder": "Ordre des pages",
+    "doubleSided": "Double-face",
+    "doubleSidedHelp": "Les pages seront disposées de manière à ce que la page 2 apparaisse au dos de la page 1, etc.",
+    "repeat": "Répéter chaque page",
+    "repeatHelp": "Chaque page du document source apparaîtra dans le document résultant autant de fois.",
+    "sequential": "séquentiel",
+    "sequentialHelp": "Les pages seront imposées dans le même ordre qu'elles apparaissent dans le document source.",
+    "stack": "pile",
+    "stackHelp": "Les pages seront disposées de telle sorte qu'après avoir été imprimées et coupées, les piles résultantes pourront être empilées les unes sur les autres, et l'ordre des pages qui en résultera correspondra à celui du document source."
+  },
+  "whiteSpace": {
+    "whiteSpace": "Espace blanc",
+    "left": "Gauche",
+    "top": "Haut",
+    "right": "Droit",
+    "bottom": "Fond",
+    "margins": "Marges:",
+    "horizontal": "Horizontale",
+    "vertical": "Verticale",
+    "gutters": "Gouttières:",
+    "center": "Sortie centrale à la page",
+    "centerGutter": "Gouttière centrale",
+    "pageCreep": "Page Creep"
+   },
+  "layout": {
+    "layout": "Mise en page",
+    "columns": "Colonnes",
+    "rows": "Rangs"
+  },
+  "autoscale": {
+    "autoscale": "Autoscale",
+    "autoscaleHelp": "Lorsque cette case est cochée, les pages sont mises à l'échelle dans la plus grande taille possible, tout en respectant les marges et les gouttières.",
+    "preserveAspectRatio": "Préserver le rapport d'aspect"
+  },
+  "cropMarks": {
+    "cropMarks": "Marques d'imprimerie",
+    "drawCropMarks": "Tracer des repères de coupe",
+    "drawCenterMarks": "Tracer des marques de centre",
+    "lineLength": "Longueur de la ligne",
+    "lineThickness": "Épaisseur de la ligne",
+    "lineDistance": "Distance entre les lignes",
+    "fourColorBlack": "Noir quatre couleurs",
+    "fourColorBlackHelp": "Lorsque cette case est cochée, les repères de coupe sont dessinés avec de l'encre cyan, magenta, jaune et noire. Lorsque cette case n'est pas cochée, les repères de coupe sont dessinés uniquement à l'encre noire."
+  },
+  "bleeds": {
+    "bleeds": "Saignements",
+    "noBleeds": "Pas de saignement",
+    "pullBleeds": "Retirer les informations de saignement du document",
+    "fixedBleeds": "Bords fixes",
+    "leftAndRight": "Gauche et droite",
+    "topAndBottom": "Haut et bas"
+  },
+  "booklet": {
+    "bookBinding": "Reliure du livre",
+    "saddleSize": "Taille de la selle: {count} feuilles",
+    "fillLastSaddle": "Remplir la dernière selle",
+    "scale": "Échelle",
+    "help": {
+      "intro": "L'outil Booklet de PDF Snake réorganise les pages pour en faire un livret. Il les mélange d'abord dans l'ordre des pages du livre, puis place deux pages côte à côte sur chaque feuille de papier. Le document ainsi obtenu peut être plié et agrafé en son milieu pour constituer une brochure ou un livre.",
+      "step0": "Les livres sont reliés selon le procédé suivant:",
+      "step1": "Les feuilles sont imprimées en recto-verso.",
+      "step2": "Les feuilles sont mises en piles de N, généralement autour de 5 feuilles.",
+      "step3": "Chaque pile est pliée en deux.",
+      "step4": "Les piles sont collées et/ou cousues ensemble",
+      "step5": "Les bords libres des pages sont coupés pour que toutes les pages soient à fleur.",
+      "saddleSize": "Taille de la selle",
+      "saddleSizeHelp": "Le nombre de feuilles à mettre dans chaque pile et à plier. Lorsqu'il est laissé vide, toutes les feuilles sont mises dans une seule pile",
+      "fillLastSaddleHtml": "Souvent, il y aura un nombre impair de pages dans le document source, et le dernier pli aura quelques pages vides. Lorsque <strong>Remplir la dernière selle</strong> est coché, des pages vierges seront ajoutées afin que tous les plis aient le même nombre de feuilles. Lorsqu'elle n'est pas cochée, le dernier pli peut comporter moins de feuilles que les autres",
+      "pageCreepHtml": "À l'étape 5 du processus de reliure des livres énumérés ci-dessus, les pages sont coupées pour que les bords libres soient affleurants. On coupe plus de papier dans la feuille située au centre du pli que dans la feuille située à l'extérieur du pli, car son bord dépasse davantage. Ce phénomène est appelé <i>page creep</i>. Pour compenser ce phénomène et faire en sorte que toutes les pages apparaissent dans la même position une fois le livre relié et coupé, les pages doivent être légèrement ajustées, en fonction de facteurs tels que l'épaisseur du papier. Chaque page est légèrement ajustée par la valeur définie dans <strong>Page Creep</strong>. Pour comprendre exactement ce que cela fait, essayez de régler <strong>Page Creep</strong> sur un demi-pouce, soit environ dix millimètres, et regardez les résultats."
+    }
+  },
+  "rotate": {
+    "rotation": "Rotation",
+    "degrees": "degrés",
+    "degreesHelp": "L'angle de rotation des pages.",
+    "help": "L'outil de rotation de PDF Snake fait pivoter les pages à n'importe quel degré."
+  },
+  "pageRange": {
+    "pageRange": "Pages",
+    "help": {
+      "intro": "Les plages de pages sont généralement spécifiées dans le format suivant:",
+      "generalExample": "premier-dernier impair? pair?",
+      "someExamples": "Cependant, la meilleure façon de comprendre comment spécifier des plages de pages est de regarder quelques exemples:",
+      "allThePages": "toutes les pages du document",
+      "pages-3-10-15": "pages 3, 10 et 15",
+      "pages-10-15": "pages 10 à 15 (6 pages)",
+      "pages-3-4-10-15": "pages 3, 4, et 10 à 15 (8 pages)",
+      "pages-10-15-even": "pages 10, 12 et 14",
+      "pages-10-15-odd": "pages 11, 13 et 15",
+      "pages-10-odd": "toutes les pages impaires après la page 10",
+      "pages-1-10-even-10-odd": "les pages 2, 4, 6, 8, 10 et toutes les pages impaires après la page 10.",
+      "pages-even": "toutes les pages numérotées paires"
+    }
+  },
+  "shuffle": {
+    "note": "Remarque: Utilisez {link} pour fusionner les pages de plusieurs documents.",
+    "help": {
+      "intro": "L'outil de brassage de PDF Snake permet de mélanger les pages d'un document. En une seule étape, il peut réorganiser les pages, supprimer les pages, dupliquer les pages, ajouter des pages vierges et faire pivoter les pages.",
+      "format": "Les ordres de page sont généralement spécifiés dans le format suivant, très similaire au format de la plage de pages.",
+      "allThePages": "toutes les pages du document, dans le même ordre",
+      "theLastPage": "la dernière page du document",
+      "theSecondToLastPage": "l'avant-dernière page du document",
+      "pages-15-10-3": "pages 15, 10, et 3",
+      "pages-15-10": "les pages 10 à 15 en ordre inverse (6 pages)",
+      "allReversed": "toutes les pages du document dans l'ordre inverse",
+      "pages-15-10-odd": "pages 15, 13, et 11",
+      "pages-odd-even": "toutes les pages impaires suivies de toutes les pages paires",
+      "pages-odd-1-even": "toutes les pages impaires suivies de toutes les pages paires dans l'ordre inverse",
+      "pages-5-1": "cinq copies de la première page",
+      "pages-2-odd-even-8": "toutes les pages impaires, puis toutes les pages paires, puis à nouveau toutes les pages impaires, puis à nouveau toutes les pages paires, puis la page 8",
+      "pages-all-all": "2 copies de la page 1, 2 copies de la page 2, 2 copies de la page 3, etc.",
+      "pages-square-odd-even": "toutes les pages dans l'ordre normal",
+      "rotateIntro": "PDF Snake peut faire pivoter les pages lorsqu'il les mélange. Utilisez les symboles suivants après le numéro de page pour spécifier la rotation:",
+      "rotate90": "tourner de 90 degrés dans le sens des aiguilles d'une montre",
+      "rotate180": "tourner de 180 degrés",
+      "rotate270": "tourner de 270 degrés dans le sens des aiguilles d'une montre (90 degrés dans le sens inverse des aiguilles d'une montre)",
+      "allUpsideDown": "toutes les pages du document, à l'envers",
+      "pages-1-2-3-4": "page 1, page 2 tournée de 90 degrés dans le sens des aiguilles d'une montre, page 3 à l'envers, page 4 tournée de 90 degrés dans le sens inverse des aiguilles d'une montre.",
+      "groupIntro": "Le PDF Snake peut répéter un motif de brassage de nombreuses fois sur le même document. Par exemple:",
+      "pages-group-3": "pour un document de six pages, donne l'ordre des pages 3 2 1 6 5 4",
+      "blankIntro": "PDF Snake insère des pages blanches chaque fois que vous saisissez un X :",
+      "pages-1-X-3": "page 1, une page blanche, page 3"
+    }
+  },
+  "pages": {
+    "zoomIn": "Zoom avant",
+    "zoomOut": "Zoom arrière",
+    "download": "Télécharger le PDF",
+    "viewFirst": "Voir les premières {count} pages",
+    "viewPrevious": "Voir les pages précédentes {count}",
+    "pageRange": "{first}-{last}",
+    "viewNext": "Voir les pages suivantes {count}",
+    "viewFinal": "Voir les pages finales {count}",
+    "recalculating": "Recalculer..."
+  },
+  "home": {
+    "step": "Étape {number}: {name}",
+    "help": "Aide",
+    "saveAs": "Enregistrer ces étapes sous:",
+    "cancel": "Annuler",
+    "saved": "Sauvegardé {name}",
+    "addStep": "Ajouter une étape",
+    "saveSteps": "Sauver les étapes"
+  },
+  "error": {
+    "notEmpty": "ne doit pas être vide",
+    "greaterThanZero": "doit être supérieure à 0",
+    "atLeastZero": "doit être au moins égal à 0",
+    "aNumber": "doit être un nombre",
+    "atLeastOne": "doit être d'au moins 1",
+    "aWholeNumber": "doit être un nombre entier",
+    "duplicatePaperSizeName": "'{name}' est déjà le nom d'un format de papier",
+    "badRange": "Je suis confus ici :",
+    "reading": "Erreur de lecture de {nomdufichier} :",
+    "error": "Erreur: {msg}",
+    "encrypted": "{fileName} est crypté.  Je ne peux pas copier les pages de documents cryptés."
+  },
+  "paperSizes": {
+    "paperSizes": "Formats de papier",
+    "name": "Nom",
+    "add": "Ajouter",
+    "remove": "Supprimer {name}",
+    "restoreDefaults": "Restaurer les valeurs par défaut"
+  },
+  "range": {
+    "all": "tous",
+    "first": "premier",
+    "last": "dernier",
+    "odd": "impair",
+    "even": "même",
+    "group": "groupe"
+  },
+  "crop": {
+    "help": {
+      "intro": "L'outil de recadrage de PDF Snake recadre les bords des pages.",
+      "edgeList": "Haut, gauche, droite, bas",
+      "amount": "Le montant pour recadrer chaque bord."
+    }
+  },
+  "resize": {
+    "help": {
+      "intro": "L'outil de redimensionnement de PDF Snake permet de rétrécir ou d'agrandir le contenu des pages pour s'adapter à n'importe quelle taille de papier",
+      "preserveAspectRatio": " Lorsque cette case est cochée, préserve le rapport hauteur/largeur des pages du document source. Si cette case n'est pas cochée, les pages peuvent être considérablement étirées, que ce soit horizontalement ou verticalement."   
+}
+  },
+  "impose": {
+    "help": {
+      "margin": "marge",
+      "bleed": "saignement",
+      "cropMarks": "marques de culture",
+      "gutter": "gouttière",
+      "lineDistance": "distance de la ligne",
+      "centerMarks": "marques centrales",
+      "lineLength": "longueur de la ligne",
+      "measurementsList": "Marges, marques de rognage, marques de centrage, longueur de ligne, épaisseur de ligne, distance de ligne, fonds perdus",
+      "measurementsIntro": "Le reste des valeurs de la boîte de dialogue est expliqué par cette image :"
+    }
+  },
+  "grid": {
+    "help": {
+      "intro": "L'outil Grille de PDF Snake impose des pages selon un modèle fixe.  Il réorganise également les pages afin qu'elles soient imprimées en recto-verso ou qu'elles puissent être coupées et empilées."
+    }
+  },
+  "monkey": {
+    "help": {
+      "intro": "L'outil PDF Snake's Monkey impose des pages selon un modèle variable.  Il trouve le modèle optimal pour faire tenir autant de pages sources que possible sur une seule page de sortie."
+    }
+  },
+  "help": {
+    "intro": "PDF Snake possède tous les outils nécessaires pour préparer votre document à l'impression.",
+    "bookletHtml": "<b>Le livret</b> réordonne et impose des pages 2-up pour que le résultat puisse être imprimé, empilé et plié en deux.",
+    "gridHtml": "<b>Grille</b> impose des pages selon un modèle fixe. Il réordonne également les pages pour qu'elles sortent en recto-verso, ou qu'elles puissent être coupées et empilées.",
+    "monkeyHtml": "<b>Monkey</b> trouve le motif optimal pour faire tenir le plus de pages sur une seule feuille.",
+    "resizeHtml": "<b>Redimensionner</b> étire et rétrécit le contenu de la page pour l'adapter à n'importe quel format de papier.",
+    "rotateHtml": "<b>Tourner</b> fait tourner les pages de n'importe quel degré.",
+    "cropHtml": "<b>Récolte</b> recouvre les bords des pages.",
+    "shuffleHtml": " <b>Mélange</b> réorganise l'ordre des pages et fait tourner les pages. "
+  },
+  "account": {
+    "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
+    "subscribersCan": "Les abonnés peuvent télécharger un nombre illimité de documents pour seulement {monthlyPrice} par mois.",
+    "signOut": "Déconnexion",
+    "thankYouForSubscribing": "Merci de vous être abonné",
+    "downloadAsMany": "Téléchargez autant de fichiers que vous le souhaitez!",
+    "connectingToStripe": "Connexion à Stripe...",
+    "manageMySubscription": "Gérer mon abonnement",
+    "subscriptionEnded": "Votre abonnement a pris fin",
+    "subscriptionEndedOn": "Votre abonnement a pris fin le {date}.",
+    "freeTrial": "Essai gratuit",
+    "freeTrialWillEndOn": "Votre essai gratuit se terminera le {date}.",
+    "freeTrialEndedOn": "Votre essai gratuit a pris fin le {date}.",
+    "youAreEligibleForFreeTrial": " Félicitations !  Vous avez droit à un essai gratuit de 10 jours.  Vous pouvez télécharger un nombre illimité de documents pendant la période d'essai gratuite.",
+    "beginMyFreeTrialNow": "Commencez mon essai gratuit maintenant",
+    "subscribe": "S'abonner",
+    "subscribersCanDownload": "Les abonnés peuvent télécharger un nombre illimité de documents pour",
+    "perMonth": "{price} par mois",
+    "perYear": "{price} par an",
+    "subscribeNow": "Abonnez-vous maintenant",
+    "stripeError": "Une erreur s'est produite : {msg}"
+  },
+  "helpFor": {
+    "noHelp": "Il n'y a pas de rubrique d'aide nommée {topic}."
+  },
+  "cookieNotice": {
+    "privacyLink": "Ce site web utilise des cookies conformément à notre {lien}.",
+    "okButton": "Ok"
+  },
+  "download": {
+    "downloadTitle": "Télécharger",
+    "subscriptionEnded": "Votre abonnement a pris fin.",
+    "freeTrialEnded": "Votre essai gratuit est terminé.",
+    "youCanDownload8hours": "Vous pouvez télécharger un document toutes les 8 heures.",
+    "anonymousCanDownload8hours": "Les utilisateurs anonymes peuvent télécharger un document toutes les 8 heures.",
+    "youCanDownloadNext": "Vous pouvez télécharger votre prochain document à {date}.",
+    "downloadNowButton": "Télécharger maintenant",
+    "signedInCanDownload10days": "Les utilisateurs inscrits peuvent télécharger un nombre illimité de documents pendant 10 jours.",
+    "subscribersCanDownloadUnlimited": "Les abonnés peuvent télécharger un nombre illimité de documents."
+  }
+}
