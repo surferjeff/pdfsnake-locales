@@ -33,7 +33,7 @@
     "monkey": "Varias páginas por hoja",
     "resize": "Redimensionar",
     "crop": "Recortar",
-    "rotate": "Girar",
+    "rotate": "Rotar",
     "shuffle": "Barajar"
   },
   "pageSize": {
@@ -44,7 +44,7 @@
     "height": "Altura",
     "landscape": "Paisaje",
     "help": {
-      "introHtml": "El tamaño de papel para el documento resultante. Para especificar un tamaño de papel no listado anteriormente, seleccione <strong>Personalizado</strong>en elcuadro<strong>Tamaño de papel</strong>, y luego ingrese las dimensiones de la página en los cuadros de <strong>Anchura</strong>y<strong>Altura</strong>.",
+      "introHtml": "El tamaño de papel para el documento resultante. Para especificar un tamaño de papel no listado anteriormente, seleccione <strong>Personalizado</strong> en el cuadro <strong> Tamaño de papel </strong>, y luego ingrese las dimensiones de la página en los cuadros de <strong> Anchura </strong> y <strong> Altura </strong>.",
       "width": "La anchura de las páginas en el documento resultante. Debe ser mayor que cero.",
       "height": "La altura de las páginas en el documento resultante. Debe ser mayor que cero.",
       "landscapeHtml": "Cuando está marcada, intercambia los valores de la anchura y largura al crear páginas en el documento resultante. Por ejemplo, si <strong>Carta</strong> está seleccionada y <strong>Paisaje</strong> no está marcada, entonces, las páginas resultantes serán de 216 x 279mm. Si <strong>Paisaje</strong> está marcada, entonces, las páginas resultantes serán de 279 x 216mm."
@@ -128,10 +128,10 @@
     }
   },
   "rotate": {
-    "rotation": "Rotación",
+    "rotation": "Rotar",
     "degrees": "grados",
     "degreesHelp": "El ángulo al cual rotar las páginas.",
-    "help": " La herramienta Rotación de PDF Snake rota las páginas en cualquier grado."
+    "help": " La herramienta Rotar de PDF Snake rota las páginas en cualquier grado."
   },
   "pageRange": {
     "pageRange": "Páginas",
