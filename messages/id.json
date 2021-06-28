@@ -136,7 +136,7 @@
   "pageRange": {
     "pageRange": "Halaman",
     "help": {
-      "intro": "Cakupan halaman biasanya ditentukan dalam format berikut ini (<i>odd</i> = ganjil, <i>even</i> = genap):",
+      "intro": "Cakupan halaman biasanya ditentukan dalam format berikut ini (odd = ganjil, even = genap):",
       "generalExample": "pertama-terakhir odd? even?",
       "someExamples": "Namun, cara terbaik untuk mengerti cara menentukan cakupan halaman adalah dengan melihat beberapa contoh:",
       "allThePages": "semua halaman dalam dokumen",
