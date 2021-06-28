@@ -77,18 +77,18 @@
     "vertical": "عمودي",
     "gutters": "هوامش التوثيق:",
     "center": "توسيط في الصفحة",
-    "centerGutter": "توسيط هامش التوثيق",
-    "pageCreep": "Page Creep"
+    "centerGutter": "هامش توثيق المركز",
+    "pageCreep": "تسلق الصفحة"
    },
   "layout": {
-    "layout": "Layout",
-    "columns": "Columns",
-    "rows": "Rows"
+    "layout": "تخطيط",
+    "columns": "أعمدة",
+    "rows": "صفوف"
   },
   "autoscale": {
-    "autoscale": "Autoscale",
-    "autoscaleHelp": "When checked, pages are scaled to the largest size possible, while still fitting within the margins and gutters.",
-    "preserveAspectRatio": "Preserve aspect ratio"
+    "autoscale": "ضبط تلقائي للحجم",
+    "autoscaleHelp": "عند التفعيل، سيتم ضبط حجم الصفحات إلى أكبر حجم ممكن مع مراعاة ترك مسافات الهوامش وهوامش التوثيق.",
+    "preserveAspectRatio": "المحافظة على تناسب الطول مع العرض"
   },
   "cropMarks": {
     "cropMarks": "Printer's Marks",
