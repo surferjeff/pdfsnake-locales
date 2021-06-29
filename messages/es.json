@@ -7,7 +7,7 @@
   },
   "topNav" : {
     "home": "Inicio",
-    "about": "Acerca de",
+    "about": "Sobre",
     "signIn": "Iniciar sesión",
     "myAccount": "Mi cuenta"
   },
@@ -114,7 +114,7 @@
     "fillLastSaddle": "Completar último pliego",
     "scale": "Escala",
     "help": {
-      "intro": " La herramienta Cuadernillo de PDF Snake reorganiza las páginas para crear un cuadernillo. Lo primero que hace es barajarlas de tal manera que queden en orden por número de página de libro, posteriormente, ubica dos páginas lado a lado en cada hoja de papel. El documento resultante puede ser doblado y grapado en la mitad para hacer un cuadernillo o un libro.",
+      "intro": "La herramienta Cuadernillo de PDF Snake reorganiza las páginas para crear un cuadernillo. Lo primero que hace es barajarlas de tal manera que queden en orden por número de página de libro, posteriormente, ubica dos páginas lado a lado en cada hoja de papel. El documento resultante puede ser doblado y grapado en la mitad para hacer un cuadernillo o un libro.",
       "step0": "Los libros se encuadernan mediante el siguiente proceso:",
       "step1": "La hojas se imprimen de 2 en 1, a doble cara.",
       "step2": "Las hojas se organizan en pilas de N, usualmente alrededor de 5 hojas.",
