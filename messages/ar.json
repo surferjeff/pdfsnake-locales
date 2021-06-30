@@ -116,12 +116,12 @@
     "help": {
       "intro": "أداة الكتيب في PDF Snake تعيد ترتيب الصفحات بما يوافق طريقة طباعة الكتاب. في البداية يتم ترتيب الصفحات بحسب ترتيب الكتاب، ثم يتم وضع كل صفحتين بجوار بعضهما في ورقة واحدة. يكون المستند الناتج جاهزًا للطي والتثبيت من المنتصف لعمل كتيب أو كتاب.",
       "step0": "يتم تجميع الكتب وفقًا للخطوات التالية:",
-      "step1": "Sheets are printed 2 up, double sided.",
-      "step2": "Sheets are put into stacks of N, usually around 5 sheets.",
-      "step3": "Each stack is folded in half.",
-      "step4": "The stacks are glued and/or stitched together.",
-      "step5": "The free edges of the pages are cut to make all the pages flush.",
-      "saddleSize": "Saddle size",
+      "step1": "تتم طباعة صفحتين على كل الوجه العلوي وصفحتين على الوجه الخلفي من كل ورقة.",
+      "step2": "يتم تجميع الأوراق في رزم مكونة من عدد محدد من الأوراق، عادة ما تكون 5 أوراق.",
+      "step3": "تُطوى كل رزمة من المنتصف.",
+      "step4": "تُجمع الرزم باستخدام مادة لاصقة أو بتثبيتها بالخيط أو بكلا الطريقتين.",
+      "step5": "تُقص الحواف الزائدة لتكون حواف كافة الصفحات على مستوى واحد.",
+      "saddleSize": "حجم الرزمة",
       "saddleSizeHelp": "The number of sheets to put into each stack and fold. When left empty, all the sheets are put into a single stack.",
       "fillLastSaddleHtml": "Often, there will be an odd number of pages in the source document, and the last fold will have some empty pages. When <strong>Fill last saddle</strong> is checked, blank pages will be added so that all folds will have the same number of sheets. When it is not checked, the last fold may have fewer sheets than the rest.",
       "pageCreepHtml": "In Step 5 of the book binding process listed above, the pages are cut to make the free edges flush. More paper is cut from the sheet in the center of the fold than from the sheet on the outside of the fold, because its edge sticks out more. This is called <i>page creep</i>. In order to compensate for this, and have all the pages appear in the same position after the book is bound and cut, the pages must be slightly adjusted, depending on factors such as paper thickness. Each page is slightly adjusted by the value set in <strong>Page Creep</strong>. To understand exactly what this does, try setting <strong>Page Creep</strong> to half an inch, or about ten millimeters, and look at the results."
