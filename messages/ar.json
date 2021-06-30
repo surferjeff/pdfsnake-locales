@@ -114,8 +114,8 @@
     "fillLastSaddle": "ملء الرزمة الأخيرة",
     "scale": "القياس",
     "help": {
-      "intro": "PDF Snake's Booklet tool re-arranges pages to make a booklet. It first shuffles them into book page order, and then puts two pages side by side on each sheet of paper. The resulting document can be folded and stapled down the middle to make a booklet or book.",
-      "step0": "Books are bound using the following process:",
+      "intro": "أداة الكتيب في PDF Snake تعيد ترتيب الصفحات بما يوافق طريقة طباعة الكتاب. في البداية يتم ترتيب الصفحات بحسب ترتيب الكتاب، ثم يتم وضع كل صفحتين بجوار بعضهما في ورقة واحدة. يكون المستند الناتج جاهزًا للطي والتثبيت من المنتصف لعمل كتيب أو كتاب.",
+      "step0": "يتم تجميع الكتب وفقًا للخطوات التالية:",
       "step1": "Sheets are printed 2 up, double sided.",
       "step2": "Sheets are put into stacks of N, usually around 5 sheets.",
       "step3": "Each stack is folded in half.",
