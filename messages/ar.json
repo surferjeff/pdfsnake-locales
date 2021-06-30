@@ -86,9 +86,9 @@
     "rows": "صفوف"
   },
   "autoscale": {
-    "autoscale": "ضبط تلقائي للحجم",
+    "autoscale": "ضبط الحجم تلقائيًا",
     "autoscaleHelp": "عند التفعيل، سيتم ضبط حجم الصفحات إلى أكبر حجم ممكن مع مراعاة ترك مسافات الهوامش وهوامش التوثيق.",
-    "preserveAspectRatio": "المحافظة على تناسب الطول مع العرض"
+    "preserveAspectRatio": "تأمين نسبة الارتفاع إلى العرض"
   },
   "cropMarks": {
     "cropMarks": "علامات الطابعة",
@@ -109,10 +109,10 @@
     "topAndBottom": "أعلى وأسفل"
   },
   "booklet": {
-    "bookBinding": "Book Binding",
-    "saddleSize": "Saddle size: {count} sheets",
-    "fillLastSaddle": "Fill last saddle",
-    "scale": "Scale",
+    "bookBinding": "تجميع الكتاب",
+    "saddleSize": "حجم الرزمة: {count} أوراق",
+    "fillLastSaddle": "ملء الرزمة الأخيرة",
+    "scale": "القياس",
     "help": {
       "intro": "PDF Snake's Booklet tool re-arranges pages to make a booklet. It first shuffles them into book page order, and then puts two pages side by side on each sheet of paper. The resulting document can be folded and stapled down the middle to make a booklet or book.",
       "step0": "Books are bound using the following process:",
