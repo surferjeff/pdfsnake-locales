@@ -130,11 +130,11 @@
   "rotate": {
     "rotation": "تدوير",
     "degrees": "درجة",
-    "degreesHelp": "The angle to rotate the pages by.",
-    "help": "PDF Snake's Rotate tool rotates pages by any degree."
+    "degreesHelp": "الزاوية المطلوبة في استدارة الصفحات.",
+    "help": "تمكنك أداة التدوير من PDF Snake من تدوير الصفحات بأي زاوية ترغب بها."
   },
   "pageRange": {
-    "pageRange": "Pages",
+    "pageRange": "الصفحات",
     "help": {
       "intro": "Page ranges are generally specified in the following format:",
       "generalExample": "first-last odd? even?",
