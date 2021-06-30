@@ -128,8 +128,8 @@
     }
   },
   "rotate": {
-    "rotation": "Rotation",
-    "degrees": "degrees",
+    "rotation": "تدوير",
+    "degrees": "درجة",
     "degreesHelp": "The angle to rotate the pages by.",
     "help": "PDF Snake's Rotate tool rotates pages by any degree."
   },
