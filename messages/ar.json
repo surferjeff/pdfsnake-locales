@@ -122,8 +122,8 @@
       "step4": "تُجمع الرزم باستخدام مادة لاصقة أو بتثبيتها بالخيط أو بكلا الطريقتين.",
       "step5": "تُقص الحواف الزائدة لتكون حواف كافة الصفحات على مستوى واحد.",
       "saddleSize": "حجم الرزمة",
-      "saddleSizeHelp": "The number of sheets to put into each stack and fold. When left empty, all the sheets are put into a single stack.",
-      "fillLastSaddleHtml": "Often, there will be an odd number of pages in the source document, and the last fold will have some empty pages. When <strong>Fill last saddle</strong> is checked, blank pages will be added so that all folds will have the same number of sheets. When it is not checked, the last fold may have fewer sheets than the rest.",
+      "saddleSizeHelp": "عدد الأوراق التي سيتم تجميعها وطيها في الرزمة الواحدة. إذا تُركت فارغة، سيتم تجميع كافة أوراق المستند في رزمة واحدة.",
+      "fillLastSaddleHtml": "عادةً ما يكون عدد صفحات المستند الأصلي فرديًا، ولذا تُضاف بعض الصفحات الفارغة للرزمة الأخيرة. عند تفعيل خيار <strong>ملء الرزمة الأخيرة</strong>، سيتم إضافة هذه الصفحات الفارغة ليتساوى حجم الرزمة الأخيرة مع حجم باقي الرزم. إذا لم يتم تفعيل هذا الخيار، قد يكون عدد صفحات الرزمة الأخيرة أقل من عدد صفحات الرزم الأخرى.",
       "pageCreepHtml": "In Step 5 of the book binding process listed above, the pages are cut to make the free edges flush. More paper is cut from the sheet in the center of the fold than from the sheet on the outside of the fold, because its edge sticks out more. This is called <i>page creep</i>. In order to compensate for this, and have all the pages appear in the same position after the book is bound and cut, the pages must be slightly adjusted, depending on factors such as paper thickness. Each page is slightly adjusted by the value set in <strong>Page Creep</strong>. To understand exactly what this does, try setting <strong>Page Creep</strong> to half an inch, or about ten millimeters, and look at the results."
     }
   },
