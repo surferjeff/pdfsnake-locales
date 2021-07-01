@@ -136,24 +136,25 @@
   "pageRange": {
     "pageRange": "الصفحات",
     "help": {
-      "intro": "Page ranges are generally specified in the following format:",
-      "generalExample": "first-last odd? even?",
-      "someExamples": "However, the best way to understand how to specify page ranges is to look at some examples:",
-      "allThePages": "all the pages in the document",
-      "pages-3-10-15": "pages 3, 10, and 15",
-      "pages-10-15": "pages 10 through 15 (6 pages)",
-      "pages-3-4-10-15": "pages 3, 4, and 10 through 15 (8 pages)",
-      "pages-10-15-even": "pages 10, 12, and 14",
-      "pages-10-15-odd": "pages 11, 13, and 15",
-      "pages-10-odd": "all the odd numbered pages after page 10",
-      "pages-1-10-even-10-odd": "pages 2, 4, 6, 8, 10 and all the odd numbered pages after page 10",
-      "pages-even": "all the even numbered pages"
+      "intro": "يتم تحديد نطاق الصفحات وفقًا للتنسيق التالي:",
+      "generalExample": "صفحة البداية-صفحة النهاية فردي؟ زوجي؟",
+      "someExamples": "اطلع على هذه الأمثلة لفهم طريقة تحديد نطاق الصفحات:",
+      "allThePages": "كافة صفحات المستند",
+      "pages-3-10-15": "الصفحات 3 و10 و15",
+      "pages-10-15": "من صفحة 10 حتى صفحة 15 (6 صفحات)",
+      "pages-3-4-10-15": "الصفحات 3 و4 ومن صفحة 10 حتى صفحة 15 (8 صفحات)",
+      "pages-10-15-even": "الصفحات 10 و12 و14",
+      "pages-10-15-odd": "الصفحات 11 و13 و15",
+      "pages-10-odd": "كافة الصفحات الفردية التي يقع ترتيبها بعد صفحة 10",
+      "pages-1-10-even-10-odd": "الصفحات 2 و4 و6 و8 و10 بالإضافة إلى كافة الصفحات الفردية التي يقع ترتيبها بعد صفحة 10",
+      "pages-even": "كافة الصفحات الزوجية"
     }
   },
   "shuffle": {
-    "note": "Note: Use {link} to merge pages from multiple documents.",
+    "note": "ملاحظة: ادمج صفحات عدة مستندات باستخدام {link}.",
     "help": {
-      "intro": "PDF Snake's Shuffle tool shuffles the pages in a document. All in one step it can reorder the pages, delete pages duplicate pages, add blank pages, and rotate pages.",
+      "intro": "
+      PDF Snake's Shuffle tool shuffles the pages in a document. All in one step it can reorder the pages, delete pages duplicate pages, add blank pages, and rotate pages.",
       "format": "Page orders are generally specified in the following format, very similar to the page range format.",
       "allThePages": "all the pages in the document, in the same order",
       "theLastPage": "the last page in the document",
