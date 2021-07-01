@@ -266,41 +266,41 @@
   },
   "help": {
     "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
-    "bookletHtml": "<b>Booklet</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
-    "gridHtml": "<b>Grid</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
-    "monkeyHtml": "<b>Monkey</b> finds the optimal pattern to fit the most pages onto a single sheet.",
-    "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
-    "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
-    "cropHtml": "<b>Crop</b> crops the edges of pages.",
-    "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages."
+    "bookletHtml": "<b>كتيب</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
+    "gridHtml": "<b>شبكة</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
+    "monkeyHtml": "<b>النمط الأمثل</b> تطبيق النمط المثالي لإدراج أكبر عدد من الصفحات في ورقة واحدة.",
+    "resizeHtml": "<b>ضبط الحجم</b> تكبير وتصغير محتوى الصفحات ليناسب أبعاد أي ورقة.",
+    "rotateHtml": "<b>تدوير</b> استدارة الصفحات بأي زاوية.",
+    "cropHtml": "<b>اقتصاص</b> قص حواف الصفحات.",
+    "shuffleHtml": "<b>ترتيب عشوائي</b> إعادة ترتيب الصفحات وتدويرها."
   },
   "account": {
-    "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
-    "subscribersCan": "Subscribers can download unlimited documents for only {monthlyPrice} per month.",
-    "signOut": "Sign Out",
-    "thankYouForSubscribing": "Thank You For Subscribing",
+    "signedInUsersCan": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات خلال فترة الـ 10 أيام التجريبية المجانية.",
+    "subscribersCan": "يمكن للمشتركين تحميل عدد غير محدود من المستندات مقابل {monthlyPrice} فقط شهريًا.",
+    "signOut": "تسجيل الخروج",
+    "thankYouForSubscribing": "شكرًا لك على الاشتراك!",
     "downloadAsMany": "Download as many files as you want!",
     "connectingToStripe": "Connecting to Stripe...",
-    "manageMySubscription": "Manage My Subscription",
-    "subscriptionEnded": "Your Subscription Has Ended",
-    "subscriptionEndedOn": "Your subscription ended on {date}.",
-    "freeTrial": "Free Trial",
-    "freeTrialWillEndOn": "Your free trial will end on {date}.",
-    "freeTrialEndedOn": "Your free trial ended on {date}.",
+    "manageMySubscription": "إدارة اشتراكي",
+    "subscriptionEnded": "انتهى اشتراكك",
+    "subscriptionEndedOn": "انتهى اشتراكك في {date}.",
+    "freeTrial": "تجربة مجانية",
+    "freeTrialWillEndOn": "ستنتهي فترتك التجريبية المجانية في {date}.",
+    "freeTrialEndedOn": "انتهت فترتك التجريبية المجانية في {date}.",
     "youAreEligibleForFreeTrial": "Congratulations!  You are eligible for a 10-day free trial.  You can download unlimited documents during the free trial.",
-    "beginMyFreeTrialNow": "Begin My Free Trial Now",
-    "subscribe": "Subscribe",
-    "subscribersCanDownload": "Subscribers can download unlimited documents for",
-    "perMonth": "{price} per month",
-    "perYear": "{price} per year",
-    "subscribeNow": "Subscribe Now",
-    "stripeError": "An error occurred: {msg}"
+    "beginMyFreeTrialNow": "بدء التجربة المجانية الآن",
+    "subscribe": "اشتراك",
+    "subscribersCanDownload": "يمكن للمشتركين تنزيل عدد غير محدود من المستندات لمدة",
+    "perMonth": "{price} في الشهر",
+    "perYear": "{price} في السنة",
+    "subscribeNow": "اشترك الآن",
+    "stripeError": "حدث خطأ ما: {msg}"
   },
   "helpFor": {
-    "noHelp": "There's no help topic named {topic}."
+    "noHelp": "لا يوجد مقال مساعدة بعنوان {topic}."
   },
   "cookieNotice": {
-    "privacyLink": "This website uses cookies in accordance with our {link}.",
+    "privacyLink": "يستخدم هذا الموقع ملفات تعريف الارتباط وفقًا لـ {link}.",
     "okButton": "حسنًا"
   },
   "download": {
