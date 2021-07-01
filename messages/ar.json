@@ -301,17 +301,17 @@
   },
   "cookieNotice": {
     "privacyLink": "This website uses cookies in accordance with our {link}.",
-    "okButton": "Ok"
+    "okButton": "حسنًا"
   },
   "download": {
-    "downloadTitle": "Download",
-    "subscriptionEnded": "Your subscription ended.",
-    "freeTrialEnded": "Your free trial ended.",
-    "youCanDownload8hours": "You can download one document every 8 hours.",
-    "anonymousCanDownload8hours": "Anonymous users can download one document every 8 hours.",
-    "youCanDownloadNext": "You can download your next document at {date}.",
-    "downloadNowButton": "Download Now",
-    "signedInCanDownload10days": "Signed-in users can download unlimited documents for 10 days.",
-    "subscribersCanDownloadUnlimited": "Subscribers can download unlimited documents."
+    "downloadTitle": "تنزيل",
+    "subscriptionEnded": "انتهى اشتراكك.",
+    "freeTrialEnded": "انتهت فترتك التجريبية المجانية.",
+    "youCanDownload8hours": "بإمكانك تنزيل مستند واحد كل 8 ساعات.",
+    "anonymousCanDownload8hours": "يمكن للمستخدمين غير المسجلين تنزيل مستند واحد كل 8 ساعات.",
+    "youCanDownloadNext": "يمكن تنزيل المستند التالي في {date}.",
+    "downloadNowButton": "تنزيل الآن",
+    "signedInCanDownload10days": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات لمدة 10 أيام.",
+    "subscribersCanDownloadUnlimited": "يمكن للمشتركين تحميل عدد غير محدود من المستندات."
   }
 }
