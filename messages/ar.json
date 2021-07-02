@@ -173,22 +173,22 @@
       "rotate180": "استدارة 180 درجة",
       "rotate270": "استدارة 270 درجة باتجاه عقارب الساعة (90 درجة عكس اتجاه عقارب الساعة)",
       "allUpsideDown": "قلب كافة صفحات المستند من أعلى لأسفل",
-      "pages-1-2-3-4": "page 1, page 2 rotated 90 degrees clockwise, page 3 upside down, page 4 rotated 90 degrees counter-clockwise.",
-      "groupIntro": "PDF Snake can repeat a shuffle pattern many times over the same document.  For example:",
-      "pages-group-3": "for a six page document, yields the page order 3 2 1 6 5 4",
-      "blankIntro": "PDF Snake will insert blank pages whenever you enter an X:",
-      "pages-1-X-3": "page 1, a blank page, page 3"
+      "pages-1-2-3-4": "صفحة 1، صفحة 2 باستدارة 90 درجة باتجاه عقارب الساعة، صفحة 3 مقلوبة من أعلى إلى أسفل، صفحة 4 باستدارة 90 درجة عكس اتجاه عقارب الساعة.",
+      "groupIntro": "يتيح لك PDF Snake تكرار نمط ترتيب معين مرات كثيرة على نفس المستند. مثال:",
+      "pages-group-3": "لمستند مكون من 6 صفحات، يكون الترتيب الناتج 3 2 1 6 5 4",
+      "blankIntro": "يضيف PDF Snake صفحات فارغة عندما تدخل الحرف X: ",
+      "pages-1-X-3": "صفحة 1، صفحة فارغة، صفحة 3"
     }
   },
   "pages": {
-    "zoomIn": "Zoom in",
-    "zoomOut": "Zoom out",
-    "download": "Download PDF",
-    "viewFirst": "View first {count} pages",
-    "viewPrevious": "View previous {count} pages",
+    "zoomIn": "تكبير",
+    "zoomOut": "تصغير",
+    "download": "تنزيل الـ PDF",
+    "viewFirst": "إظهار أول {count} صفحات",
+    "viewPrevious": "إظهار الـ {count} صفحات السابقة",
     "pageRange": "{first}-{last}",
-    "viewNext": "View next {count} pages",
-    "viewFinal": "View final {count} pages",
+    "viewNext": "إظهار الـ {count} صفحات التالية",
+    "viewFinal": "إظهار آخر {count} صفحات",
     "recalculating": "Recalculating..."
   },
   "home": {
