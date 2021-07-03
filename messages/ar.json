@@ -201,38 +201,38 @@
     "saveSteps": "حفظ الخطوات"
   },
   "error": {
-    "notEmpty": "لا يجب تكون فارغة",
-    "greaterThanZero": "must be greater than 0",
-    "atLeastZero": "must be at least 0",
-    "aNumber": "must be a number",
-    "atLeastOne": "must be at least 1",
-    "aWholeNumber": "must be a whole number",
-    "duplicatePaperSizeName": "'{name}' is already the name of a paper size",
-    "badRange": "I'm confused here:",
-    "reading": "Error reading {fileName}:",
-    "error": "Error: {msg}",
-    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents."
+    "notEmpty": "لا يمكن تركها فارغة",
+    "greaterThanZero": "يجب أن تكون أكبر من 0",
+    "atLeastZero": "يجب أن تكون 0 على الأقل",
+    "aNumber": "يجب أن تكون عددًا",
+    "atLeastOne": "يجب أن تكون 1 على الأقل",
+    "aWholeNumber": "يجب أن تكون رقمًا صحيحًا",
+    "duplicatePaperSizeName": "'{name}' هو اسم مسجل لحجم صفحة بالفعل",
+    "badRange": "لا أستطيع فهم:",
+    "reading": "خطأ في قراءة {fileName}:",
+    "error": "خطأ {msg}",
+    "encrypted": "{fileName} مشفر. لا يمكنني نسخ صفحات مستندات مشفرة."
   },
   "paperSizes": {
-    "paperSizes": "Paper Sizes",
-    "name": "Name",
-    "add": "Add",
-    "remove": "Remove {name}",
-    "restoreDefaults": "Restore defaults"
+    "paperSizes": "أحجام الصفحة",
+    "name": "الاسم",
+    "add": "إضافة",
+    "remove": "إزالة {name}",
+    "restoreDefaults": "استعادة الإعدادات الافتراضية"
   },
   "range": {
-    "all": "all",
-    "first": "first",
-    "last": "last",
-    "odd": "odd",
-    "even": "even",
-    "group": "group"
+    "all": "الكل",
+    "first": "الأولى",
+    "last": "الأخيرة",
+    "odd": "الفردية",
+    "even": "الزوجية",
+    "group": "مجموعة"
   },
   "crop": {
     "help": {
-      "intro": "PDF Snake's Crop tool crops the edges of pages.",
-      "edgeList": "Top, Left, Right, Bottom",
-      "amount": "The amount to crop each edge."
+      "intro": "أداة الاقتصاص من PDF Snake تقتص حواف الصفحات",
+      "edgeList": "أعلى، أيسر، أيمن، أسفل",
+      "amount": "مقدار اقتصاص جميع الصفحات."
     }
   },
   "resize": {
