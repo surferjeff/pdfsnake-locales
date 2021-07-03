@@ -243,25 +243,25 @@
   },
   "impose": {
     "help": {
-      "margin": "margin",
-      "bleed": "bleed",
+      "margin": "الهامش",
+      "bleed": "التسييل",
       "cropMarks": "علامات الاقتصاص",
-      "gutter": "gutter",
-      "lineDistance": "line distance",
-      "centerMarks": "center marks",
-      "lineLength": "line length",
-      "measurementsList": "Margins, Crop Marks, Center Marks, Line Length, Line Thickness, Line Distance, Bleeds",
-      "measurementsIntro": "The rest of the values in the dialog box are explained by this picture:"
+      "gutter": "هامش التوثيق",
+      "lineDistance": "مسافة الخط",
+      "centerMarks": "علامات المركز",
+      "lineLength": "طول الخط",
+      "measurementsList": "الهوامش وعلامات الاقتصاص وعلامات المركز وطول الخط وسمك الخط ومسافة الخط والتسييل",
+      "measurementsIntro": "تحوي هذه الصورة شرح باقي القيم الموجودة في صندوق الحوار:"
     }
   },
   "grid": {
     "help": {
-      "intro": "PDF Snake's Grid tool imposes pages in a fixed pattern.  It also reorders pages so they come out double-sided, or can be cut and stacked."
+      "intro": "أداة الشبكة من PDF Snake تطبق نمطًا ثابتًا على الصفحات. كما أنها تعيد ترتيب الصفحات ليكون من الممكن طباعتها على كلا وجهي الورقة، أو بحيث يمكن قصها وتجميعها في رزم."
     }
   },
   "monkey": {
     "help": {
-      "intro": "PDF Snake's Monkey tool imposes pages in a variable pattern.  It finds the optimal pattern to fit as many source pages as possible on a single output page."
+      "intro": "أداة النمط الأمثل من PDF Snake تطبق نمطًا متغيرًا على الصفحات. فهي تعمل على إيجاد النمط الأمثل لوضع أكبر عدد من صفحات المستند الأصلي في صفحة واحدة من المستند الناتج."
     }
   },
   "help": {
