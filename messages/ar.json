@@ -256,7 +256,7 @@
   },
   "grid": {
     "help": {
-      "intro": "أداة الشبكة من PDF Snake تطبق نمطًا ثابتًا على الصفحات. كما أنها تعيد ترتيب الصفحات ليكون من الممكن طباعتها على كلا وجهي الورقة، أو بحيث يمكن قصها وتجميعها في رزم."
+      "intro": "أداة الشبكة من PDF Snake تطبق نمطًا ثابتًا على الصفحات. وتعيد ترتيب الصفحات ليكون من الممكن طباعتها على كلا وجهي الورقة، أو قصها وتجميعها في رزم."
     }
   },
   "monkey": {
@@ -265,9 +265,9 @@
     }
   },
   "help": {
-    "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
-    "bookletHtml": "<b>كتيب</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
-    "gridHtml": "<b>شبكة</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
+    "intro": "يحتوي PDF Snake على جميع الأدوات اللازمة لإعداد مستندك للطباعة.",
+    "bookletHtml": "<b>كتيب</b> يرتب الصفحات ويضع كل صفحتين بجوار بعضهما ليكون المستند الناتج جاهزًا للطباعة والتجميع والطي من المنتصف.",
+    "gridHtml": "<b>شبكة</b> تطبق نمطًا ثابتًا على الصفحات. وتعيد ترتيب الصفحات ليكون من الممكن طباعتها على كلا وجهي الورقة، أو قصها وتجميعها في رزم.",
     "monkeyHtml": "<b>النمط الأمثل</b> تطبيق النمط المثالي لإدراج أكبر عدد من الصفحات في ورقة واحدة.",
     "resizeHtml": "<b>ضبط الحجم</b> تكبير وتصغير محتوى الصفحات ليناسب أبعاد أي ورقة.",
     "rotateHtml": "<b>تدوير</b> استدارة الصفحات بأي زاوية.",
@@ -279,7 +279,7 @@
     "subscribersCan": "يمكن للمشتركين تحميل عدد غير محدود من المستندات مقابل {monthlyPrice} فقط شهريًا.",
     "signOut": "تسجيل الخروج",
     "thankYouForSubscribing": "شكرًا لك على الاشتراك!",
-    "downloadAsMany": "Download as many files as you want!",
+    "downloadAsMany": "قم بتنزيل أي عدد من الملفات بحرية تامة!",
     "connectingToStripe": "Connecting to Stripe...",
     "manageMySubscription": "إدارة اشتراكي",
     "subscriptionEnded": "انتهى اشتراكك",
