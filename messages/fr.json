@@ -198,7 +198,8 @@
     "cancel": "Annuler",
     "saved": "Sauvegardé {name}",
     "addStep": "Ajouter une étape",
-    "saveSteps": "Sauver les étapes"
+    "saveSteps": "Sauver les étapes",
+    "saveButton": "Sauver"
   },
   "error": {
     "notEmpty": "ne doit pas être vide",

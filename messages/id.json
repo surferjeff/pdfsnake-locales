@@ -198,7 +198,8 @@
     "cancel": "Batalkan",
     "saved": "{name} telah tersimpan",
     "addStep": "Tambahkan Langkah",
-    "saveSteps": "Simpan Langkah-Langkah"
+    "saveSteps": "Simpan Langkah-Langkah",
+    "saveButton": "Simpan"
   },
   "error": {
     "notEmpty": "tidak boleh kosong",
