@@ -1,6 +1,12 @@
 Prepress tool
+أداة إعداد الملفات للطباعة
 N-up Pdfs
+إدراج عدد من الصفحات في ورقة واحدة
 Free and Online
+مجانية ومتاحة عبر الإنترنت
 Impose for the printing press
+دمج عدة صفحات في ورقة واحدة وإعدادها للطباعة
 How to Impose Pdfs
+كيفية طباعة عدة صفحات PDF في ورقة واحدة
 How to Impose Pages
+طريقة طباعة صفحات متعددة في ورفة واحدة
