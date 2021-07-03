@@ -237,15 +237,15 @@
   },
   "resize": {
     "help": {
-      "intro": "PDF Snake's Resize tool shrinks or expands the pages' contents to fit any size paper.",
-      "preserveAspectRatio": " When checked, preserves the ratio of height-to-width in the pages of the source document. If this box is not checked, the pages may be significantly stretched either horizontally or vertically."
+      "intro": "أداة تعديل الحجم من PDF Snake تصغر وتكبر محتويات الصفحات لتناسب حجم أي ورق.",
+      "preserveAspectRatio": "عند التفعيل، سيتم الاحتفاظ بنسبة الارتفاع إلى العرض الموجودة في صفحات المستند الأصلي. عند عدم التفعيل، يمكن أن يتم تمديد الصفحات بدرجة كبيرة إما بالعرض أو بالطول."
     }
   },
   "impose": {
     "help": {
       "margin": "margin",
       "bleed": "bleed",
-      "cropMarks": "crop marks",
+      "cropMarks": "علامات الاقتصاص",
       "gutter": "gutter",
       "lineDistance": "line distance",
       "centerMarks": "center marks",
