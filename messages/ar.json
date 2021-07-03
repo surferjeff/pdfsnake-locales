@@ -189,19 +189,19 @@
     "pageRange": "{first}-{last}",
     "viewNext": "إظهار الـ {count} صفحات التالية",
     "viewFinal": "إظهار آخر {count} صفحات",
-    "recalculating": "Recalculating..."
+    "recalculating": "إعادة الحساب..."
   },
   "home": {
-    "step": "Step {number}: {name}",
-    "help": "Help",
-    "saveAs": "Save these steps as:",
-    "cancel": "Cancel",
-    "saved": "Saved {name}",
-    "addStep": "Add Step",
-    "saveSteps": "Save Steps"
+    "step": "خطوة {number}: {name}",
+    "help": "مساعدة",
+    "saveAs": "حفظ هذه الخطوات باسم:",
+    "cancel": "إلغاء",
+    "saved": "تم حفظ {name}",
+    "addStep": "إضافة خطوة",
+    "saveSteps": "حفظ الخطوات"
   },
   "error": {
-    "notEmpty": "must not be empty",
+    "notEmpty": "لا يجب تكون فارغة",
     "greaterThanZero": "must be greater than 0",
     "atLeastZero": "must be at least 0",
     "aNumber": "must be a number",
@@ -272,7 +272,7 @@
     "resizeHtml": "<b>ضبط الحجم</b> تكبير وتصغير محتوى الصفحات ليناسب أبعاد أي ورقة.",
     "rotateHtml": "<b>تدوير</b> استدارة الصفحات بأي زاوية.",
     "cropHtml": "<b>اقتصاص</b> قص حواف الصفحات.",
-    "shuffleHtml": "<b>ترتيب عشوائي</b> إعادة ترتيب الصفحات وتدويرها."
+    "shuffleHtml": "<b>إعادة الترتيب</b> إعادة ترتيب الصفحات وتدويرها."
   },
   "account": {
     "signedInUsersCan": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات خلال فترة الـ 10 أيام التجريبية المجانية.",
