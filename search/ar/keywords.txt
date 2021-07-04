@@ -1,58 +1,29 @@
-impose pdf
 إعداد الكتب والكتيبات للطباعة
-imposition pdf
 ترتيب صفحات pdf لطباعة كتيب
-quite imposing
 إضافة للمتصفح لطباعة مستندات PDF
-imposition online
 ترتيب ملفات pdf وإعدادها للطباعة أونلاين
-imposition printing
 اطبع كتابك بسلاسة واحتراف
-impose pdf pages
-ترتيب كتيبات pdf بسلاسة واحتراف
-imposition indesign
+ترتيب صفحات كتيبات pdf بسلاسة واحتراف
 إعداد مستندات indesign للطباعة
-adobe acrobat imposition
 ترتيب مستندات adobe acrobat للطباعة
-nup pdf
 طباعة عدة صفحات pdf في ورقة واحدة
-page imposition
 ترتيب الصفحات لطباعة الكتيبات
-pdf imposition online
 ترتيب الصفحات لطباعة الكتيبات أونلاين
-adobe imposition
 إعداد مستندات adobe للطباعة
-impose pages
 ترتيب الصفحات لطباعة الكتب أونلاين
-impose printing
 توقيع المستندات للطباعة
-imposition layout
-توقيع مخططات pdf
-imposing pdf files
+توقيع المخططات للطباعة
 إعداد ملفات pdf وترتيبها
-booklet imposition
 إعداد الكتيبات وترتيب صفحاتها
-imposition graphic design
 إعداد تصاميم الجرافيك للطباعة
-logiciel imposition pdf
-ملحق للمتصفح لطباعة pdf
-indesign imposition pdf
+إضافة للمتصفح لطباعة pdf
 تنسيق ملفات indesign للطباعة pdf
-imposition book printing
 إعداد الكتب وتجهيزها للطباعة
-imposition adobe acrobat
 تنسيق ملفات indesign للطباعة
-batch imposition
-تنسيق الرزم لطباعتها
-imposition book
+تنسيق الصفحات لطباعتها في رزم
 ترتيب الكتب وتنسيقها للطباعة
-imposition indesign cs6
 تنسيق ملفات indesign cs6 للطباعة
-imposition pdf indesign
 إعداد ملفات indesign للطباعة pdf
-indesign imposer
 إعداد ملفات indesign للطباعة أونلاين
-imposeonline
 إعداد الملفات للطباعة أونلاين
-pdf preps
 تجهيز ملفات pdf للطباعة
