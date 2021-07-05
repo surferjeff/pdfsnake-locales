@@ -198,7 +198,8 @@
     "cancel": "إلغاء",
     "saved": "تم حفظ {name}",
     "addStep": "إضافة خطوة",
-    "saveSteps": "حفظ الخطوات"
+    "saveSteps": "حفظ الخطوات",
+    "saveButton": "حفظ"
   },
   "error": {
     "notEmpty": "لا يمكن تركها فارغة",
