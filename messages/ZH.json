@@ -199,6 +199,7 @@
     "saved": "已保存 {name}",
     "addStep": "添加步骤",
     "saveSteps": "保存步骤"
+    "saveButton": "保存"
   },
   "error": {
     "notEmpty": "不得空着",
