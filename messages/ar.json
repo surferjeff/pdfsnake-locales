@@ -186,7 +186,7 @@
     "download": "تنزيل الـ PDF",
     "viewFirst": "إظهار أول {count} صفحات",
     "viewPrevious": "إظهار الـ {count} صفحات السابقة",
-    "pageRange": "{first}-{last}",
+    "pageRange": "{first} - {last}",
     "viewNext": "إظهار الـ {count} صفحات التالية",
     "viewFinal": "إظهار آخر {count} صفحات",
     "recalculating": "إعادة الحساب..."
