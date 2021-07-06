@@ -192,7 +192,7 @@
     "recalculating": "إعادة الحساب..."
   },
   "home": {
-    "step": "خطوة {number}: {name}",
+    "step": "خطوة {number} {name}",
     "help": "مساعدة",
     "saveAs": "حفظ هذه الخطوات باسم:",
     "cancel": "إلغاء",
