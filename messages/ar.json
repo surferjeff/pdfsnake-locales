@@ -186,13 +186,13 @@
     "download": "تنزيل الـ PDF",
     "viewFirst": "إظهار أول {count} صفحات",
     "viewPrevious": "إظهار الـ {count} صفحات السابقة",
-    "pageRange": "{first}-{last}",
+    "pageRange": "{first} - {last}",
     "viewNext": "إظهار الـ {count} صفحات التالية",
     "viewFinal": "إظهار آخر {count} صفحات",
     "recalculating": "إعادة الحساب..."
   },
   "home": {
-    "step": "خطوة {number}: {name}",
+    "step": "خطوة {number} {name}",
     "help": "مساعدة",
     "saveAs": "حفظ هذه الخطوات باسم:",
     "cancel": "إلغاء",
@@ -292,6 +292,7 @@
     "beginMyFreeTrialNow": "بدء التجربة المجانية الآن",
     "subscribe": "اشتراك",
     "subscribersCanDownload": "يمكن للمشتركين تنزيل عدد غير محدود من المستندات مقابل",
+    "subscribersCanDownload": "يمكن للمشتركين تنزيل عدد غير محدود من المستندات لمدة",
     "perMonth": "{price} في الشهر",
     "perYear": "{price} في السنة",
     "subscribeNow": "اشترك الآن",

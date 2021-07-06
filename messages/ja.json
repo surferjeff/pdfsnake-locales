@@ -1,0 +1,318 @@
+{
+  "titles" : {
+    "privacyPolicy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "pdfSnake": "PDF Snake",
+    "pdfSnakeVersion": "PDF Snake {version}"
+  },
+  "topNav" : {
+    "home": "ホーム",
+    "about": "概要",
+    "signIn": "ログイン",
+    "myAccount": "マイアカウント"
+  },
+  "dropTarget" : {
+    "dropHere": "PDFファイルをこちらにドラッグ＆ドロップするか",
+    "browse": "ファイルを参照",
+    "docsStayPrivate": "文書ファイルは、非公開のままデバイス上に残ります。",
+    "help": "ヘルプ"
+  },
+  "about" : {
+    "privacy": "当社について {link}",
+    "terms": "本ウェブサイトのご利用を開始された時点で、当社の規約に同意したものと見なされます。 {link}",
+    "plugIn": "PDF Snake 6 は、ベストセラーとなったAdobe Acrobatプラグインの新しいオンラインバージョンです。 {link}",
+    "questions": "皆様からのご質問、ご意見をお待ちしております。",
+    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
+  },
+  "choose": {
+    "whatNext": "次の操作は？"
+  },
+  "tools": {
+    "booklet": "ブックレット",
+    "grid": "グリッド",
+    "monkey": "アドホック",
+    "resize": "リサイズ",
+    "crop": "切り取り",
+    "rotate": "回転",
+    "shuffle": "並び替え"
+  },
+  "pageSize": {
+    "paperSize": "用紙サイズ",
+    "custom": "カスタム",
+    "edit": "用紙サイズの追加・編集",
+    "width":  "幅",
+    "height": "高さ",
+    "landscape": "横置き",
+    "help": {
+      "introHtml": "作成される文書の用紙サイズです。ボックスに表示されていない用紙サイズを指定するには、<strong>用紙サイズ</strong>ボックスで<strong>カスタム</strong>を選択し、<strong>幅</strong>および<strong>高さ</strong>ボックスにサイズを入力して下さい。",
+      "width": "出力される文書の幅です。0以上の値を入力して下さい。",
+      "height": "出力される文書の高さです。0以上の値を入力して下さい。",
+      "landscapeHtml": "チェックを入れると、幅と高さの値を入れ替えて文書が出力されます。例えば、<strong>レターサイズ</strong>で<strong>縦</strong>にチェックされていない場合、出力されるページサイズは8.5 x 11インチになりますが、<strong>縦</strong>にチェックした場合、11 x 8.5インチで出力されます。"
+    }
+  },
+  "units": {
+    "mms": "ミリ",
+    "inches": "インチ",
+    "points": "ポイント"
+  },
+  "pageOrder": {
+    "pageOrder": "ページ順",
+    "doubleSided": "両面印刷",
+    "doubleSidedHelp": "ページの裏面に次のページが配置されます。",
+    "repeat": "リピート",
+    "repeatHelp": "ページ内に指定された回数分を分割して表示されます。",
+    "sequential": "ソート",
+    "sequentialHelp": "元ファイルと同じ順序で、一部ごとに配置されます。",
+    "stack": "スタック",
+    "stackHelp": "元ファイルのページごとに、指定部数が配置されます。"
+  },
+  "whiteSpace": {
+    "whiteSpace": "ホワイトスペース",
+    "left": "左",
+    "top": "上",
+    "right": "右",
+    "bottom": "下",
+    "margins": "余白:",
+    "horizontal": "水平",
+    "vertical": "垂直",
+    "gutters": "とじしろ:",
+    "center": "中央寄せ",
+    "centerGutter": "とじしろ中央",
+    "pageCreep": "クリープ処理"
+   },
+  "layout": {
+    "layout": "レイアウト",
+    "columns": "列",
+    "rows": "行"
+  },
+  "autoscale": {
+    "autoscale": "自動調整",
+    "autoscaleHelp": "チェックを入れると、余白やとじしろを除く最大サイズにページを拡大します。",
+    "preserveAspectRatio": "アスペクト比を維持"
+  },
+  "cropMarks": {
+    "cropMarks": "トンボ",
+    "drawCropMarks": "トンボを表示",
+    "drawCenterMarks": "センタートンボを表示",
+    "lineLength": "線の長さ",
+    "lineThickness": "線の太さ",
+    "lineDistance": "線の間隔",
+    "fourColorBlack": "4色ベタ",
+    "fourColorBlackHelp": "チェックを入れると、シアン、マゼンタ、イエロー、ブラックそれぞれ100%で作成された黒色でトンボが表示されます。チェックがない場合は、黒インクのみでトンボが表示されます。"
+  },
+  "bleeds": {
+    "bleeds": "ドブ（塗り足し）",
+    "noBleeds": "ドブ（塗り足し）無し",
+    "pullBleeds": "文書からドブ（塗り足し）を引く",
+    "fixedBleeds": "ドブ（塗り足し）を固定",
+    "leftAndRight": "左右",
+    "topAndBottom": "上下"
+  },
+  "booklet": {
+    "bookBinding": "製本",
+    "saddleSize": "サドル枚数: {count} 枚",
+    "fillLastSaddle": "最後のサドルを詰める",
+    "scale": "スケール",
+    "help": {
+      "intro": "PDF Snakeのブックレットツールでは、ページを再配置してブックレットを作成します。まず、本のページ順に並べ、1枚の紙に2ページずつ配置します。完成した文書は、真ん中で折ったりホッチキスで留めたりして、小冊子や本を制作することができます。",
+      "step0": "製本は以下のような工程で行われます。:",
+      "step1": "2アップで両面印刷する",
+      "step2": "通常5枚程度のスタックに分ける",
+      "step3": "各スタックを半分に折り畳む",
+      "step4": "スタックを糊や糸などで綴じる",
+      "step5": "ページの端を裁断し、全ページ平らに揃える",
+      "saddleSize": "サドル枚数",
+      "saddleSizeHelp": "各スタックに入れて折りたたむ枚数で、空の場合は全シートが1つのスタックに入ります。",
+      "fillLastSaddleHtml": "文書のページ数が奇数の場合、最後に空のページが出来てしまいますが、<strong>最後のサドルを詰める</strong>にチェックを入れると、すべての折り返しが同じ枚数になるように空白のページが追加されます。チェックされていない場合は、最後の折り返しが少ない枚数になることがあります。",
+      "pageCreepHtml": "前述の5つの製本工程ステップではページの端が平らになるように裁断します。このとき折り目の中央にある用紙は、折り目の外側にある用紙よりも端が出ているため、より多くの紙がカットされますが、これを<i>ページクリープ</i>と呼びます。このページクリークを補い、製本・断裁後に全ページが同じ位置に来るようにするためには、紙の厚さなどに応じて、ページを少しずつ調整する必要があります。各ページは、<strong>クリープ処理</strong>で設定した値によって微調整されます。この機能を確認する場合、<strong>クリープ処理</strong>を半インチ（約10ミリ）に設定して、結果を見てみることをお勧め致します。"
+    }
+  },
+  "rotate": {
+    "rotation": "回転",
+    "degrees": "角度",
+    "degreesHelp": "ページを回転させる角度の設定です。",
+    "help": "PDF Snakeの回転ツールは、ページを任意の角度で回転させられます。"
+  },
+  "pageRange": {
+    "pageRange": "ページ",
+    "help": {
+      "intro": "ページ範囲は一般的に以下の形式で指定されます。",
+      "generalExample": "全ページ 奇数ページ？ 偶数ページ？",
+      "someExamples": "ページ範囲を指定する方法については、サンプルで分かりやすく説明しております。",
+      "allThePages": "文書内の全ページ",
+      "pages-3-10-15": "3、10、15ページ",
+      "pages-10-15": "10～15ページ（6ページ）",
+      "pages-3-4-10-15": "3、4、10～15ページ（8ページ）",
+      "pages-10-15-even": "10、12、14ページ",
+      "pages-10-15-odd": "11、13、15ページ",
+      "pages-10-odd": "10ページ目以降の全奇数ページ",
+      "pages-1-10-even-10-odd": "2、4、6、8、10ページと10ページ以降の全奇数ページ",
+      "pages-even": "全偶数ページ"
+    }
+  },
+  "shuffle": {
+    "note": "注：複数文書のページを結合する場合は、{link}をご利用下さい。",
+    "help": {
+      "intro": "PDF Snakeの並び替えツールは、ページの並び替え、ページの削除、重複ページの削除、空白ページの追加、ページの回転などを1ステップで行うことができます。",
+      "format": "ページ順は一般的に以下の形式で指定します、ページ範囲設定とよく似た形式となっております。",
+      "allThePages": "文書内の全ページを同じ順番で表示",
+      "theLastPage": "文書内の最後のページ",
+      "theSecondToLastPage": "文書内の最後から2番目のページ",
+      "pages-15-10-3": "15、10、3ページ",
+      "pages-15-10": "10～15ページの降順（6ページ）",
+      "allReversed": "文書内の全ページ降順",
+      "pages-15-10-odd": "15、13、11ページ",
+      "pages-odd-even": "全奇数ページの後に全偶数ページを表示",
+      "pages-odd-1-even": "全奇数ページの後に全偶数ページを降順で表示",
+      "pages-5-1": "1ページ目のコピーを5枚",
+      "pages-2-odd-even-8": "全奇数ページ、全偶数ページ、再度全奇数ページ、全偶数ページと8ページ目を表示",
+      "pages-all-all": "1ページ目を2枚、2ページ目を2枚、3ページ目を2枚、など",
+      "pages-square-odd-even": "全ページを通常の順番で表示",
+      "rotateIntro": "PDF Snakeは、並び替えながらページを回転させることができます。ページ番号の後に以下の記号をつけて角度を指定します。",
+      "rotate90": "時計回りに90度回転",
+      "rotate180": "180度回転",
+      "rotate270": "時計回りに270度回転（反時計回りに90度回転）",
+      "allUpsideDown": "文書内の全ページを上下逆に",
+      "pages-1-2-3-4": "ページ1、ページ2を時計回りに90度回転、ページ3を上下逆に、ページ4を反時計回りに90度回転",
+      "groupIntro": "PDF Snakeでは、同じ文書に対して何度も並び替えパターンを繰り返すことができます。以下がその例です。",
+      "pages-group-3": "6ページの文書の場合、ページ順は3 2 1 6 5 4となります。",
+      "blankIntro": "PDF Snakeでは、Xを入力する毎に空白ページが挿入されます。",
+      "pages-1-X-3": "1ページ目、空白ページ、3ページ目"
+    }
+  },
+  "pages": {
+    "zoomIn": "拡大",
+    "zoomOut": "縮小",
+    "download": "PDFをダウンロード",
+    "viewFirst": "最初の{count}ページを表示",
+    "viewPrevious": "前の{count}ページを表示",
+    "pageRange": "{first}-{last}",
+    "viewNext": "次の{count}ページを表示",
+    "viewFinal": "最後の{count}ページを表示",
+    "recalculating": "再計算中..."
+  },
+  "home": {
+    "step": "ステップ {number}: {name}",
+    "help": "ヘルプ",
+    "saveAs": "名前を付けて保存",
+    "cancel": "キャンセル",
+    "saved": "保存 {name}",
+    "addStep": "ステップを追加",
+    "saveSteps": "ステップを保存",
+    "saveButton": "保存"
+  },
+  "error": {
+    "notEmpty": "入力必須です。",
+    "greaterThanZero": "0より大きい数字を入力して下さい。",
+    "atLeastZero": "0以上の数字を入力して下さい。",
+    "aNumber": "数字を入力して下さい。",
+    "atLeastOne": "1以上の数字を入力して下さい。",
+    "aWholeNumber": "整数を入力して下さい。",
+    "duplicatePaperSizeName": "'{name}' は用紙サイズの名前になっています。",
+    "badRange": "ご不明な点",
+    "reading": "読み込みエラー {fileName}:",
+    "error": "エラー： {msg}",
+    "encrypted": "{fileName} は暗号化されています。暗号化された文書からページをコピーすることができません。"
+  },
+  "paperSizes": {
+    "paperSizes": "用紙サイズ",
+    "name": "名前",
+    "add": "追加",
+    "remove": "{name} を削除",
+    "restoreDefaults": "初期設定値に戻す"
+  },
+  "range": {
+    "all": "全て",
+    "first": "最初",
+    "last": "最後",
+    "odd": "奇数",
+    "even": "偶数",
+    "group": "グループ"
+  },
+  "crop": {
+    "help": {
+      "intro": "PDF Snakeの切り抜きツールは、ページの端を切り抜く為のものです。",
+      "edgeList": "上、左、右、下",
+      "amount": "それぞれの端を切り抜くサイズです。"
+    }
+  },
+  "resize": {
+    "help": {
+      "intro": "PDF Snakeのリサイズツールは、ページの内容を拡大縮小し、どんなサイズの紙にも対応致します。",
+      "preserveAspectRatio": " チェックを入れると、文書内のページの高さと幅の比率を維持します。チェックしない場合、ページが水平または垂直に大きく引き伸ばされることがあります。"
+    }
+  },
+  "impose": {
+    "help": {
+      "margin": "余白",
+      "bleed": "ドブ（塗り足し）",
+      "cropMarks": "トンボ",
+      "gutter": "とじしろ",
+      "lineDistance": "線の間隔",
+      "centerMarks": "センタートンボ",
+      "lineLength": "線の長さ",
+      "measurementsList": "余白、トンボ、センタートンボ、線の長さ、線の太さ、線の間隔、ドブ",
+      "measurementsIntro": "ダイアログボックスの残りの値は、こちらの図で説明されています。"
+    }
+  },
+  "grid": {
+    "help": {
+      "intro": "PDF Snakeのグリッドツールは、ページを一定パターンで配置します。また、ページの並べ替えで、両面印刷やカットして重ねることもできます。"
+    }
+  },
+  "monkey": {
+    "help": {
+      "intro": "PDF Snakeのアドホックツールは、可変パターンでページを配置します。1つの出力ページに最大限のページを収めるために、最適なパターンを見つけます。"
+    }
+  },
+  "help": {
+    "intro": "PDF Snakeには、印刷用文書を準備するために必要なツールがすべて揃っています。",
+    "bookletHtml": "<b>ブックレット</b> ページを2段に並べ替えて配置することで、印刷したり、重ねたり、半分に折ったりすることができます。",
+    "gridHtml": "<b>グリッド</b> ページを一定パターンで配置します。また、ページの並べ替えで、両面印刷やカットして重ねることもできます。",
+    "monkeyHtml": "<b>アドホック</b> 1枚のシートにページを最大限収めるための最適なパターンを見つけ出します。",
+    "resizeHtml": "<b>リサイズ</b> ページの内容を用紙サイズに合わせて伸縮させることができます。",
+    "rotateHtml": "<b>回転</b> ページを任意の角度で回転させることができます。",
+    "cropHtml": "<b>切り抜き</b> ページの端を切り抜くことができます。",
+    "shuffleHtml": "<b>並べ替え</b> ページ順を入れ替えたり、ページを回転させることができます。"
+  },
+  "account": {
+    "signedInUsersCan": "ログインユーザーは、10日間の無料試用期間中に無制限で文書をダウンロードできます。",
+    "subscribersCan": "有料会員は、月額{monthlyPrice}のみで無制限に文書をダウンロードすることができます。",
+    "signOut": "サインアウト",
+    "thankYouForSubscribing": "有料会員登録ありがとうございます。",
+    "downloadAsMany": "ファイルのダウンロードは何度でも可能です！",
+    "connectingToStripe": "Stripeへ接続中...",
+    "manageMySubscription": "有料会員管理",
+    "subscriptionEnded": "有料会員期間が終了致しました。",
+    "subscriptionEndedOn": "有料会員は {date} で終了します。",
+    "freeTrial": "無料試用",
+    "freeTrialWillEndOn": "無料試用は {date} で終了します。",
+    "freeTrialEndedOn": "無料試用は {date} で終了しました。",
+    "youAreEligibleForFreeTrial": "ご登録ありがとうございます。無料試用期間は10日間です。無料試用期間中は、文書を無制限にダウンロードすることができます。",
+    "beginMyFreeTrialNow": "今すぐ無料試用を始める",
+    "subscribe": "有料会員登録",
+    "subscribersCanDownload": "有料会員は、無制限に文書をダウンロードし",
+    "perMonth": "月額 {price}",
+    "perYear": "年額 {price}",
+    "subscribeNow": "今すぐ有料会員登録する",
+    "stripeError": "エラーが発生しました: {msg}"
+  },
+  "helpFor": {
+    "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"
+  },
+  "cookieNotice": {
+    "privacyLink": "このウェブサイトでは、当社の{link}に基づいてクッキーを使用しています。",
+    "okButton": "同意する"
+  },
+  "download": {
+    "downloadTitle": "ダウンロード",
+    "subscriptionEnded": "有料会員期間が終了致しました。",
+    "freeTrialEnded": "無料試用期間が終了致しました。",
+    "youCanDownload8hours": "8時間毎に文書を1つダウンロードできます。",
+    "anonymousCanDownload8hours": "未登録ユーザーは、8時間毎に文書を1つダウンロードできます。",
+    "youCanDownloadNext": "次にダウンロード可能な日付は {date} です。",
+    "downloadNowButton": "いますぐダウンロード",
+    "signedInCanDownload10days": "ログインユーザーは、10日間の無料試用期間中に無制限で文書をダウンロードできます。",
+    "subscribersCanDownloadUnlimited": "有料会員は無制限に文書をダウンロードできます。"
+  }
+}

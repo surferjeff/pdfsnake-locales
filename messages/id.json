@@ -1,0 +1,318 @@
+{
+  "titles" : {
+    "privacyPolicy": "Kebijakan Privasi",
+    "terms": "Syarat dan Ketentuan",
+    "pdfSnake": "PDF Snake",
+    "pdfSnakeVersion": "PDF Snake {version}"
+  },
+  "topNav" : {
+    "home": "Beranda",
+    "about": "Tentang",
+    "signIn": "Masuk",
+    "myAccount": "Akun Saya"
+  },
+  "dropTarget" : {
+    "dropHere": "Tarik sebuah file PDF ke sini atau",
+    "browse": "Pilih File untuk Memulai",
+    "docsStayPrivate": "Dokumen-dokumen Anda tetap terjaga kerahasiaannya karena mereka tidak pernah meninggalkan perangkat Anda.",
+    "help": "Bantuan"
+  },
+  "about" : {
+    "privacy": "Baca {link} kami.",
+    "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
+    "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
+    "questions": "Kami senang menerima pertanyaan dan komentar Anda.",
+    "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC"
+  },
+  "choose": {
+    "whatNext": "Apa selanjutnya?"
+  },
+  "tools": {
+    "booklet": "Buklet",
+    "grid": "Grid",
+    "monkey": "Monkey",
+    "resize": "Ubah Ukuran",
+    "crop": "Potong",
+    "rotate": "Putar",
+    "shuffle": "Acak"
+  },
+  "pageSize": {
+    "paperSize": "Ukuran Kertas",
+    "custom": "Kustom",
+    "edit": "Tambah & edit ukuran kertas",
+    "width":  "Lebar",
+    "height": "Tinggi",
+    "landscape": "Lanskap",
+    "help": {
+      "introHtml": "Ukuran kertas untuk dokumen hasil. Untuk menentukan ukuran kertas yang tidak ada dalam pilihan, pilih <strong>Kustom</strong> di kotak <strong>Ukuran Kertas</strong>, lalu masukkan dimensi halaman ke dalam kotak <strong>Lebar</strong> dan <strong>Tinggi</strong>.",
+      "width": "Lebar halaman pada dokumen hasil. Harus lebih besar dari nol.",
+      "height": "Tinggi halaman pada dokumen hasil. Harus lebih besar dari nol.",
+      "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentang maka hasil halamannya akan berukuran 11 x 8.5 inci."
+    }
+  },
+  "units": {
+    "mms": "mm",
+    "inches": "inci",
+    "points": "point"
+  },
+  "pageOrder": {
+    "pageOrder": "Urutan Halaman",
+    "doubleSided": "Dua sisi",
+    "doubleSidedHelp": "Halaman akan diatur supaya halaman 2 muncul di belakang halaman 1, dst.",
+    "repeat": "Ulang setiap halaman",
+    "repeatHelp": "Setiap halaman dari dokumen sumber akan muncul dalam dokumen hasil sekian kali.",
+    "sequential": "berurutan",
+    "sequentialHelp": "Halaman-halaman akan diatur dengan urutan yang sama seperti yang terlihat pada dokumen sumber.",
+    "stack": "tumpukan",
+    "stackHelp": "Halaman-halaman akan diatur supaya setelah dicetak dan dipotong, tumpukan hasilnya dapat ditumpuk di atas satu sama lain, dan urutan halamannya akan sama dengan dokumen sumber."
+  },
+  "whiteSpace": {
+    "whiteSpace": "Spasi",
+    "left": "Kiri",
+    "top": "Atas",
+    "right": "Kanan",
+    "bottom": "Bawah",
+    "margins": "Margin:",
+    "horizontal": "Horizontal",
+    "vertical": "Vertikal",
+    "gutters": "Gutter:",
+    "center": "Buat halaman ada di tengah",
+    "centerGutter": "Gutter tengah",
+    "pageCreep": "Creep Halaman"
+   },
+  "layout": {
+    "layout": "Susunan",
+    "columns": "Kolom",
+    "rows": "Baris"
+  },
+  "autoscale": {
+    "autoscale": "Skala Otomatis",
+    "autoscaleHelp": "Ketika dicentang, halaman akan diskalakan sebesar mungkin, sambil tetap meletakkannya di dalam margin dan gutter.",
+    "preserveAspectRatio": "Pertahankan rasio aspek"
+  },
+  "cropMarks": {
+    "cropMarks": "Tanda Cetakan",
+    "drawCropMarks": "Cetak tanda potong",
+    "drawCenterMarks": "Cetak tanda tengah",
+    "lineLength": "Panjang garis",
+    "lineThickness": "Tebal garis",
+    "lineDistance": "Jarak garis",
+    "fourColorBlack": "Hitam empat warna",
+    "fourColorBlackHelp": "Ketika dicentang, tanda potong akan dicetak dengan semua warna tinta. Jika tidak dicentang, tanda potong hanya akan dicetak menggunakan tinta hitam."
+  },
+  "bleeds": {
+    "bleeds": "Bleed",
+    "noBleeds": "Tanpa bleed",
+    "pullBleeds": "Ambil informasi bleed dari dokumen",
+    "fixedBleeds": "Bleed tertentu",
+    "leftAndRight": "Kiri & kanan",
+    "topAndBottom": "Atas & bawah"
+  },
+  "booklet": {
+    "bookBinding": "Penjilidan Buku",
+    "saddleSize": "Ukuran saddle: {count} lembar",
+    "fillLastSaddle": "Isi saddle terakhir",
+    "scale": "Skala",
+    "help": {
+      "intro": "Alat Buklet PDF Snake mengatur ulang halaman untuk membuat sebuah buklet. Pertama-tama, halaman diatur menjadi urutan cetakan buku, lalu dua halaman ditaruh bersebelahan dalam satu lembar kertas. Dokumen hasilnya dapat dilipat dan dijilid di tengah, menjadi sebuah buklet atau buku.",
+      "step0": "Berikut ini adalah langkah-langkah proses penjilidan buku:",
+      "step1": "2 halaman dicetak di satu lembaran kertas, di kedua sisinya.",
+      "step2": "Lembaran kertas ditumpuk sebanyak N, biasanya sekitar 5 lembar.",
+      "step3": "Setiap tumpukan dilipat menjadi dua.",
+      "step4": "Tumpukan-tumpukan tersebut dilem dan/atau dijahit menyatu.",
+      "step5": "Pinggiran bebas halaman dipotong supaya semua halamannya rata.",
+      "saddleSize": "Ukuran saddle",
+      "saddleSizeHelp": "Jumlah lembaran yang ditumpukkan untuk dilipat. Jika dibiarkan kosong, semua lembaran dianggap ditaruh dalam satu tumpukan.",
+      "fillLastSaddleHtml": "Terkadang, ada jumlah halaman ganjil di dokumen sumber, dan lipatan terakhir akan memiliki beberapa halaman kosong. Ketika <strong>Isi <i>saddle</i> terakhir</strong> dicentang, halaman-halaman kosong akan ditambahkan supaya semua lipatan memiliki jumlah lembaran yang sama. Jika tidak dicentang, lipatan terakhir mungkin memiliki lembaran yang lebih sedikit dari lipatan lainnya.",
+      "pageCreepHtml": "Pada Langkah 5 proses penjilidan buku di atas, halaman-halamannya dipotong untuk meratakan kertasnya. Lembaran yang berada di tengah lipatan akan dipotong lebih banyak daripada lembaran yang berada di bagian luar, karena pinggirannya lebih muncul. Hal ini dinamakan \"<i>creep</i> halaman\". Supaya semua halaman terlihat berada dalam posisi yang sama setelah buku tersebut dijilid dan dipotong, halaman-halamannya harus diatur sedemikian rupa dengan memperhitungkan faktor-faktor seperti ketebalan kertas. Setiap halaman digeser sedikit berdasarkan nilai yang ditentukan dalam <strong><i>Creep</i> Halaman</strong>. Untuk lebih mengerti apa yang dilakukan oleh nilai ini, cobalah mengatur <strong><i>Creep</i> Halaman</strong> menjadi setengah inci atau sekitar sepuluh milimeter, dan lihat hasilnya."
+    }
+  },
+  "rotate": {
+    "rotation": "Pemutaran",
+    "degrees": "derajat",
+    "degreesHelp": "Sudut pemutaran halaman.",
+    "help": "Alat Pemutaran PDF Snake memutar halaman sebesar sudut tertentu."
+  },
+  "pageRange": {
+    "pageRange": "Halaman",
+    "help": {
+      "intro": "Cakupan halaman biasanya ditentukan dalam format berikut ini:",
+      "generalExample": "pertama-terakhir ganjil? genap?",
+      "someExamples": "Namun, cara terbaik untuk mengerti cara menentukan cakupan halaman adalah dengan melihat beberapa contoh:",
+      "allThePages": "semua halaman dalam dokumen",
+      "pages-3-10-15": "halaman 3, 10, dan 15",
+      "pages-10-15": "halaman 10 sampai 15 (6 halaman)",
+      "pages-3-4-10-15": "halaman 3, 4, dan 10 sampai 15 (8 halaman)",
+      "pages-10-15-even": "halaman 10, 12, dan 14",
+      "pages-10-15-odd": "halaman 11, 13, and 15",
+      "pages-10-odd": "semua halaman ganjil setelah halaman 10",
+      "pages-1-10-even-10-odd": "halaman 2, 4, 6, 8, 10 dan semua halaman ganjil setelah halaman 10",
+      "pages-even": "semua halaman genap"
+    }
+  },
+  "shuffle": {
+    "note": "Catatan: Gunakan {link} untuk menggabungkan halaman-halaman dari beberapa dokumen.",
+    "help": {
+      "intro": "Alat Acak PDF Snake mengacak halaman-halaman yang ada dalam sebuah dokumen. Hanya dalam satu langkah, alat ini dapat mengurutkan ulang semua halaman, menghapus halaman duplikat, menambahkan halaman kosong, dan memutar halaman.",
+      "format": "Urutan halaman biasanya ditentukan dalam format berikut ini, sangat mirip dengan format cakupan halaman.",
+      "allThePages": "semua halaman dalam dokumen dalam urutan yang sama",
+      "theLastPage": "halaman terakhir dokumen",
+      "theSecondToLastPage": "halaman kedua terakhir dokumen",
+      "pages-15-10-3": "halaman 15, 10, dan 3",
+      "pages-15-10": "halaman 10 sampai 15 dalam urutan terbalik (6 halaman)",
+      "allReversed": "semua halaman dalam dokumen dalam urutan terbalik",
+      "pages-15-10-odd": "halaman 15, 13, dan 11",
+      "pages-odd-even": "semua halaman ganjil diikuti dengan semua halaman genap",
+      "pages-odd-1-even": "semua halaman ganjil diikuti dengan semua halaman genap dalam urutan terbalik",
+      "pages-5-1": "lima salinan halaman pertama",
+      "pages-2-odd-even-8": "semua halaman ganjil, lalu semua halaman genap, lalu semua halaman ganjil lagi, lalu semua halaman genap lagi, lalu halaman 8",
+      "pages-all-all": "2 salinan halaman 1, 2 salinan halaman 2, 2 salinan halaman 3, dst.",
+      "pages-square-odd-even": "semua halaman dalam urutan normal",
+      "rotateIntro": "PDF Snake dapat memutar halaman sambil melakukan pengacakan. Gunakan simbol-simbol berikut setelah nomor halaman untuk menentukan pemutarannya:",
+      "rotate90": "putar 90 derajat searah jarum jam",
+      "rotate180": "putar 180 derajat",
+      "rotate270": "putar 270 derajat searah jarum jam (90 derajat berlawanan arah jarum jam)",
+      "allUpsideDown": "semua halaman dokumen dalam posisi terbalik atas-bawah",
+      "pages-1-2-3-4": "halaman 1, halaman 2 diputar 90 derajat searah jarum jam, halaman 3 terbalik atas-bawah, halaman 4 diputar 90 derajat berlawanan arah jarum jam.",
+      "groupIntro": "PDF Snake dapat mengulang pola acakan berulang kali dalam sebuah dokumen. Contohnya:",
+      "pages-group-3": "untuk dokumen dengan enam halaman, akan menghasilkan urutan halaman 3 2 1 6 5 4",
+      "blankIntro": "PDF Snake akan memasukkan halaman kosong ketika Anda memasukkan X:",
+      "pages-1-X-3": "halaman 1, halaman kosong, halaman 3"
+    }
+  },
+  "pages": {
+    "zoomIn": "Perbesar",
+    "zoomOut": "Perkecil",
+    "download": "Unduh PDF",
+    "viewFirst": "Lihat {count} halaman pertama",
+    "viewPrevious": "Lihat {count} halaman sebelumnya",
+    "pageRange": "{first}-{last}",
+    "viewNext": "Lihat {count} halaman berikutnya",
+    "viewFinal": "Lihat {count} halaman terakhir",
+    "recalculating": "Menghitung ulang..."
+  },
+  "home": {
+    "step": "Langkah {number}: {name}",
+    "help": "Bantuan",
+    "saveAs": "Simpan langkah-langkah ini sebagai:",
+    "cancel": "Batalkan",
+    "saved": "{name} telah tersimpan",
+    "addStep": "Tambahkan Langkah",
+    "saveSteps": "Simpan Langkah-Langkah",
+    "saveButton": "Simpan"
+  },
+  "error": {
+    "notEmpty": "tidak boleh kosong",
+    "greaterThanZero": "harus lebih besar dari 0",
+    "atLeastZero": "harus setidaknya 0",
+    "aNumber": "harus berupa angka",
+    "atLeastOne": "harus setidaknya 1",
+    "aWholeNumber": "harus berupa angka bulat",
+    "duplicatePaperSizeName": "'{name}' sudah merupakan nama sebuah ukuran kertas",
+    "badRange": "Saya bingung:",
+    "reading": "Gagal membaca {fileName}:",
+    "error": "Gagal: {msg}",
+    "encrypted": "{fileName} terenkripsi. Saya tidak dapat menyalin halaman dari dokumen terenkripsi."
+  },
+  "paperSizes": {
+    "paperSizes": "Ukuran Kertas",
+    "name": "Nama",
+    "add": "Tambahkan",
+    "remove": "Hapus {name}",
+    "restoreDefaults": "Kembalikan ke pengaturan awal"
+  },
+  "range": {
+    "all": "semua",
+    "first": "pertama",
+    "last": "terakhir",
+    "odd": "ganjil",
+    "even": "genap",
+    "group": "kelompok"
+  },
+  "crop": {
+    "help": {
+      "intro": "Alat Potong PDF Snake memotong pinggiran halaman.",
+      "edgeList": "Atas, Kiri, Kanan, Bawah",
+      "amount": "Jumlah pemotongan setiap pinggiran kertas."
+    }
+  },
+  "resize": {
+    "help": {
+      "intro": "Alat Ubah Ukuran PDF Snake memperkecil atau memperbesar isi halaman supaya cocok dengan kertas ukuran apa saja.",
+      "preserveAspectRatio": "Ketika dicentang, mempertahankan rasio tinggi-ke-lebar halaman dari dokumen sumber. Jika tidak dicentang, halaman-halaman mungkin akan diregangkan secara signifikan secara horizontal atau vertikal."
+    }
+  },
+  "impose": {
+    "help": {
+      "margin": "margin",
+      "bleed": "bleed",
+      "cropMarks": "tanda potong",
+      "gutter": "gutter",
+      "lineDistance": "jarak garis",
+      "centerMarks": "tanda tengah",
+      "lineLength": "panjang garis",
+      "measurementsList": "Margin, Tanda Potong, Tanda Tengah, Panjang Garis, Tebal Garis, Jarak Garis, Bleed",
+      "measurementsIntro": "Istilah-istilah lainnya dalam kotak dialog dijelaskan dalam gambar ini:"
+    }
+  },
+  "grid": {
+    "help": {
+      "intro": "Alat Grid PDF Snake mengatur letak halaman dalam pola tertentu. Alat ini juga mengatur ulang urutan halaman supaya dicetak di dua sisi, atau supaya dapat dipotong dan ditumpuk."
+    }
+  },
+  "monkey": {
+    "help": {
+      "intro": "Alat Monkey PDF Snake mengatur letak halaman dalam pola bervariasi. Alat ini menentukan pola optimal untuk memuat sebanyak mungkin halaman sumber dalam satu halaman hasil."
+    }
+  },
+  "help": {
+    "intro": "PDF Snake memiliki semua alat yang Anda butuhkan untuk mempersiapkan dokumen Anda untuk dicetak.",
+    "bookletHtml": "<b>Buklet</b> mengatur halaman menjadi 2 per lembar supaya hasilnya dapat dicetak, ditumpuk, dan dilipat menjadi dua.",
+    "gridHtml": "<b><i>Grid</i></b> mengatur halaman dalam pola tertentu. Alat ini juga mengatur ulang urutan halaman supaya dicetak di dua sisi, atau supaya dapat dipotong dan ditumpuk.",
+    "monkeyHtml": "<b><i>Monkey</i></b> menentukan pola optimal untuk memuat sebanyak mungkin halaman dalam satu lembar.",
+    "resizeHtml": "<b>Ubah Ukuran</b> meregangkan dan memperkecil isi halaman supaya cocok dengan kertas ukuran apa saja.",
+    "rotateHtml": "<b>Putar</b> memutar halaman sebesar sudut tertentu.",
+    "cropHtml": "<b>Potong</b> memotong pinggiran halaman.",
+    "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman."
+  },
+  "account": {
+    "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
+    "subscribersCan": "Pelanggan dapat mengunduh dokumen tanpa jumlah batas hanya untuk {monthlyPrice} per bulan.",
+    "signOut": "Keluar",
+    "thankYouForSubscribing": "Terima Kasih Telah Berlangganan",
+    "downloadAsMany": "Unduh file sebanyak yang Anda inginkan!",
+    "connectingToStripe": "Menghubungkan dengan Stripe...",
+    "manageMySubscription": "Atur Langganan Saya",
+    "subscriptionEnded": "Langganan Anda Telah Berakhir",
+    "subscriptionEndedOn": "Langganan Anda telah berakhir pada {date}.",
+    "freeTrial": "Masa Percobaan Gratis",
+    "freeTrialWillEndOn": "Masa percobaan gratis Anda akan berakhir pada {date}.",
+    "freeTrialEndedOn": "Masa percobaan gratis Anda telah berakhir pada {date}.",
+    "youAreEligibleForFreeTrial": "Selamat! Anda dapat menikmati masa percobaan gratis selama 10 hari. Anda dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis ini.",
+    "beginMyFreeTrialNow": "Mulai Masa Percobaan Gratis Saya Sekarang",
+    "subscribe": "Langganan",
+    "subscribersCanDownload": "Pelanggan dapat mengunduh dokumen tanpa jumlah batas untuk",
+    "perMonth": "{price} per bulan",
+    "perYear": "{price} per tahun",
+    "subscribeNow": "Langganan Sekarang",
+    "stripeError": "Terjadi kegagalan: {msg}"
+  },
+  "helpFor": {
+    "noHelp": "Tidak ada topik bantuan bernama {topic}."
+  },
+  "cookieNotice": {
+    "privacyLink": "Situs web ini menggunakan cookie seturut dengan {link} kami.",
+    "okButton": "OK"
+  },
+  "download": {
+    "downloadTitle": "Unduh",
+    "subscriptionEnded": "Langganan Anda sudah berakhir.",
+    "freeTrialEnded": "Masa percobaan gratis Anda sudah berakhir.",
+    "youCanDownload8hours": "Anda dapat mengunduh satu dokumen setiap 8 jam.",
+    "anonymousCanDownload8hours": "Pengguna anonim dapat mengunduh satu dokumen setiap 8 jam.",
+    "youCanDownloadNext": "Anda dapat mengunduh dokumen selanjutnya pada {date}.",
+    "downloadNowButton": "Unduh Sekarang",
+    "signedInCanDownload10days": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas untuk 10 hari.",
+    "subscribersCanDownloadUnlimited": "Pelanggan dapat mengunduh dokumen tanpa jumlah batas."
+  }
+}

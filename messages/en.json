@@ -198,7 +198,8 @@
     "cancel": "Cancel",
     "saved": "Saved {name}",
     "addStep": "Add Step",
-    "saveSteps": "Save Steps"
+    "saveSteps": "Save Steps",
+    "saveButton": "Save"
   },
   "error": {
     "notEmpty": "must not be empty",

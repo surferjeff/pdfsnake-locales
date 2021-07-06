@@ -1,0 +1,318 @@
+{
+  "titles" : {
+    "privacyPolicy": "Política de privacidad",
+    "terms": "Términos y Condiciones",
+    "pdfSnake": "PDF Snake",
+    "pdfSnakeVersion": "PDF Snake {version}"
+  },
+  "topNav" : {
+    "home": "Inicio",
+    "about": "Sobre",
+    "signIn": "Iniciar sesión",
+    "myAccount": "Mi cuenta"
+  },
+  "dropTarget" : {
+    "dropHere": "Arraste y suelte un archivo PDF aquí o",
+    "browse": "Busque para empezar",
+    "docsStayPrivate": "Sus documentos permanecen privados porque nunca salen de su dispositivo.",
+    "help": "Ayuda"
+  },
+  "about" : {
+    "privacy": "Lea nuestro {link}.",
+    "terms": "Usar esta página web significa que está de acuerdo con nuestros {link}.",
+    "plugIn": "PDF Snake 6 es una nueva versión online del exitoso Plug-In de Adobe Acrobat {link}.",
+    "questions": "Nos encanta escuchar sus preguntas y comentarios.",
+    "copyright": "Derechos de autor 2002-{year} Rennie Glen Software LLC"
+  },
+  "choose": {
+    "whatNext": "¿Qué sigue?"
+  },
+  "tools": {
+    "booklet": "Cuadernillo",
+    "grid": "Grilla",
+    "monkey": "Varias páginas por hoja",
+    "resize": "Redimensionar",
+    "crop": "Recortar",
+    "rotate": "Rotar",
+    "shuffle": "Barajar"
+  },
+  "pageSize": {
+    "paperSize": "Tamaño de papel",
+    "custom": "Personalizado",
+    "edit": "Adicionar y editar tamaños de papel",
+    "width":  "Anchura",
+    "height": "Altura",
+    "landscape": "Paisaje",
+    "help": {
+      "introHtml": "El tamaño de papel para el documento resultante. Para especificar un tamaño de papel no listado anteriormente, seleccione <strong>Personalizado</strong> en el cuadro <strong> Tamaño de papel </strong>, y luego ingrese las dimensiones de la página en los cuadros de <strong> Anchura </strong> y <strong> Altura </strong>.",
+      "width": "La anchura de las páginas en el documento resultante. Debe ser mayor que cero.",
+      "height": "La altura de las páginas en el documento resultante. Debe ser mayor que cero.",
+      "landscapeHtml": "Cuando está marcada, intercambia los valores de la anchura y largura al crear páginas en el documento resultante. Por ejemplo, si <strong>Carta</strong> está seleccionada y <strong>Paisaje</strong> no está marcada, entonces, las páginas resultantes serán de 216 x 279mm. Si <strong>Paisaje</strong> está marcada, entonces, las páginas resultantes serán de 279 x 216mm."
+    }
+  },
+  "units": {
+    "mms": "mms",
+    "inches": "pulgadas",
+    "points": "puntos"
+  }, 
+  "pageOrder": {
+    "pageOrder": "Orden de páginas",
+    "doubleSided": "Doble cara",
+    "doubleSidedHelp": "Las páginas serán organizadas de forma que la página 2 aparezca en el reverso de la página 1, etc.",
+    "repeat": "Repetir cada página",
+    "repeatHelp": "Cada página del documento de origen aparecerá en el documento resultante este número de veces.",
+    "sequential": "secuencial",
+    "sequentialHelp": "Las páginas serán acomodadas en el mismo orden que el documento de origen.",
+    "stack": "apilar",
+    "stackHelp": "Las páginas serán organizadas de forma que, luego de ser impresas y cortadas, las pilas resultantes puedan ser apiladas entre sí, y el orden resultante de las páginas coincida con el del documento de origen."
+  },
+  "whiteSpace": {
+    "whiteSpace": "Espacio en blanco",
+    "left": "Izquierda",
+    "top": "Superior",
+    "right": "Derecha",
+    "bottom": "Inferior",
+    "margins": "Márgenes:",
+    "horizontal": "Horizontal",
+    "vertical": "Vertical",
+    "gutters": "Medianiles:",
+    "center": "Centrar resultado en la página",
+    "centerGutter": "Centrar el medianil",
+    "pageCreep": "Corrección de desplazamiento"
+   },
+  "layout": {
+    "layout": "Disposición",
+    "columns": "Columnas",
+    "rows": "Filas"
+  },
+  "autoscale": {
+    "autoscale": "Escala automática",
+    "autoscaleHelp": "Cuando está marcada, las páginas son escaladas al mayor tamaño posible, al mismo tiempo que se ajusta a los márgenes y medianiles.",
+    "preserveAspectRatio": "Conservar las proporciones"
+  },
+  "cropMarks": {
+    "cropMarks": "Marcas de impresora",
+    "drawCropMarks": "Trazar marcas de corte",
+    "drawCenterMarks": "Trazar marcas de centro",
+    "lineLength": "Longitud de línea",
+    "lineThickness": "Grosor de línea",
+    "lineDistance": "Distancia de línea",
+    "fourColorBlack": "Negro plano",
+    "fourColorBlackHelp": "Cuando está marcada, las marcas de corte son trazadas con tinta color cian, magenta, amarilla y negra. Cuando no está marcada, las marcas de corte se trazan solo con tinta negra."
+  },
+  "bleeds": {
+    "bleeds": "Sangrías",
+    "noBleeds": "Sin sangrías",
+    "pullBleeds": "Obtener información de las sangrías del documento",
+    "fixedBleeds": "Sangrías fijas",
+    "leftAndRight": "Izquierda y derecha",
+    "topAndBottom": "Superior e inferior"
+  },
+  "booklet": {
+    "bookBinding": "Encuadernación",
+    "saddleSize": "Tamaño del pliego: {count} hojas",
+    "fillLastSaddle": "Completar último pliego",
+    "scale": "Escala",
+    "help": {
+      "intro": "La herramienta Cuadernillo de PDF Snake reorganiza las páginas para crear un cuadernillo. Lo primero que hace es barajarlas de tal manera que queden en orden por número de página de libro, posteriormente, ubica dos páginas lado a lado en cada hoja de papel. El documento resultante puede ser doblado y grapado en la mitad para hacer un cuadernillo o un libro.",
+      "step0": "Los libros se encuadernan mediante el siguiente proceso:",
+      "step1": "La hojas se imprimen de 2 en 1, a doble cara.",
+      "step2": "Las hojas se organizan en pilas de N, usualmente alrededor de 5 hojas.",
+      "step3": "Cada pila se dobla por la mitad.",
+      "step4": "Las pilas se pegan y/o se cosen juntas.",
+      "step5": "Los bordes libres de las páginas se cortan para hacer que todas las páginas estén alineadas.",
+      "saddleSize": "Tamaño del pliego",
+      "saddleSizeHelp": "El número de hojas que se colocarán en cada pila y se doblarán. Si se deja vacía, todas las hojas serán colocadas en una sola pila.",
+      "fillLastSaddleHtml": "Frecuentemente, va a haber un número impar de páginas en el documento de origen y el último pliego tendrá algunas páginas vacías. Cuando <strong>Completar último pliego</strong> está marcada,las páginas en blanco se añadirán para que todos los pliegues tengan el mismo número de hojas. Cuando no está marcada, el último pliegue puede que tenga menos hojas que el resto.",
+      "pageCreepHtml": " En el paso 5 del proceso de encuadernación listado arriba, las páginas se recortan para hacer que los bordes libres queden alineados. Más papel es recortado de la hoja en el centro del pliegue que de la hoja afuera del pliegue, debido a que su borde sobresale más. Esto se llama <i>corrección de desplazamiento</i>. Con el fin de compensar esto, así como para lograr que todas las páginas aparezcan en la misma posición después de que el libro sea encuadernado y cortado,las páginas deben ser ajustadas ligeramente, dependiendo de factores como el grosor del papel. Cada página es ligeramente ajustada por el valor definido en <strong>Corrección de desplazamiento</strong>. Para entender exactamento lo que esto hace, intente definir <strong>Corrección de desplazamiento</strong> a media pulgada, o cerca de diez milímetros y observe los resultados."
+    }
+  },
+  "rotate": {
+    "rotation": "Rotar",
+    "degrees": "grados",
+    "degreesHelp": "El ángulo al cual rotar las páginas.",
+    "help": " La herramienta Rotar de PDF Snake rota las páginas en cualquier grado."
+  },
+  "pageRange": {
+    "pageRange": "Páginas",
+    "help": {
+      "intro": "Los intervalos de páginas se especifican usualmente en el siguiente formato:",
+      "generalExample": "primera-última ¿impar? ¿par?",
+      "someExamples": "Sin embargo, la mejor forma de entender cómo especificar los intervalos de páginas es observar los siguientes ejemplos:",
+      "allThePages": "todas las páginas en el documento",
+      "pages-3-10-15": "páginas 3, 10 y 15",
+      "pages-10-15": "páginas 10 a 15 (6 páginas)",
+      "pages-3-4-10-15": "páginas 3, 4 y de 10 a 15 (8 páginas)",
+      "pages-10-15-even": "páginas 10, 12 y 14",
+      "pages-10-15-odd": "páginas 11, 13 y 15",
+      "pages-10-odd": "todas las páginas impares después de la página 10",
+      "pages-1-10-even-10-odd": "páginas 2, 4, 6, 8, 10 y todas las páginas impares después de la página 10",
+      "pages-even": "todas las páginas pares"
+    }
+  },
+  "shuffle": {
+    "note": "Nota: Utilice {link} para juntar páginas de varios documentos.",
+    "help": {
+      "intro": " La herramienta Barajar de PDF Snake baraja las páginas de un documento. En un solo paso puede reordenar las páginas, borrar páginas duplicadas, añadir páginas en blanco y rotar páginas.",
+      "format": "El orden de las páginas se especifica usualmente en el siguiente formato, muy similar al formato de intervalo de páginas.",
+      "allThePages": "todas las páginas del documento, en el mismo orden",
+      "theLastPage": "la última página del documento",
+      "theSecondToLastPage": "la penúltima página del documento",
+      "pages-15-10-3": "páginas 15, 10 y 3",
+      "pages-15-10": "páginas 10 a 15 en orden inverso (6 páginas)",
+      "allReversed": "todas las páginas del documento en orden inverso",
+      "pages-15-10-odd": "páginas 15, 13 y 11",
+      "pages-odd-even": "todas las páginas impares seguidas por todas las páginas pares",
+      "pages-odd-1-even": "todas las páginas impares seguidas por todas las páginas pares en orden inverso",
+      "pages-5-1": "cinco copias de la primera página",
+      "pages-2-odd-even-8": "todas las páginas impares, luego todas las páginas pares, posteriormente, todas las páginas impares nuevamente, después, todas las páginas pares nuevamente, finalmente, la página 8",
+      "pages-all-all": "2 copias de la página 1, 2 copias de la página 2, 2 copias de la página 3, etc.",
+      "pages-square-odd-even": "todas las páginas en el orden normal",
+      "rotateIntro": "PDF Snake puede rotar las páginas a la vez que las baraja. Utilice los siguientes símbolos luego del número de página para especificar la rotación:",
+      "rotate90": "rotar 90 grados en sentido horario",
+      "rotate180": "rotar 180 grados", 
+      "rotate270": "rotar 270 grados sentido horario (90 grados sentido anti-horario)",
+      "allUpsideDown": "todas las páginas del documento, de cabeza",
+      "pages-1-2-3-4": "página 1, página 2 rotada 90 grados sentido horario, página 3 de cabeza, página 4 rotada 90 grados sentido anti-horario.",
+      "groupIntro": "PDF Snake puede repetir un patrón de barajamiento varias veces sobre el mismo documento. Por ejemplo:",
+      "pages-group-3": "para un documento de seis páginas, genera el orden de páginas 3 2 1 6 5 4",
+      "blankIntro": "PDF Snake va a insertar páginas en blanco siempre que digite una X:",
+      "pages-1-X-3": "página 1, una página en blanco, página 3"
+    }
+  },
+  "pages": {
+    "zoomIn": "Acercarse",
+    "zoomOut": "Alejarse",
+    "download": "Descargar PDF",
+    "viewFirst": "Ver primeras {count} páginas",
+    "viewPrevious": "Ver las {count} páginas anteriores",
+    "pageRange": "{first}-{last}",
+    "viewNext": "Ver las siguientes {count} páginas",
+    "viewFinal": "Ver las últimas {count} páginas",
+    "recalculating": "Recalculando..."
+  },
+  "home": {
+    "step": "Etapa {number}: {name}",
+    "help": "Ayuda",
+    "saveAs": "Guardar estas etapas como:",
+    "cancel": "Cancelar",
+    "saved": "{name} Guardado",
+    "addStep": "Añadir etapa",
+    "saveSteps": "Guardar etapas",
+    "saveButton": "Guardar"
+  },
+  "error": {
+    "notEmpty": "no debe estar vacío ",
+    "greaterThanZero": "debe ser más grande que 0",
+    "atLeastZero": "debe ser por lo menos 0",
+    "aNumber": "debe ser un número",
+    "atLeastOne": "deber ser por lo menos 1",
+    "aWholeNumber": "debe ser un número entero",
+    "duplicatePaperSizeName": "'{name}' ya es el nombre de un tamaño de papel",
+    "badRange": "Estoy confundido aquí:",
+    "reading": "Error al leer {fileName}:",
+    "error": "Error: {msg}",
+    "encrypted": "{fileName} está cifrado. No puedo hacer copias de documentos cifrados."
+  },
+  "paperSizes": {
+    "paperSizes": "Tamaños de Papel",
+    "name": "Nombre",
+    "add": "Añadir",
+    "remove": "Borrar {name}",
+    "restoreDefaults": "Restaurar valores predeterminados"
+  },
+  "range": {
+    "all": "todas",
+    "first": "primera",
+    "last": "última",
+    "odd": "impar",
+    "even": "par",
+    "group": "grupo"
+  },
+  "crop": {
+    "help": {
+      "intro": "La herramienta Recortar de PDF Snake recorta los bordes de las páginas.",
+      "edgeList": "Superior, Izquierda, Derecha, Inferior",
+      "amount": "La cantidad a recortar de cada borde."
+    }
+  },
+  "resize": {
+    "help": {
+      "intro": "La herramienta Redimensionar PDF Snake encoge o expande los contenidos de las páginas para que quepan en cualquier tamaño de papel.",
+      "preserveAspectRatio": " Cuando está marcada, preserva la proporción entre la altura y el ancho en las páginas del documento de origen. Si esta casilla no está marcada, las páginas pueden ser estiradas considerablemente ya sea horizontalmente o verticalmente."
+    }
+  },
+  "impose": {
+    "help": {
+      "margin": "margen",
+      "bleed": "sangría",
+      "cropMarks": "marcas de corte",
+      "gutter": "medianil",
+      "lineDistance": "distancia de línea",
+      "centerMarks": "marcas de centro",
+      "lineLength": "longitud de línea",
+      "measurementsList": "Márgenes, Marcas de corte, Marcas de centro, Longitud de línea, Grosor de línea, Distancia de línea, Sangrías",
+      "measurementsIntro": "El resto de los valores en el cuadro de diálogo están explicados en esta imagen:"
+    }
+  },
+  "grid": {
+    "help": {
+      "intro": "La herramienta Grilla de PDF Snake ordena las páginas en un patrón fijo. De igual manera, reorganiza las páginas de tal manera que salgan a doble cara o puedan ser cortadas y apiladas."
+    }
+  },
+  "monkey": {
+    "help": {
+      "intro": "La herramienta Varias páginas por hoja de PDF Snake organiza las páginas en un patrón variable. Esta encuentra el patrón óptimo para que quepa el mayor número posible de hojas del documento de origen en una sola página de salida."
+    }
+  },
+  "help": {
+    "intro": "PDF Snake tiene todas las herramientas que necesita para preparar su documento para la impresión.",
+    "bookletHtml": "<b>Cuadernillo</b> reorganiza y ordena las páginas de 2 en 1 para que el resultado se pueda imprimir, apilar y doblar por la mitad.",
+    "gridHtml": "<b>Grilla</b> ordena las páginas en un patrón fijo. De igual manera, reorganiza las páginas para que salgan a doble cara, o puedan ser cortadas y apiladas.",
+    "monkeyHtml": "<b>Varias páginas por hoja</b> encuentra el patrón óptimo para que quepa la mayor cantidad de páginas en una sola hoja.",
+    "resizeHtml": "<b>Redimensionar</b> estira o encoge el contenido de la página para que quepan en cualquier tamaño de papel.",
+    "rotateHtml": "<b>Rotar</b> rota las páginas en cualquier grado.",
+    "cropHtml": "<b>Recortar</b> recorta los bordes de las páginas.",
+    "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota."
+  },
+  "account": {
+    "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
+    "subscribersCan": "Los suscriptores pueden descargar documentos ilimitados por solo {monthlyPrice} al mes.",
+    "signOut": "Cerrar sesión",
+    "thankYouForSubscribing": "Gracias por suscribirse",
+    "downloadAsMany": "¡Descargue la cantidad de archivos que usted desee!",
+    "connectingToStripe": "Conectándose a Stripe...",
+    "manageMySubscription": "Administrar mi suscripción",
+    "subscriptionEnded": "Su suscripción a finalizado",
+    "subscriptionEndedOn": "Su suscripción finalizó el {date}.",
+    "freeTrial": "Prueba gratuita",
+    "freeTrialWillEndOn": "Su prueba gratuita terminará el {date}.",
+    "freeTrialEndedOn": "Su prueba gratuita terminó el {date}.",
+    "youAreEligibleForFreeTrial": "¡Felicitaciones!  Usted es elegible para una prueba gratuita de 10 días. Puede descargar documentos ilimitados durante la prueba gratuita.",
+    "beginMyFreeTrialNow": "Comenzar mi prueba gratuita ahora",
+    "subscribe": "Suscribirse",
+    "subscribersCanDownload": "Los suscriptores pueden descargar documentos ilimitados por",
+    "perMonth": "{price} al mes",
+    "perYear": "{price} al año",
+    "subscribeNow": "Suscríbase ahora", 
+    "stripeError": "Ha ocurrido un error: {msg}"
+  },
+  "helpFor": {
+    "noHelp": "No hay ningún tema de ayuda llamado {topic}."
+  },
+  "cookieNotice": {
+    "privacyLink": "Esta página web utiliza cookies de acuerdo con nuestra {link}.",
+    "okButton": "Ok"
+  },
+  "download": {
+    "downloadTitle": "Descargar",
+    "subscriptionEnded": "Su suscripción finalizó.",
+    "freeTrialEnded": "Su prueba gratuita finalizó.",
+    "youCanDownload8hours": "Puede descargar un documento cada 8 horas.",
+    "anonymousCanDownload8hours": "Los usuarios anónimos pueden descargar un documento cada 8 horas.",
+    "youCanDownloadNext": "Puede descargar su siguiente documento en {date}.",
+    "downloadNowButton": "Descargar ahora",
+    "signedInCanDownload10days": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por 10 días.",
+    "subscribersCanDownloadUnlimited": "Los suscriptores pueden descargar documentos ilimitados."
+  }
+}
