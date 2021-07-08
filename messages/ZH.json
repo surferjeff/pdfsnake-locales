@@ -30,7 +30,7 @@
   "tools": {
     "booklet": "手册",
     "grid": "网格",
-    "monkey": "篡改",
+    "monkey": "拼版",
     "resize": "调整尺寸",
     "crop": "裁切",
     "rotate": "旋转",
@@ -81,7 +81,7 @@
     "pageCreep": "页面错动幅度"
   },
   "layout": {
-    "layout": "布局",
+    "layout": "版式",
     "columns": "列数",
     "rows": "行数"
   },
@@ -129,7 +129,7 @@
   },
   "rotate": {
     "rotation": "旋转",
-    "degrees": "角度",
+    "degrees": "度",
     "degreesHelp": "页面旋转角度。",
     "help": "PDF Snake 的“旋转”工具可以任何角度旋转页面。"
   },
@@ -137,7 +137,7 @@
     "pageRange": "页面范围",
     "help": {
       "intro": "页面范围通常按以下格式指定：",
-      "generalExample": "first-last odd? even?",
+      "generalExample": "第一页到最后一页，奇数页？偶数页？",
       "someExamples": "但是，最好的页面范围指定方法理解方式是仔细研究一些示例：",
       "allThePages": "文档中的所有页面",
       "pages-3-10-15": "第 3、10、15 页",
@@ -198,7 +198,7 @@
     "cancel": "取消",
     "saved": "已保存 {name}",
     "addStep": "添加步骤",
-    "saveSteps": "保存步骤",
+    "saveSteps": "保存步骤"
     "saveButton": "保存"
   },
   "error": {
@@ -262,14 +262,14 @@
   },
   "monkey": {
     "help": {
-      "intro": "PDF Snake 的“篡改”工具可以多种模式对页面进行排版。此工具可找出尽可能在一个输出页面中多放入一些源页面的最佳方式。"
+      "intro": "PDF Snake 的“拼版”工具可以多种模式对页面进行排版。此工具可找出尽可能在一个输出页面中多放入一些源页面的最佳方式。"
     }
   },
   "help": {
     "intro": "PDF Snake 中有针对印刷机制备文档所需的全部工具。",
     "bookletHtml": "<b>手册</b>用于对页面重新排序，并进行双联排版，以使得出的文档可印刷、码堆和对折。",
     "gridHtml": "<b>网格</b>可以固定的模式对页面进行排版。此工具还会对页面重新排序，以使其可以双面印刷，或使其能够裁切并码堆。",
-    "monkeyHtml": "<b>篡改</b>可找出将大多数页面放入一张纸中的最佳方式。",
+    "monkeyHtml": "<b>拼版</b>可找出将大多数页面放入一张纸中的最佳方式。",
     "resizeHtml": "<b>调整尺寸</b>可对页面内容进行拉伸和收缩，以使其与纸张大小相配。",
     "rotateHtml": "<b>旋转</b>可以任何角度旋转页面。",
     "cropHtml": "<b>裁切</b>可裁切页面边缘。",
