@@ -12,7 +12,7 @@
     "myAccount": "マイアカウント"
   },
   "dropTarget" : {
-    "dropHere": "PDFファイルをこちらにドラッグ＆ドロップするか",
+    "dropHere": "PDF、JPEG、PNGファイルをこちらにドラッグ＆ドロップするか",
     "browse": "ファイルを参照",
     "docsStayPrivate": "文書ファイルは、非公開のままデバイス上に残ります。",
     "help": "ヘルプ"

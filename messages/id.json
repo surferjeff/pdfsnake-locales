@@ -12,7 +12,7 @@
     "myAccount": "Akun Saya"
   },
   "dropTarget" : {
-    "dropHere": "Tarik sebuah file PDF ke sini atau",
+    "dropHere": "Tarik sebuah file PDF, JPEG, atau PNG ke sini atau",
     "browse": "Pilih File untuk Memulai",
     "docsStayPrivate": "Dokumen-dokumen Anda tetap terjaga kerahasiaannya karena mereka tidak pernah meninggalkan perangkat Anda.",
     "help": "Bantuan"

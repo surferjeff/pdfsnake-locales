@@ -12,7 +12,7 @@
     "myAccount": "Minha conta"
   },
   "dropTarget" : {
-    "dropHere": "Arraste e solte um arquivo PDF aqui ou",
+    "dropHere": "Arraste e solte um arquivo PDF, JPEG ou PNG aqui ou",
     "browse": "Procure para começar",
     "docsStayPrivate": "Seus documentos permanecem privados porque nunca saem do seu dispositivo.",
     "help": "Ajuda"
