@@ -273,7 +273,8 @@
     "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
     "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
     "cropHtml": "<b>Crop</b> crops the edges of pages.",
-    "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages."
+    "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages.",
+    "imposeCount": "Users have imposed {count} documents with PDF Snake!"
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",

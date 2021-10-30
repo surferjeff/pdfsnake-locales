@@ -273,7 +273,8 @@
     "resizeHtml": "<b>Redimensionner</b> étire et rétrécit le contenu de la page pour l'adapter à n'importe quel format de papier.",
     "rotateHtml": "<b>Tourner</b> fait tourner les pages de n'importe quel degré.",
     "cropHtml": "<b>Récolte</b> recouvre les bords des pages.",
-    "shuffleHtml": " <b>Mélange</b> réorganise l'ordre des pages et fait tourner les pages. "
+    "shuffleHtml": " <b>Mélange</b> réorganise l'ordre des pages et fait tourner les pages. ",
+    "imposeCount": "Les utilisateurs ont imposé {count} documents avec PDF Snake !"
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",

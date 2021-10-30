@@ -273,7 +273,8 @@
     "resizeHtml": "<b>Redimensionar</b> estira o encoge el contenido de la página para que quepan en cualquier tamaño de papel.",
     "rotateHtml": "<b>Rotar</b> rota las páginas en cualquier grado.",
     "cropHtml": "<b>Recortar</b> recorta los bordes de las páginas.",
-    "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota."
+    "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota.",
+    "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!"
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
