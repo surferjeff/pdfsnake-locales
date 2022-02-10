@@ -316,5 +316,20 @@
     "downloadNowButton": "Download Now",
     "signedInCanDownload10days": "Signed-in users can download unlimited documents for 10 days.",
     "subscribersCanDownloadUnlimited": "Subscribers can download unlimited documents."
+  },
+  "paddle": {
+    "subscriptionNotFound": "Subscription Not Found",
+    "subscriptionExpired": "Subscription Expired",
+    "subscriptionExpiredDate": "Your subscription expired on {date}.",
+    "pleaseCreate": "Please create a new subscription.",
+    "subscriptionCanceled": "Subscription Canceled",
+    "subscriptionWillExpire": "Your subscription has been canceled and will expire on {date}.",
+    "updateButton": "Update",
+    "cancelButton": "Cancel",
+    "paymentHistory": "Payment History",
+    "paymentDate": "Date",
+    "paymentEvent": "Event",
+    "paymentAmount": "Amount",
+    "receipt": "receipt"
   }
 }
