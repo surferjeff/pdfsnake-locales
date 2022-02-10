@@ -273,7 +273,8 @@
     "resizeHtml": "<b>Ubah Ukuran</b> meregangkan dan memperkecil isi halaman supaya cocok dengan kertas ukuran apa saja.",
     "rotateHtml": "<b>Putar</b> memutar halaman sebesar sudut tertentu.",
     "cropHtml": "<b>Potong</b> memotong pinggiran halaman.",
-    "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman."
+    "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman.",
+    "imposeCount": ""
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",

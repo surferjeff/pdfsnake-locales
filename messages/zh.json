@@ -273,7 +273,8 @@
     "resizeHtml": "<b>调整尺寸</b>可对页面内容进行拉伸和收缩，以使其与纸张大小相配。",
     "rotateHtml": "<b>旋转</b>可以任何角度旋转页面。",
     "cropHtml": "<b>裁切</b>可裁切页面边缘。",
-    "shuffleHtml": "<b>随机排序</b>可对页面重新排序，还可以旋转页面。"
+    "shuffleHtml": "<b>随机排序</b>可对页面重新排序，还可以旋转页面。",
+    "imposeCount": ""
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
