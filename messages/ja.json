@@ -295,7 +295,8 @@
     "perMonth": "月額 {price}",
     "perYear": "年額 {price}",
     "subscribeNow": "今すぐ有料会員登録する",
-    "stripeError": "エラーが発生しました: {msg}"
+    "stripeError": "エラーが発生しました: {msg}",
+    "paymentsWillAppear": "支払いは銀行/カードの明細書に次のように表示されます。"
   },
   "helpFor": {
     "noHelp": "{topic} のヘルプメニューは見つかりませんでした。"

@@ -296,7 +296,8 @@
     "perMonth": "{price} per month",
     "perYear": "{price} per year",
     "subscribeNow": "Subscribe Now",
-    "stripeError": "An error occurred: {msg}"
+    "stripeError": "An error occurred: {msg}",
+    "paymentsWillAppear": "Payments will appear on your bank/card statement as:"
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."

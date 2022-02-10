@@ -296,7 +296,8 @@
     "perMonth": "{price} por mês",
     "perYear": "{price} por ano",
     "subscribeNow": "Assinar agora",
-    "stripeError": "Ocorreu um erro: {msg}"
+    "stripeError": "Ocorreu um erro: {msg}",
+    "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:"
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."

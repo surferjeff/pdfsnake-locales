@@ -296,7 +296,8 @@
     "perMonth": "{price} par mois",
     "perYear": "{price} par an",
     "subscribeNow": "Abonnez-vous maintenant",
-    "stripeError": "Une erreur s'est produite : {msg}"
+    "stripeError": "Une erreur s'est produite : {msg}",
+    "paymentsWillAppear": "Les paiements apparaîtront sur votre relevé bancaire/de carte sous la forme :"
   },
   "helpFor": {
     "noHelp": "Il n'y a pas de rubrique d'aide nommée {topic}."

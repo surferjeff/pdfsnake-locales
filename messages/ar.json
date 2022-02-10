@@ -296,7 +296,8 @@
     "perMonth": "{price} في الشهر",
     "perYear": "{price} في السنة",
     "subscribeNow": "اشترك الآن",
-    "stripeError": "حدث خطأ ما: {msg}"
+    "stripeError": "حدث خطأ ما: {msg}",
+    "paymentsWillAppear": "ستظهر المدفوعات في كشف حسابك المصرفي / بطاقتك كـ"
   },
   "helpFor": {
     "noHelp": "لا يوجد مقال مساعدة بعنوان {topic}."
