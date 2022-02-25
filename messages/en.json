@@ -1,23 +1,23 @@
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "Privacy Policy",
     "terms": "Terms and Conditions",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "Home",
     "about": "About",
     "signIn": "Sign In",
     "myAccount": "My Account"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "Drag and drop a PDF, JPEG, or PNG file here or",
     "browse": "Browse to Begin",
     "docsStayPrivate": "Your documents stay private because they never leave your device.",
     "help": "Help"
   },
-  "about" : {
+  "about": {
     "privacy": "Read our {link}.",
     "terms": "Using this website means that you agree with our {link}.",
     "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
@@ -40,7 +40,7 @@
     "paperSize": "Paper Size",
     "custom": "Custom",
     "edit": "Add & edit paper sizes",
-    "width":  "Width",
+    "width": "Width",
     "height": "Height",
     "landscape": "Landscape",
     "help": {
@@ -79,7 +79,7 @@
     "center": "Center output on page",
     "centerGutter": "Center Gutter",
     "pageCreep": "Page Creep"
-   },
+  },
   "layout": {
     "layout": "Layout",
     "columns": "Columns",
@@ -324,12 +324,13 @@
     "pleaseCreate": "Please create a new subscription.",
     "subscriptionCanceled": "Subscription Canceled",
     "subscriptionWillExpire": "Your subscription has been canceled and will expire on {date}.",
-    "updateButton": "Update",
+    "updateButton": "Modify",
     "cancelButton": "Cancel",
     "paymentHistory": "Payment History",
     "paymentDate": "Date",
     "paymentEvent": "Event",
     "paymentAmount": "Amount",
-    "receipt": "receipt"
+    "receipt": "receipt",
+    "quantity": "Quantity: {0}"
   }
 }

@@ -274,7 +274,7 @@
     "rotateHtml": "<b>旋转</b>可以任何角度旋转页面。",
     "cropHtml": "<b>裁切</b>可裁切页面边缘。",
     "shuffleHtml": "<b>随机排序</b>可对页面重新排序，还可以旋转页面。",
-    "imposeCount": ""
+    "imposeCount": "用户使用 PDF Snake 强加了 {count} 个文档！"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -316,5 +316,21 @@
     "downloadNowButton": "立即下载",
     "signedInCanDownload10days": "已登录的用户可在 10 天内下载的文档数量没有限制。",
     "subscribersCanDownloadUnlimited": "订购者可下载的文档数量不限。"
+  },
+  "paddle": {
+    "subscriptionNotFound": "未找到订阅",
+    "cancelButton": "取消",
+    "paymentAmount": "数量",
+    "paymentDate": "日期",
+    "paymentEvent": "事件",
+    "paymentHistory": "支付历史",
+    "pleaseCreate": "请创建一个新订阅。",
+    "quantity": "数量：{0}",
+    "receipt": "收据",
+    "subscriptionCanceled": "订阅取消",
+    "subscriptionExpired": "订阅已过期",
+    "subscriptionExpiredDate": "您的订阅已于 {date}到期。",
+    "subscriptionWillExpire": "您的订阅已取消，将于 {date}到期。",
+    "updateButton": "调整"
   }
 }

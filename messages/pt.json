@@ -1,23 +1,23 @@
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "Política de Privacidade",
     "terms": "Termos e Condições",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "Início",
     "about": "Sobre",
     "signIn": "Fazer login",
     "myAccount": "Minha conta"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "Arraste e solte um arquivo PDF, JPEG ou PNG aqui ou",
     "browse": "Procure para começar",
     "docsStayPrivate": "Seus documentos permanecem privados porque nunca saem do seu dispositivo.",
     "help": "Ajuda"
   },
-  "about" : {
+  "about": {
     "privacy": "Leia nossa {link}.",
     "terms": "Usar este site significa que você concorda com nossos {link}.",
     "plugIn": "PDF Snake 6 é uma nova versão online do plug-in Adobe Acrobat mais vendido {link}.",
@@ -40,7 +40,7 @@
     "paperSize": "Tamanhos de papel",
     "custom": "Personalizado",
     "edit": "Adicionar e editar tamanhos de papel",
-    "width":  "Largura",
+    "width": "Largura",
     "height": "Altura",
     "landscape": "Paisagem",
     "help": {
@@ -79,7 +79,7 @@
     "center": "Centralize a saída na página",
     "centerGutter": "Centralize a medianiz",
     "pageCreep": "Área de compensação de deslocamento da página"
-   },
+  },
   "layout": {
     "layout": "Layout",
     "columns": "Colunas",
@@ -316,5 +316,21 @@
     "downloadNowButton": "Baixar agora",
     "signedInCanDownload10days": "Usuários cadastrados podem baixar documentos ilimitados por 10 dias.",
     "subscribersCanDownloadUnlimited": "Assinantes podem baixar documentos ilimitados."
+  },
+  "paddle": {
+    "subscriptionNotFound": "Assinatura não encontrada",
+    "cancelButton": "Cancelar",
+    "paymentAmount": "Montante",
+    "paymentDate": "data",
+    "paymentEvent": "Evento",
+    "paymentHistory": "Histórico de pagamento",
+    "pleaseCreate": "Por favor, crie uma nova assinatura.",
+    "quantity": "Quantidade: {0}",
+    "receipt": "recibo",
+    "subscriptionCanceled": "Assinatura cancelada",
+    "subscriptionExpired": "Assinatura expirada",
+    "subscriptionExpiredDate": "Sua assinatura expirou em {date}.",
+    "subscriptionWillExpire": "Sua assinatura foi cancelada e expirará em {date}.",
+    "updateButton": "Modificar"
   }
 }
