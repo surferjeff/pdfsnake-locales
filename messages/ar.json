@@ -1,29 +1,29 @@
-  
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "سياسة الخصوصية",
     "terms": "الأحكام والشروط",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "الصفحة الرئيسية",
     "about": "معلومات عنا",
     "signIn": "تسجيل الدخول",
     "myAccount": "حسابي"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "اسحب ملف الـ PDF أو JPEG أو PNG وأفلته هنا أو",
     "browse": "تصفح لتبدأ",
     "docsStayPrivate": "تحتفظ مستنداتك بخصوصيتها الكاملة لأنها لا تغادر جهازك مطلقًا.",
     "help": "مساعدة"
   },
-  "about" : {
+  "about": {
     "privacy": "اطّلع على {link}.",
     "terms": "استخدامك لهذا الموقع الإلكتروني يعد موافقة منك على {link}.",
     "plugIn": "PDF Snake 6 هو الإصدار الجديد من إضافة Adobe Acrobat للمتصفح الأكثر مبيعًا {link}.",
     "questions": "نرحب بجميع أسئلتك واقتراحاتك.",
-    "copyright": "الملكية الفكرية 2002-{year} Rennie Glen Software ذ.م.م."},
+    "copyright": "الملكية الفكرية 2002-{year} Rennie Glen Software ذ.م.م."
+  },
   "choose": {
     "whatNext": "ما الخطوة التالية؟"
   },
@@ -40,7 +40,7 @@
     "paperSize": "حجم الصفحة",
     "custom": "مخصص",
     "edit": "إضافة وتعديل أبعاد الصفحة",
-    "width":  "العرض",
+    "width": "العرض",
     "height": "الارتفاع",
     "landscape": "أفقي",
     "help": {
@@ -79,7 +79,7 @@
     "center": "توسيط في الصفحة",
     "centerGutter": "هامش توثيق المركز",
     "pageCreep": "تسلق الصفحات"
-   },
+  },
   "layout": {
     "layout": "تخطيط",
     "columns": "أعمدة",
@@ -274,7 +274,7 @@
     "rotateHtml": "<b>تدوير</b> استدارة الصفحات بأي زاوية.",
     "cropHtml": "<b>اقتصاص</b> قص حواف الصفحات.",
     "shuffleHtml": "<b>إعادة الترتيب</b> إعادة ترتيب الصفحات وتدويرها.",
-    "imposeCount": ""
+    "imposeCount": "فرض المستخدمون {count} مستندًا باستخدام PDF Snake!"
   },
   "account": {
     "signedInUsersCan": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات خلال فترة الـ 10 أيام التجريبية المجانية.",
@@ -292,7 +292,6 @@
     "youAreEligibleForFreeTrial": "تهانينا! أنت مؤهل للحصول على تجربة مجانية لمدة 10 أيام. يمكنك تنزيل عدد غير محدود من المستندات خلال هذه الفترة المجانية.",
     "beginMyFreeTrialNow": "بدء التجربة المجانية الآن",
     "subscribe": "اشتراك",
-    "subscribersCanDownload": "يمكن للمشتركين تنزيل عدد غير محدود من المستندات مقابل",
     "subscribersCanDownload": "يمكن للمشتركين تنزيل عدد غير محدود من المستندات لمدة",
     "perMonth": "{price} في الشهر",
     "perYear": "{price} في السنة",
@@ -317,5 +316,21 @@
     "downloadNowButton": "تنزيل الآن",
     "signedInCanDownload10days": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات لمدة 10 أيام.",
     "subscribersCanDownloadUnlimited": "يمكن للمشتركين تحميل عدد غير محدود من المستندات."
+  },
+  "paddle": {
+    "subscriptionNotFound": "الاشتراك غير موجود",
+    "cancelButton": "يلغي",
+    "paymentAmount": "مقدار",
+    "paymentDate": "تاريخ",
+    "paymentEvent": "هدف",
+    "paymentHistory": "تاريخ الدفع",
+    "pleaseCreate": "الرجاء إنشاء اشتراك جديد.",
+    "quantity": "الكمية: {0}",
+    "receipt": "الإيصال",
+    "subscriptionCanceled": "تم إلغاء الاشتراك",
+    "subscriptionExpired": "صلاحية الاشتراك",
+    "subscriptionExpiredDate": "انتهى اشتراكك في {date}.",
+    "subscriptionWillExpire": "تم إلغاء اشتراكك وسوف تنتهي صلاحيته في {date}.",
+    "updateButton": "تعديل"
   }
 }

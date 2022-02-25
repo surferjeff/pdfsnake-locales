@@ -1,23 +1,23 @@
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "Kebijakan Privasi",
     "terms": "Syarat dan Ketentuan",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "Beranda",
     "about": "Tentang",
     "signIn": "Masuk",
     "myAccount": "Akun Saya"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "Tarik sebuah file PDF, JPEG, atau PNG ke sini atau",
     "browse": "Pilih File untuk Memulai",
     "docsStayPrivate": "Dokumen-dokumen Anda tetap terjaga kerahasiaannya karena mereka tidak pernah meninggalkan perangkat Anda.",
     "help": "Bantuan"
   },
-  "about" : {
+  "about": {
     "privacy": "Baca {link} kami.",
     "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
     "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
@@ -40,7 +40,7 @@
     "paperSize": "Ukuran Kertas",
     "custom": "Kustom",
     "edit": "Tambah & edit ukuran kertas",
-    "width":  "Lebar",
+    "width": "Lebar",
     "height": "Tinggi",
     "landscape": "Lanskap",
     "help": {
@@ -79,7 +79,7 @@
     "center": "Buat halaman ada di tengah",
     "centerGutter": "Gutter tengah",
     "pageCreep": "Creep Halaman"
-   },
+  },
   "layout": {
     "layout": "Susunan",
     "columns": "Kolom",
@@ -274,7 +274,7 @@
     "rotateHtml": "<b>Putar</b> memutar halaman sebesar sudut tertentu.",
     "cropHtml": "<b>Potong</b> memotong pinggiran halaman.",
     "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman.",
-    "imposeCount": ""
+    "imposeCount": "Pengguna telah menerapkan {count} dokumen dengan PDF Snake!"
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -316,5 +316,21 @@
     "downloadNowButton": "Unduh Sekarang",
     "signedInCanDownload10days": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas untuk 10 hari.",
     "subscribersCanDownloadUnlimited": "Pelanggan dapat mengunduh dokumen tanpa jumlah batas."
+  },
+  "paddle": {
+    "subscriptionNotFound": "Langganan Tidak Ditemukan",
+    "cancelButton": "Membatalkan",
+    "paymentAmount": "Jumlah",
+    "paymentDate": "Tanggal",
+    "paymentEvent": "Peristiwa",
+    "paymentHistory": "Riwayat Pembayaran",
+    "pleaseCreate": "Silakan buat langganan baru.",
+    "quantity": "Jumlah: {0}",
+    "receipt": "kuitansi",
+    "subscriptionCanceled": "Langganan Dibatalkan",
+    "subscriptionExpired": "Langganan Kedaluwarsa",
+    "subscriptionExpiredDate": "Langganan Anda berakhir pada {date}.",
+    "subscriptionWillExpire": "Langganan Anda telah dibatalkan dan akan kedaluwarsa pada {date}.",
+    "updateButton": "Memodifikasi"
   }
 }

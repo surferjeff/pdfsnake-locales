@@ -1,23 +1,23 @@
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "Política de privacidad",
     "terms": "Términos y Condiciones",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "Inicio",
     "about": "Sobre",
     "signIn": "Iniciar sesión",
     "myAccount": "Mi cuenta"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "Arraste y suelte un archivo PDF, JPEG o PNG aquí o",
     "browse": "Busque para empezar",
     "docsStayPrivate": "Sus documentos permanecen privados porque nunca salen de su dispositivo.",
     "help": "Ayuda"
   },
-  "about" : {
+  "about": {
     "privacy": "Lea nuestro {link}.",
     "terms": "Usar esta página web significa que está de acuerdo con nuestros {link}.",
     "plugIn": "PDF Snake 6 es una nueva versión online del exitoso Plug-In de Adobe Acrobat {link}.",
@@ -40,7 +40,7 @@
     "paperSize": "Tamaño de papel",
     "custom": "Personalizado",
     "edit": "Adicionar y editar tamaños de papel",
-    "width":  "Anchura",
+    "width": "Anchura",
     "height": "Altura",
     "landscape": "Paisaje",
     "help": {
@@ -54,7 +54,7 @@
     "mms": "mms",
     "inches": "pulgadas",
     "points": "puntos"
-  }, 
+  },
   "pageOrder": {
     "pageOrder": "Orden de páginas",
     "doubleSided": "Doble cara",
@@ -79,7 +79,7 @@
     "center": "Centrar resultado en la página",
     "centerGutter": "Centrar el medianil",
     "pageCreep": "Corrección de desplazamiento"
-   },
+  },
   "layout": {
     "layout": "Disposición",
     "columns": "Columnas",
@@ -170,7 +170,7 @@
       "pages-square-odd-even": "todas las páginas en el orden normal",
       "rotateIntro": "PDF Snake puede rotar las páginas a la vez que las baraja. Utilice los siguientes símbolos luego del número de página para especificar la rotación:",
       "rotate90": "rotar 90 grados en sentido horario",
-      "rotate180": "rotar 180 grados", 
+      "rotate180": "rotar 180 grados",
       "rotate270": "rotar 270 grados sentido horario (90 grados sentido anti-horario)",
       "allUpsideDown": "todas las páginas del documento, de cabeza",
       "pages-1-2-3-4": "página 1, página 2 rotada 90 grados sentido horario, página 3 de cabeza, página 4 rotada 90 grados sentido anti-horario.",
@@ -295,7 +295,7 @@
     "subscribersCanDownload": "Los suscriptores pueden descargar documentos ilimitados por",
     "perMonth": "{price} al mes",
     "perYear": "{price} al año",
-    "subscribeNow": "Suscríbase ahora", 
+    "subscribeNow": "Suscríbase ahora",
     "stripeError": "Ha ocurrido un error: {msg}",
     "paymentsWillAppear": "Los pagos aparecerán en el extracto de su banco/tarjeta como:"
   },
@@ -316,5 +316,21 @@
     "downloadNowButton": "Descargar ahora",
     "signedInCanDownload10days": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por 10 días.",
     "subscribersCanDownloadUnlimited": "Los suscriptores pueden descargar documentos ilimitados."
+  },
+  "paddle": {
+    "subscriptionNotFound": "Suscripción no encontrada",
+    "cancelButton": "Cancelar",
+    "paymentAmount": "Cantidad",
+    "paymentDate": "Fecha",
+    "paymentEvent": "Evento",
+    "paymentHistory": "historial de pagos",
+    "pleaseCreate": "Cree una nueva suscripción.",
+    "quantity": "Cantidad: {0}",
+    "receipt": "recibo",
+    "subscriptionCanceled": "Suscripción cancelada",
+    "subscriptionExpired": "Subscripcion vencida",
+    "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
+    "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
+    "updateButton": "Modificar"
   }
 }

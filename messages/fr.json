@@ -1,23 +1,23 @@
 {
-  "titles" : {
+  "titles": {
     "privacyPolicy": "Politique de confidentialité",
     "terms": "Modalités et conditions",
     "pdfSnake": "PDF Snake",
     "pdfSnakeVersion": "PDF Snake {version}"
   },
-  "topNav" : {
+  "topNav": {
     "home": "Accueil",
     "about": "À propos de",
     "signIn": "S'inscrire",
     "myAccount": "Mon compte"
   },
-  "dropTarget" : {
+  "dropTarget": {
     "dropHere": "Faites glisser et déposez un fichier PDF, JPEG ou PNG ici ou",
     "browse": "Parcourir pour commencer",
     "docsStayPrivate": "Vos documents restent privés car ils ne quittent jamais votre appareil.",
     "help": "Aide"
   },
-  "about" : {
+  "about": {
     "privacy": "Lisez notre {link}.",
     "terms": "L'utilisation de ce site web signifie que vous êtes d'accord avec notre {link}.",
     "plugIn": "PDF Snake 6 est une nouvelle version en ligne du plug-in Adobe Acrobat le plus vendu {link}.",
@@ -40,7 +40,7 @@
     "paperSize": "Taille du papier",
     "custom": "Personnalisé",
     "edit": "Ajouter et modifier des formats de papier",
-    "width":  "Largeur",
+    "width": "Largeur",
     "height": "Hauteur",
     "landscape": "Paysage",
     "help": {
@@ -79,7 +79,7 @@
     "center": "Sortie centrale à la page",
     "centerGutter": "Gouttière centrale",
     "pageCreep": "Page Creep"
-   },
+  },
   "layout": {
     "layout": "Mise en page",
     "columns": "Colonnes",
@@ -239,8 +239,8 @@
   "resize": {
     "help": {
       "intro": "L'outil de redimensionnement de PDF Snake permet de rétrécir ou d'agrandir le contenu des pages pour s'adapter à n'importe quelle taille de papier",
-      "preserveAspectRatio": " Lorsque cette case est cochée, préserve le rapport hauteur/largeur des pages du document source. Si cette case n'est pas cochée, les pages peuvent être considérablement étirées, que ce soit horizontalement ou verticalement."   
-}
+      "preserveAspectRatio": " Lorsque cette case est cochée, préserve le rapport hauteur/largeur des pages du document source. Si cette case n'est pas cochée, les pages peuvent être considérablement étirées, que ce soit horizontalement ou verticalement."
+    }
   },
   "impose": {
     "help": {
@@ -316,5 +316,21 @@
     "downloadNowButton": "Télécharger maintenant",
     "signedInCanDownload10days": "Les utilisateurs inscrits peuvent télécharger un nombre illimité de documents pendant 10 jours.",
     "subscribersCanDownloadUnlimited": "Les abonnés peuvent télécharger un nombre illimité de documents."
+  },
+  "paddle": {
+    "subscriptionNotFound": "Abonnement introuvable",
+    "cancelButton": "Annuler",
+    "paymentAmount": "Montant",
+    "paymentDate": "Date",
+    "paymentEvent": "Événement",
+    "paymentHistory": "historique de paiement",
+    "pleaseCreate": "Veuillez créer un nouvel abonnement.",
+    "quantity": "Quantité : {0}",
+    "receipt": "le reçu",
+    "subscriptionCanceled": "Abonnement annulé",
+    "subscriptionExpired": "Abonnement expiré",
+    "subscriptionExpiredDate": "Votre abonnement a expiré le {date}.",
+    "subscriptionWillExpire": "Votre abonnement a été annulé et expirera le {date}.",
+    "updateButton": "Modifier"
   }
 }
