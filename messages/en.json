@@ -12,8 +12,8 @@
     "myAccount": "My Account"
   },
   "dropTarget": {
-    "dropHere": "Drag and drop a PDF, JPEG, or PNG file here or",
-    "browse": "Browse to Begin",
+    "dropHere": "Drag and drop a file here or",
+    "browse": "Browse",
     "docsStayPrivate": "Your documents stay private because they never leave your device.",
     "help": "Help"
   },
