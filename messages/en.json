@@ -12,7 +12,7 @@
     "myAccount": "My Account"
   },
   "dropTarget": {
-    "dropHere": "Drag and drop a file here or",
+    "dropHere": "Drag and drop files here or",
     "browse": "Browse",
     "docsStayPrivate": "Your documents stay private because they never leave your device.",
     "help": "Help"
