@@ -199,7 +199,8 @@
     "saved": "Saved {name}",
     "addStep": "Add Step",
     "saveSteps": "Save Steps",
-    "saveButton": "Save"
+    "saveButton": "Save",
+    "batchLog": "Batch Log"
   },
   "error": {
     "notEmpty": "must not be empty",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
     "cropHtml": "<b>Crop</b> crops the edges of pages.",
     "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages.",
-    "imposeCount": "Users have imposed {count} documents with PDF Snake!"
+    "imposeCount": "Users have imposed {count} documents with PDF Snake!",
+    "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
