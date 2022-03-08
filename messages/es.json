@@ -199,7 +199,8 @@
     "saved": "{name} Guardado",
     "addStep": "Añadir etapa",
     "saveSteps": "Guardar etapas",
-    "saveButton": "Guardar"
+    "saveButton": "Guardar",
+    "batchLog": "Log de lotes"
   },
   "error": {
     "notEmpty": "no debe estar vacío ",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>Rotar</b> rota las páginas en cualquier grado.",
     "cropHtml": "<b>Recortar</b> recorta los bordes de las páginas.",
     "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota.",
-    "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!"
+    "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!",
+    "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",

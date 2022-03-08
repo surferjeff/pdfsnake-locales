@@ -199,7 +199,8 @@
     "saved": "{name} salva",
     "addStep": "Adicionar etapa",
     "saveSteps": "Salvar etapas",
-    "saveButton": "Salval"
+    "saveButton": "Salval",
+    "batchLog": "Log de lote"
   },
   "error": {
     "notEmpty": "não deve estar vazio",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>Girar</b> rotaciona as páginas em qualquer grau.",
     "cropHtml": "<b>Cortar</b> corta as bordas das páginas.",
     "shuffleHtml": "<b>Embaralhar</b> reorganiza a ordem das páginas e gira elas.",
-    "imposeCount": "Os usuários ordenaram {count} documentos com o PDF Snake!"
+    "imposeCount": "Os usuários ordenaram {count} documentos com o PDF Snake!",
+    "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",

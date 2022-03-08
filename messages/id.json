@@ -199,7 +199,8 @@
     "saved": "{name} telah tersimpan",
     "addStep": "Tambahkan Langkah",
     "saveSteps": "Simpan Langkah-Langkah",
-    "saveButton": "Simpan"
+    "saveButton": "Simpan",
+    "batchLog": "Log Batch"
   },
   "error": {
     "notEmpty": "tidak boleh kosong",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>Putar</b> memutar halaman sebesar sudut tertentu.",
     "cropHtml": "<b>Potong</b> memotong pinggiran halaman.",
     "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman.",
-    "imposeCount": "Pengguna telah menerapkan {count} dokumen dengan PDF Snake!"
+    "imposeCount": "Pengguna telah menerapkan {count} dokumen dengan PDF Snake!",
+    "batchHtml": "Pilih atau seret dan lepas beberapa dokumen sekaligus ke <b>proses batch</b>."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",

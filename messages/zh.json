@@ -199,7 +199,8 @@
     "saved": "已保存 {name}",
     "addStep": "添加步骤",
     "saveSteps": "保存步骤",
-    "saveButton": "保存"
+    "saveButton": "保存",
+    "batchLog": "批处理日志"
   },
   "error": {
     "notEmpty": "不得空着",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>旋转</b>可以任何角度旋转页面。",
     "cropHtml": "<b>裁切</b>可裁切页面边缘。",
     "shuffleHtml": "<b>随机排序</b>可对页面重新排序，还可以旋转页面。",
-    "imposeCount": "用户使用 PDF Snake 强加了 {count} 个文档！"
+    "imposeCount": "用户使用 PDF Snake 强加了 {count} 个文档！",
+    "batchHtml": "一次选择或拖放多个文档到<b>批处理</b>。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",

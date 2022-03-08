@@ -199,7 +199,8 @@
     "saved": "Sauvegardé {name}",
     "addStep": "Ajouter une étape",
     "saveSteps": "Sauver les étapes",
-    "saveButton": "Sauver"
+    "saveButton": "Sauver",
+    "batchLog": "Journal des lots"
   },
   "error": {
     "notEmpty": "ne doit pas être vide",
@@ -274,7 +275,8 @@
     "rotateHtml": "<b>Tourner</b> fait tourner les pages de n'importe quel degré.",
     "cropHtml": "<b>Récolte</b> recouvre les bords des pages.",
     "shuffleHtml": " <b>Mélange</b> réorganise l'ordre des pages et fait tourner les pages. ",
-    "imposeCount": "Les utilisateurs ont imposé {count} documents avec PDF Snake !"
+    "imposeCount": "Les utilisateurs ont imposé {count} documents avec PDF Snake !",
+    "batchHtml": "Sélectionnez ou faites glisser et déposez plusieurs documents à la fois pour <b>traiter par lots</b>."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
