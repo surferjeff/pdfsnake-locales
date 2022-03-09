@@ -334,5 +334,12 @@
     "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
     "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
     "updateButton": "Modificar"
+  },
+  "uichanged": {
+    "StepTwo": "Arrastra y suelta un archivo o navega para seleccionar un archivo.",
+    "looksDifferent": "Esta página de inicio se ve un poco diferente, pero las herramientas no han cambiado.",
+    "stepOne": "Elija la primera herramienta a continuación.",
+    "stepThreeHtml": "<b>¡Nuevo!</b> Arrastre y suelte o seleccione varios documentos para procesar inmediatamente muchos a la vez.",
+    "title": "Nueva interfaz de usuario"
   }
 }
