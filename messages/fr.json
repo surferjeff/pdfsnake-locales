@@ -335,10 +335,10 @@
     "updateButton": "Modifier"
   },
   "uichanged": {
-    "StepTwo": "Faites glisser et déposez un fichier ou naviguez pour sélectionner un fichier.",
+    "stepTwo": "Faites glisser et déposez un fichier ou naviguez pour sélectionner un fichier.",
     "looksDifferent": "Cette page d'accueil est un peu différente, mais les outils n'ont pas changé.",
-    "stepOne": "Choisissez le premier outil ci-dessous.",
     "stepThreeHtml": "<b>Nouveau !</b> Faites glisser et déposez ou sélectionnez plusieurs documents pour en traiter immédiatement plusieurs à la fois.",
-    "title": "Nouvelle interface utilisateur"
+    "title": "Nouvelle interface utilisateur",
+    "stepOne": "Cliquez sur un outil ci-dessous."
   }
 }

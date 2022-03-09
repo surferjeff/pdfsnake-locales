@@ -335,10 +335,10 @@
     "updateButton": "Memodifikasi"
   },
   "uichanged": {
-    "StepTwo": "Seret dan jatuhkan file atau telusuri untuk memilih file.",
+    "stepTwo": "Seret dan jatuhkan file atau telusuri untuk memilih file.",
     "looksDifferent": "Halaman beranda ini terlihat sedikit berbeda, tetapi alatnya tidak berubah.",
-    "stepOne": "Pilih alat pertama di bawah ini.",
     "stepThreeHtml": "<b>Baru!</b> Seret dan lepas atau pilih beberapa dokumen untuk segera memproses banyak dokumen sekaligus.",
-    "title": "Antarmuka Pengguna Baru"
+    "title": "Antarmuka Pengguna Baru",
+    "stepOne": "Klik alat di bawah ini."
   }
 }

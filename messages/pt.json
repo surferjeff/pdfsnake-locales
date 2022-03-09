@@ -335,10 +335,10 @@
     "updateButton": "Modificar"
   },
   "uichanged": {
-    "StepTwo": "Arraste e solte um arquivo ou navegue para selecionar um arquivo.",
+    "stepTwo": "Arraste e solte um arquivo ou navegue para selecionar um arquivo.",
     "looksDifferent": "Esta página inicial parece um pouco diferente, mas as ferramentas não mudaram.",
-    "stepOne": "Escolha a primeira ferramenta abaixo.",
     "stepThreeHtml": "<b>Novo!</b> Arraste e solte ou selecione vários documentos para processar vários documentos imediatamente.",
-    "title": "Nova interface do usuário"
+    "title": "Nova interface do usuário",
+    "stepOne": "Clique em uma ferramenta abaixo."
   }
 }
