@@ -338,8 +338,8 @@
   "uichanged": {
     "title": "New User Interface",
     "looksDifferent": "This home page looks a little different, but the tools haven't changed.",
-    "stepOne": "Choose the first operation below.",
-    "StepTwo": "Drag and drop a document or browse to select one.",
-    "stepThreeHtml": "<b>New!</b> Drag and drop or select multiple documents to immediately process many at once."
+    "stepOne": "Choose the first tool below.",
+    "StepTwo": "Drag and drop a file or browse to select a file.",
+    "stepThreeHtml": "<b>New!</b> Drag and drop or select multiple files to immediately process many at once."
   }
 }
