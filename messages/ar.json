@@ -315,7 +315,6 @@
     "youCanDownload8hours": "بإمكانك تنزيل مستند واحد كل 8 ساعات.",
     "anonymousCanDownload8hours": "يمكن للمستخدمين غير المسجلين تنزيل مستند واحد كل 8 ساعات.",
     "youCanDownloadNext": "يمكن تنزيل المستند التالي في {date}.",
-    "downloadNowButton": "تنزيل الآن",
     "signedInCanDownload10days": "يمكن للمستخدمين المسجلين تحميل عدد غير محدود من المستندات لمدة 10 أيام.",
     "subscribersCanDownloadUnlimited": "يمكن للمشتركين تحميل عدد غير محدود من المستندات."
   },

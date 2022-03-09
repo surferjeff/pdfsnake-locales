@@ -315,7 +315,6 @@
     "youCanDownload8hours": "8時間毎に文書を1つダウンロードできます。",
     "anonymousCanDownload8hours": "未登録ユーザーは、8時間毎に文書を1つダウンロードできます。",
     "youCanDownloadNext": "次にダウンロード可能な日付は {date} です。",
-    "downloadNowButton": "いますぐダウンロード",
     "signedInCanDownload10days": "ログインユーザーは、10日間の無料試用期間中に無制限で文書をダウンロードできます。",
     "subscribersCanDownloadUnlimited": "有料会員は無制限に文書をダウンロードできます。"
   },

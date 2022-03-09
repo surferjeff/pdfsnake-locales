@@ -315,7 +315,6 @@
     "youCanDownload8hours": "Puede descargar un documento cada 8 horas.",
     "anonymousCanDownload8hours": "Los usuarios anónimos pueden descargar un documento cada 8 horas.",
     "youCanDownloadNext": "Puede descargar su siguiente documento en {date}.",
-    "downloadNowButton": "Descargar ahora",
     "signedInCanDownload10days": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por 10 días.",
     "subscribersCanDownloadUnlimited": "Los suscriptores pueden descargar documentos ilimitados."
   },

@@ -315,7 +315,6 @@
     "youCanDownload8hours": "您每 8 小时可下载一个文档。",
     "anonymousCanDownload8hours": "匿名用户每 8 小时可下载一个文档。",
     "youCanDownloadNext": "您可在 {date} 下载下一文档。",
-    "downloadNowButton": "立即下载",
     "signedInCanDownload10days": "已登录的用户可在 10 天内下载的文档数量没有限制。",
     "subscribersCanDownloadUnlimited": "订购者可下载的文档数量不限。"
   },

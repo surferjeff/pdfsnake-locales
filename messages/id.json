@@ -315,7 +315,6 @@
     "youCanDownload8hours": "Anda dapat mengunduh satu dokumen setiap 8 jam.",
     "anonymousCanDownload8hours": "Pengguna anonim dapat mengunduh satu dokumen setiap 8 jam.",
     "youCanDownloadNext": "Anda dapat mengunduh dokumen selanjutnya pada {date}.",
-    "downloadNowButton": "Unduh Sekarang",
     "signedInCanDownload10days": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas untuk 10 hari.",
     "subscribersCanDownloadUnlimited": "Pelanggan dapat mengunduh dokumen tanpa jumlah batas."
   },
