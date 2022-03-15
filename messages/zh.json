@@ -200,7 +200,8 @@
     "addStep": "添加步骤",
     "saveSteps": "保存步骤",
     "saveButton": "保存",
-    "batchLog": "批处理日志"
+    "batchLog": "批处理日志",
+    "clickATool": "单击工具开始"
   },
   "error": {
     "notEmpty": "不得空着",

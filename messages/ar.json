@@ -200,7 +200,8 @@
     "addStep": "إضافة خطوة",
     "saveSteps": "حفظ الخطوات",
     "saveButton": "حفظ",
-    "batchLog": "سجل الدُفعات"
+    "batchLog": "سجل الدُفعات",
+    "clickATool": "انقر فوق أداة لتبدأ"
   },
   "error": {
     "notEmpty": "لا يمكن تركها فارغة",

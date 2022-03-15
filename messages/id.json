@@ -200,7 +200,8 @@
     "addStep": "Tambahkan Langkah",
     "saveSteps": "Simpan Langkah-Langkah",
     "saveButton": "Simpan",
-    "batchLog": "Log Batch"
+    "batchLog": "Log Batch",
+    "clickATool": "Klik alat untuk memulai"
   },
   "error": {
     "notEmpty": "tidak boleh kosong",

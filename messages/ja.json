@@ -200,7 +200,8 @@
     "addStep": "ステップを追加",
     "saveSteps": "ステップを保存",
     "saveButton": "保存",
-    "batchLog": "バッチログ"
+    "batchLog": "バッチログ",
+    "clickATool": "ツールをクリックして開始します"
   },
   "error": {
     "notEmpty": "入力必須です。",

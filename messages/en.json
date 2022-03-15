@@ -200,7 +200,8 @@
     "addStep": "Add Step",
     "saveSteps": "Save Steps",
     "saveButton": "Save",
-    "batchLog": "Batch Log"
+    "batchLog": "Batch Log",
+    "clickATool": "Click a tool to begin"
   },
   "error": {
     "notEmpty": "must not be empty",

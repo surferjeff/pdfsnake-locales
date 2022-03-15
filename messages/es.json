@@ -200,7 +200,8 @@
     "addStep": "Añadir etapa",
     "saveSteps": "Guardar etapas",
     "saveButton": "Guardar",
-    "batchLog": "Log de lotes"
+    "batchLog": "Log de lotes",
+    "clickATool": "Haga clic en una herramienta para comenzar"
   },
   "error": {
     "notEmpty": "no debe estar vacío ",
