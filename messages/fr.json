@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "Faites glisser et déposez un fichier PDF, JPEG ou PNG ici ou",
-    "browse": "Parcourir pour commencer",
+    "browse": "Sélectionner un fichier",
     "docsStayPrivate": "Vos documents restent privés car ils ne quittent jamais votre appareil.",
     "help": "Aide"
   },

@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "请将 PDF、JPEG 或 PNG 文件拖放到此处，或者",
-    "browse": "通过浏览电脑中的文件开始使用",
+    "browse": "选择一个文件",
     "docsStayPrivate": "您的文档会一直处于私密状态，因为您的文档一直都会在您的设备中。",
     "help": "帮助"
   },
