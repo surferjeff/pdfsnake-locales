@@ -336,9 +336,8 @@
     "updateButton": "Memodifikasi"
   },
   "uichanged": {
-    "stepTwo": "Seret dan jatuhkan file atau telusuri untuk memilih file.",
-    "looksDifferent": "Halaman beranda ini terlihat sedikit berbeda, tetapi alatnya tidak berubah.",
-    "stepThreeHtml": "<b>Baru!</b> Seret dan lepas atau pilih beberapa dokumen untuk segera memproses banyak dokumen sekaligus.",
+    "stepTwo": "Pilih file atau pilih beberapa file untuk segera memproses banyak dokumen sekaligus.",
+    "looksDifferent": "Halaman ini terlihat sedikit berbeda, tetapi alatnya tidak berubah.",
     "title": "Antarmuka Pengguna Baru",
     "stepOne": "Klik alat di bawah ini."
   }

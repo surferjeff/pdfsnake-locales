@@ -336,9 +336,8 @@
     "updateButton": "调整"
   },
   "uichanged": {
-    "stepTwo": "拖放文件或浏览以选择文件。",
-    "looksDifferent": "这个主页看起来有点不同，但工具没有改变。",
-    "stepThreeHtml": "<b>新功能！</b> 拖放或选择多个文档以立即立即处理多个文档。",
+    "stepTwo": "选择一个文件或选择多个文件以立即立即处理多个文档。",
+    "looksDifferent": "这个页面看起来有点不同，但工具没有改变。",
     "title": "新的用户界面",
     "stepOne": "单击下面的工具。"
   }

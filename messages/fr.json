@@ -336,9 +336,8 @@
     "updateButton": "Modifier"
   },
   "uichanged": {
-    "stepTwo": "Faites glisser et déposez un fichier ou naviguez pour sélectionner un fichier.",
-    "looksDifferent": "Cette page d'accueil est un peu différente, mais les outils n'ont pas changé.",
-    "stepThreeHtml": "<b>Nouveau !</b> Faites glisser et déposez ou sélectionnez plusieurs documents pour en traiter immédiatement plusieurs à la fois.",
+    "stepTwo": "Sélectionnez un fichier ou sélectionnez plusieurs fichiers pour traiter immédiatement plusieurs documents à la fois.",
+    "looksDifferent": "Cette page est un peu différente, mais les outils n'ont pas changé.",
     "title": "Nouvelle interface utilisateur",
     "stepOne": "Cliquez sur un outil ci-dessous."
   }

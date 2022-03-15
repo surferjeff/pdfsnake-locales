@@ -337,9 +337,8 @@
   },
   "uichanged": {
     "title": "New User Interface",
-    "looksDifferent": "This home page looks a little different, but the tools haven't changed.",
+    "looksDifferent": "This page looks a little different, but the tools haven't changed.",
     "stepOne": "Click a tool below.",
-    "stepTwo": "Drag and drop a file or browse to select a file.",
-    "stepThreeHtml": "<b>New!</b> Drag and drop or select multiple files to immediately process many at once."
+    "stepTwo": "Select a file or select multiple files to immediately process many documents at once."
   }
 }

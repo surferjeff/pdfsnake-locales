@@ -336,9 +336,8 @@
     "updateButton": "Modificar"
   },
   "uichanged": {
-    "stepTwo": "Arrastra y suelta un archivo o navega para seleccionar un archivo.",
-    "looksDifferent": "Esta página de inicio se ve un poco diferente, pero las herramientas no han cambiado.",
-    "stepThreeHtml": "<b>¡Nuevo!</b> Arrastre y suelte o seleccione varios documentos para procesar inmediatamente muchos a la vez.",
+    "stepTwo": "Seleccione un archivo o seleccione varios archivos para procesar inmediatamente muchos documentos a la vez.",
+    "looksDifferent": "Esta página se ve un poco diferente, pero las herramientas no han cambiado.",
     "title": "Nueva interfaz de usuario",
     "stepOne": "Haga clic en una herramienta a continuación."
   }
