@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "Drag and drop a PDF, JPEG, or PNG file here or",
-    "browse": "Select a File",
+    "browse": "Browse to Begin",
     "docsStayPrivate": "Your documents stay private because they never leave your device.",
     "help": "Help"
   },
@@ -200,8 +200,7 @@
     "addStep": "Add Step",
     "saveSteps": "Save Steps",
     "saveButton": "Save",
-    "batchLog": "Batch Log",
-    "clickATool": "Click a tool to begin"
+    "batchLog": "Batch Log"
   },
   "error": {
     "notEmpty": "must not be empty",
@@ -334,11 +333,5 @@
     "paymentAmount": "Amount",
     "receipt": "receipt",
     "quantity": "Quantity: {0}"
-  },
-  "uichanged": {
-    "title": "New User Interface",
-    "looksDifferent": "This page looks a little different, but the tools haven't changed.",
-    "stepOne": "Click a tool below.",
-    "stepTwo": "Select a file or select multiple files to immediately process many documents at once."
   }
 }

@@ -200,8 +200,7 @@
     "addStep": "ステップを追加",
     "saveSteps": "ステップを保存",
     "saveButton": "保存",
-    "batchLog": "バッチログ",
-    "clickATool": "ツールをクリックして開始します"
+    "batchLog": "バッチログ"
   },
   "error": {
     "notEmpty": "入力必須です。",
@@ -334,11 +333,5 @@
     "subscriptionExpiredDate": "サブスクリプションは{date}に期限切れになりました。",
     "subscriptionWillExpire": "サブスクリプションはキャンセルされ、{date}に期限切れになります。",
     "updateButton": "変更"
-  },
-  "uichanged": {
-    "stepTwo": "ファイルを選択するか、複数のファイルを選択して、一度に多くのドキュメントをすぐに処理します。",
-    "looksDifferent": "このページは少し異なって見えますが、ツールは変更されていません。",
-    "title": "新しいユーザーインターフェイス",
-    "stepOne": "下のツールをクリックしてください。"
   }
 }

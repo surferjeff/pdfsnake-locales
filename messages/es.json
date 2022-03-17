@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "Arraste y suelte un archivo PDF, JPEG o PNG aquí o",
-    "browse": "Seleccione un archivo",
+    "browse": "Busque para empezar",
     "docsStayPrivate": "Sus documentos permanecen privados porque nunca salen de su dispositivo.",
     "help": "Ayuda"
   },
@@ -200,8 +200,7 @@
     "addStep": "Añadir etapa",
     "saveSteps": "Guardar etapas",
     "saveButton": "Guardar",
-    "batchLog": "Log de lotes",
-    "clickATool": "Haga clic en una herramienta para comenzar"
+    "batchLog": "Log de lotes"
   },
   "error": {
     "notEmpty": "no debe estar vacío ",
@@ -334,11 +333,5 @@
     "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
     "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
     "updateButton": "Modificar"
-  },
-  "uichanged": {
-    "stepTwo": "Seleccione un archivo o seleccione varios archivos para procesar inmediatamente muchos documentos a la vez.",
-    "looksDifferent": "Esta página se ve un poco diferente, pero las herramientas no han cambiado.",
-    "title": "Nueva interfaz de usuario",
-    "stepOne": "Haga clic en una herramienta a continuación."
   }
 }

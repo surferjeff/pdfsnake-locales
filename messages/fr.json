@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "Faites glisser et déposez un fichier PDF, JPEG ou PNG ici ou",
-    "browse": "Sélectionner un fichier",
+    "browse": "Parcourir pour commencer",
     "docsStayPrivate": "Vos documents restent privés car ils ne quittent jamais votre appareil.",
     "help": "Aide"
   },
@@ -200,8 +200,7 @@
     "addStep": "Ajouter une étape",
     "saveSteps": "Sauver les étapes",
     "saveButton": "Sauver",
-    "batchLog": "Journal des lots",
-    "clickATool": "Cliquez sur un outil pour commencer"
+    "batchLog": "Journal des lots"
   },
   "error": {
     "notEmpty": "ne doit pas être vide",
@@ -334,11 +333,5 @@
     "subscriptionExpiredDate": "Votre abonnement a expiré le {date}.",
     "subscriptionWillExpire": "Votre abonnement a été annulé et expirera le {date}.",
     "updateButton": "Modifier"
-  },
-  "uichanged": {
-    "stepTwo": "Sélectionnez un fichier ou sélectionnez plusieurs fichiers pour traiter immédiatement plusieurs documents à la fois.",
-    "looksDifferent": "Cette page est un peu différente, mais les outils n'ont pas changé.",
-    "title": "Nouvelle interface utilisateur",
-    "stepOne": "Cliquez sur un outil ci-dessous."
   }
 }

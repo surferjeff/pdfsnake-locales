@@ -13,7 +13,7 @@
   },
   "dropTarget": {
     "dropHere": "请将 PDF、JPEG 或 PNG 文件拖放到此处，或者",
-    "browse": "选择一个文件",
+    "browse": "通过浏览电脑中的文件开始使用",
     "docsStayPrivate": "您的文档会一直处于私密状态，因为您的文档一直都会在您的设备中。",
     "help": "帮助"
   },
@@ -200,8 +200,7 @@
     "addStep": "添加步骤",
     "saveSteps": "保存步骤",
     "saveButton": "保存",
-    "batchLog": "批处理日志",
-    "clickATool": "单击工具开始"
+    "batchLog": "批处理日志"
   },
   "error": {
     "notEmpty": "不得空着",
@@ -334,11 +333,5 @@
     "subscriptionExpiredDate": "您的订阅已于 {date}到期。",
     "subscriptionWillExpire": "您的订阅已取消，将于 {date}到期。",
     "updateButton": "调整"
-  },
-  "uichanged": {
-    "stepTwo": "选择一个文件或选择多个文件以立即立即处理多个文档。",
-    "looksDifferent": "这个页面看起来有点不同，但工具没有改变。",
-    "title": "新的用户界面",
-    "stepOne": "单击下面的工具。"
   }
 }
