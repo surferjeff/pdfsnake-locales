@@ -124,8 +124,11 @@
       "saddleSize": "Tamaño del pliego",
       "saddleSizeHelp": "El número de hojas que se colocarán en cada pila y se doblarán. Si se deja vacía, todas las hojas serán colocadas en una sola pila.",
       "fillLastSaddleHtml": "Frecuentemente, va a haber un número impar de páginas en el documento de origen y el último pliego tendrá algunas páginas vacías. Cuando <strong>Completar último pliego</strong> está marcada,las páginas en blanco se añadirán para que todos los pliegues tengan el mismo número de hojas. Cuando no está marcada, el último pliegue puede que tenga menos hojas que el resto.",
-      "pageCreepHtml": " En el paso 5 del proceso de encuadernación listado arriba, las páginas se recortan para hacer que los bordes libres queden alineados. Más papel es recortado de la hoja en el centro del pliegue que de la hoja afuera del pliegue, debido a que su borde sobresale más. Esto se llama <i>corrección de desplazamiento</i>. Con el fin de compensar esto, así como para lograr que todas las páginas aparezcan en la misma posición después de que el libro sea encuadernado y cortado,las páginas deben ser ajustadas ligeramente, dependiendo de factores como el grosor del papel. Cada página es ligeramente ajustada por el valor definido en <strong>Corrección de desplazamiento</strong>. Para entender exactamento lo que esto hace, intente definir <strong>Corrección de desplazamiento</strong> a media pulgada, o cerca de diez milímetros y observe los resultados."
-    }
+      "pageCreepHtml": " En el paso 5 del proceso de encuadernación listado arriba, las páginas se recortan para hacer que los bordes libres queden alineados. Más papel es recortado de la hoja en el centro del pliegue que de la hoja afuera del pliegue, debido a que su borde sobresale más. Esto se llama <i>corrección de desplazamiento</i>. Con el fin de compensar esto, así como para lograr que todas las páginas aparezcan en la misma posición después de que el libro sea encuadernado y cortado,las páginas deben ser ajustadas ligeramente, dependiendo de factores como el grosor del papel. Cada página es ligeramente ajustada por el valor definido en <strong>Corrección de desplazamiento</strong>. Para entender exactamento lo que esto hace, intente definir <strong>Corrección de desplazamiento</strong> a media pulgada, o cerca de diez milímetros y observe los resultados.",
+      "rotatePages": "Gire las páginas de salida en orientación vertical, para que sea fácil imprimir desde la mayoría de las impresoras de oficina."
+    },
+    "output": "Producción",
+    "rotatePages": "Rotar páginas"
   },
   "rotate": {
     "rotation": "Rotar",

@@ -124,8 +124,11 @@
       "saddleSize": "Ukuran saddle",
       "saddleSizeHelp": "Jumlah lembaran yang ditumpukkan untuk dilipat. Jika dibiarkan kosong, semua lembaran dianggap ditaruh dalam satu tumpukan.",
       "fillLastSaddleHtml": "Terkadang, ada jumlah halaman ganjil di dokumen sumber, dan lipatan terakhir akan memiliki beberapa halaman kosong. Ketika <strong>Isi <i>saddle</i> terakhir</strong> dicentang, halaman-halaman kosong akan ditambahkan supaya semua lipatan memiliki jumlah lembaran yang sama. Jika tidak dicentang, lipatan terakhir mungkin memiliki lembaran yang lebih sedikit dari lipatan lainnya.",
-      "pageCreepHtml": "Pada Langkah 5 proses penjilidan buku di atas, halaman-halamannya dipotong untuk meratakan kertasnya. Lembaran yang berada di tengah lipatan akan dipotong lebih banyak daripada lembaran yang berada di bagian luar, karena pinggirannya lebih muncul. Hal ini dinamakan \"<i>creep</i> halaman\". Supaya semua halaman terlihat berada dalam posisi yang sama setelah buku tersebut dijilid dan dipotong, halaman-halamannya harus diatur sedemikian rupa dengan memperhitungkan faktor-faktor seperti ketebalan kertas. Setiap halaman digeser sedikit berdasarkan nilai yang ditentukan dalam <strong><i>Creep</i> Halaman</strong>. Untuk lebih mengerti apa yang dilakukan oleh nilai ini, cobalah mengatur <strong><i>Creep</i> Halaman</strong> menjadi setengah inci atau sekitar sepuluh milimeter, dan lihat hasilnya."
-    }
+      "pageCreepHtml": "Pada Langkah 5 proses penjilidan buku di atas, halaman-halamannya dipotong untuk meratakan kertasnya. Lembaran yang berada di tengah lipatan akan dipotong lebih banyak daripada lembaran yang berada di bagian luar, karena pinggirannya lebih muncul. Hal ini dinamakan \"<i>creep</i> halaman\". Supaya semua halaman terlihat berada dalam posisi yang sama setelah buku tersebut dijilid dan dipotong, halaman-halamannya harus diatur sedemikian rupa dengan memperhitungkan faktor-faktor seperti ketebalan kertas. Setiap halaman digeser sedikit berdasarkan nilai yang ditentukan dalam <strong><i>Creep</i> Halaman</strong>. Untuk lebih mengerti apa yang dilakukan oleh nilai ini, cobalah mengatur <strong><i>Creep</i> Halaman</strong> menjadi setengah inci atau sekitar sepuluh milimeter, dan lihat hasilnya.",
+      "rotatePages": "Putar halaman keluaran ke orientasi potret, sehingga mudah untuk mencetak dari sebagian besar printer kantor."
+    },
+    "output": "Keluaran",
+    "rotatePages": "Putar halaman"
   },
   "rotate": {
     "rotation": "Pemutaran",

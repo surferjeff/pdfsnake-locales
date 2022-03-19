@@ -124,8 +124,11 @@
       "saddleSize": "Taille de la selle",
       "saddleSizeHelp": "Le nombre de feuilles à mettre dans chaque pile et à plier. Lorsqu'il est laissé vide, toutes les feuilles sont mises dans une seule pile",
       "fillLastSaddleHtml": "Souvent, il y aura un nombre impair de pages dans le document source, et le dernier pli aura quelques pages vides. Lorsque <strong>Remplir la dernière selle</strong> est coché, des pages vierges seront ajoutées afin que tous les plis aient le même nombre de feuilles. Lorsqu'elle n'est pas cochée, le dernier pli peut comporter moins de feuilles que les autres",
-      "pageCreepHtml": "À l'étape 5 du processus de reliure des livres énumérés ci-dessus, les pages sont coupées pour que les bords libres soient affleurants. On coupe plus de papier dans la feuille située au centre du pli que dans la feuille située à l'extérieur du pli, car son bord dépasse davantage. Ce phénomène est appelé <i>page creep</i>. Pour compenser ce phénomène et faire en sorte que toutes les pages apparaissent dans la même position une fois le livre relié et coupé, les pages doivent être légèrement ajustées, en fonction de facteurs tels que l'épaisseur du papier. Chaque page est légèrement ajustée par la valeur définie dans <strong>Page Creep</strong>. Pour comprendre exactement ce que cela fait, essayez de régler <strong>Page Creep</strong> sur un demi-pouce, soit environ dix millimètres, et regardez les résultats."
-    }
+      "pageCreepHtml": "À l'étape 5 du processus de reliure des livres énumérés ci-dessus, les pages sont coupées pour que les bords libres soient affleurants. On coupe plus de papier dans la feuille située au centre du pli que dans la feuille située à l'extérieur du pli, car son bord dépasse davantage. Ce phénomène est appelé <i>page creep</i>. Pour compenser ce phénomène et faire en sorte que toutes les pages apparaissent dans la même position une fois le livre relié et coupé, les pages doivent être légèrement ajustées, en fonction de facteurs tels que l'épaisseur du papier. Chaque page est légèrement ajustée par la valeur définie dans <strong>Page Creep</strong>. Pour comprendre exactement ce que cela fait, essayez de régler <strong>Page Creep</strong> sur un demi-pouce, soit environ dix millimètres, et regardez les résultats.",
+      "rotatePages": "Faites pivoter les pages de sortie en orientation portrait, de sorte qu'il est facile d'imprimer à partir de la plupart des imprimantes de bureau."
+    },
+    "output": "Sortir",
+    "rotatePages": "Faire pivoter les pages"
   },
   "rotate": {
     "rotation": "Rotation",

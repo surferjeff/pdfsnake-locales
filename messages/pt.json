@@ -124,8 +124,11 @@
       "saddleSize": "Tamanho da sela",
       "saddleSizeHelp": "O número de folhas a serem colocadas em cada pilha e dobra. Quando deixadas vazias, todas as folhas são colocadas em uma única pilha.",
       "fillLastSaddleHtml": "Frequentemente, haverá um número ímpar de páginas no documento de origem e a última dobra terá algumas páginas vazias. Quando a opção <strong>Preencher a última sela</strong> estiver marcada, páginas em branco serão adicionadas para que todas as dobras tenham o mesmo número de folhas. Quando a opção não estiver marcada, pode ser que a última dobra tenha menos folhas do que o resto.",
-      "pageCreepHtml": "Na Etapa 5 do processo de encadernação de livro listada acima, as páginas são cortadas para nivelar as bordas livres. Mais papel será cortado da folha no centro da dobra do que da folha do lado de fora da dobra, porque a dobra sobressai mais neste caso. Isso é chamado de <i>deslocamento de página</i>. Para compensar isso e fazer com que todas as páginas apareçam na mesma posição depois que o livro for encadernado e cortado, as páginas devem ser ligeiramente ajustadas, dependendo de fatores como a espessura do papel. Cada página é ligeiramente ajustada pelo valor definido em <strong>Deslocamento de página</strong>. Para entender exatamente o que essa ferramenta faz, tente definir o <strong>Deslocamento de página</strong> para meia polegada ou cerca de dez milímetros, e veja os resultados."
-    }
+      "pageCreepHtml": "Na Etapa 5 do processo de encadernação de livro listada acima, as páginas são cortadas para nivelar as bordas livres. Mais papel será cortado da folha no centro da dobra do que da folha do lado de fora da dobra, porque a dobra sobressai mais neste caso. Isso é chamado de <i>deslocamento de página</i>. Para compensar isso e fazer com que todas as páginas apareçam na mesma posição depois que o livro for encadernado e cortado, as páginas devem ser ligeiramente ajustadas, dependendo de fatores como a espessura do papel. Cada página é ligeiramente ajustada pelo valor definido em <strong>Deslocamento de página</strong>. Para entender exatamente o que essa ferramenta faz, tente definir o <strong>Deslocamento de página</strong> para meia polegada ou cerca de dez milímetros, e veja os resultados.",
+      "rotatePages": "Gire as páginas impressas na orientação retrato, para que seja fácil imprimir na maioria das impressoras de escritório."
+    },
+    "output": "Saída",
+    "rotatePages": "Girar páginas"
   },
   "rotate": {
     "rotation": "Rotação",
