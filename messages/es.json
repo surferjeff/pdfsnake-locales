@@ -273,7 +273,7 @@
   "help": {
     "intro": "PDF Snake tiene todas las herramientas que necesita para preparar su documento para la impresión.",
     "bookletHtml": "<b>Cuadernillo</b> reorganiza y ordena las páginas de 2 en 1 para que el resultado se pueda imprimir, apilar y doblar por la mitad.",
-    "gridHtml": "<b>Grilla</b> ordena las páginas en un patrón fijo. De igual manera, reorganiza las páginas para que salgan a doble cara, o puedan ser cortadas y apiladas.",
+    "gridHtml": "<b>Cuadrícula</b> ordena páginas en diseños complejos.",
     "monkeyHtml": "<b>Varias páginas por hoja</b> encuentra el patrón óptimo para que quepa la mayor cantidad de páginas en una sola hoja.",
     "resizeHtml": "<b>Redimensionar</b> estira o encoge el contenido de la página para que quepan en cualquier tamaño de papel.",
     "rotateHtml": "<b>Rotar</b> rota las páginas en cualquier grado.",

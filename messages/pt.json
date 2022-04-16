@@ -273,7 +273,7 @@
   "help": {
     "intro": "PDF Snake possui todas as ferramentas que você precisa para preparar seu documento para impressão.",
     "bookletHtml": "<b>Livreto</b> reordena e organiza páginas 2 em 1 para que o resultado possa ser impresso, empilhado e dobrado ao meio.",
-    "gridHtml": "<b>Grid</b> organiza as páginas em um padrão fixo. Ela também reordena as páginas para que fiquem nos dois lados ou possam ser cortadas e empilhadas.",
+    "gridHtml": "<b>Grid</b> organiza as páginas um padrão complexos.",
     "monkeyHtml": "<b>Várias páginas em uma folha</b> encontra o padrão ideal para caber o máximo de páginas em uma única folha.",
     "resizeHtml": "<b>Redimensionar</b> aumenta e diminui o conteúdo da página para caber em qualquer tamanho de papel.",
     "rotateHtml": "<b>Girar</b> rotaciona as páginas em qualquer grau.",

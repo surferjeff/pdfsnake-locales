@@ -273,7 +273,7 @@
   "help": {
     "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
     "bookletHtml": "<b>Booklet</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
-    "gridHtml": "<b>Grid</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
+    "gridHtml": "<b>Grid</b> imposes pages in complex layouts.",
     "monkeyHtml": "<b>Monkey</b> finds the optimal pattern to fit the most pages onto a single sheet.",
     "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
     "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
