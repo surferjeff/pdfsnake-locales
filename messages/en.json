@@ -34,7 +34,8 @@
     "resize": "Resize",
     "crop": "Crop",
     "rotate": "Rotate",
-    "shuffle": "Shuffle"
+    "shuffle": "Shuffle",
+    "stepAndRepeat": "Step & Repeat"
   },
   "pageSize": {
     "paperSize": "Paper Size",
