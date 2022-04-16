@@ -64,7 +64,8 @@
     "sequential": "sequential",
     "sequentialHelp": "Pages will be imposed in the same order they appear in the source document.",
     "stack": "stack",
-    "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document."
+    "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document.",
+    "autofill": "autofill"
   },
   "whiteSpace": {
     "whiteSpace": "White Space",
