@@ -280,7 +280,8 @@
     "cropHtml": "<b>Crop</b> crops the edges of pages.",
     "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages.",
     "imposeCount": "Users have imposed {count} documents with PDF Snake!",
-    "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>."
+    "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>.",
+    "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -337,5 +338,10 @@
     "paymentAmount": "Amount",
     "receipt": "receipt",
     "quantity": "Quantity: {0}"
+  },
+  "cards": {
+    "help": {
+      "intro": "The Cards tool creates sheets of identical cards, stickers, etcs.  For more complex imposing layouts, see Grid."
+    }
   }
 }

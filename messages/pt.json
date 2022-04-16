@@ -34,7 +34,8 @@
     "resize": "Redimensionar",
     "crop": "Cortar",
     "rotate": "Girar",
-    "shuffle": "Embaralhar"
+    "shuffle": "Embaralhar",
+    "cards": "Cartões"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -279,7 +280,8 @@
     "cropHtml": "<b>Cortar</b> corta as bordas das páginas.",
     "shuffleHtml": "<b>Embaralhar</b> reorganiza a ordem das páginas e gira elas.",
     "imposeCount": "Os usuários ordenaram {count} documentos com o PDF Snake!",
-    "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>."
+    "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>.",
+    "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "Sua assinatura expirou em {date}.",
     "subscriptionWillExpire": "Sua assinatura foi cancelada e expirará em {date}.",
     "updateButton": "Modificar"
+  },
+  "cards": {
+    "help": {
+      "intro": "A ferramenta Cartões cria folhas de cartões idênticos, adesivos, etcs. Para layouts imponentes mais complexos, consulte Grade."
+    }
   }
 }

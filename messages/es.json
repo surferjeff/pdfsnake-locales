@@ -34,7 +34,8 @@
     "resize": "Redimensionar",
     "crop": "Recortar",
     "rotate": "Rotar",
-    "shuffle": "Barajar"
+    "shuffle": "Barajar",
+    "cards": "Tarjetas"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -279,7 +280,8 @@
     "cropHtml": "<b>Recortar</b> recorta los bordes de las páginas.",
     "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota.",
     "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!",
-    "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>."
+    "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>.",
+    "cardsHtml": "<b>Tarjetas</b> es la manera fácil de crear una hoja de tarjetas de visita, tarjetas postales, pegatinas, etc."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
     "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
     "updateButton": "Modificar"
+  },
+  "cards": {
+    "help": {
+      "intro": "La herramienta Tarjetas crea hojas de tarjetas, adhesivos, etc. idénticos. Para diseños imponentes más complejos, consulte Cuadrícula."
+    }
   }
 }
