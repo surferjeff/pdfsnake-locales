@@ -34,7 +34,8 @@
     "resize": "Ubah Ukuran",
     "crop": "Potong",
     "rotate": "Putar",
-    "shuffle": "Acak"
+    "shuffle": "Acak",
+    "cards": "Kartu-kartu"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -279,7 +280,8 @@
     "cropHtml": "<b>Potong</b> memotong pinggiran halaman.",
     "shuffleHtml": "<b>Acak</b> mengatur urutan halaman dan memutar halaman.",
     "imposeCount": "Pengguna telah menerapkan {count} dokumen dengan PDF Snake!",
-    "batchHtml": "Pilih atau seret dan lepas beberapa dokumen sekaligus ke <b>proses batch</b>."
+    "batchHtml": "Pilih atau seret dan lepas beberapa dokumen sekaligus ke <b>proses batch</b>.",
+    "cardsHtml": "<b>Kartu</b> adalah cara mudah untuk membuat selembar kartu nama, kartu pos, stiker, dll yang identik."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "Langganan Anda berakhir pada {date}.",
     "subscriptionWillExpire": "Langganan Anda telah dibatalkan dan akan kedaluwarsa pada {date}.",
     "updateButton": "Memodifikasi"
+  },
+  "cards": {
+    "help": {
+      "intro": "Alat Kartu membuat lembaran kartu, stiker, dll yang identik. Untuk tata letak yang lebih kompleks, lihat Kisi."
+    }
   }
 }

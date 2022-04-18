@@ -34,7 +34,8 @@
     "resize": "Redimensionar",
     "crop": "Recortar",
     "rotate": "Rotar",
-    "shuffle": "Barajar"
+    "shuffle": "Barajar",
+    "cards": "Tarjetas"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -272,14 +273,15 @@
   "help": {
     "intro": "PDF Snake tiene todas las herramientas que necesita para preparar su documento para la impresión.",
     "bookletHtml": "<b>Cuadernillo</b> reorganiza y ordena las páginas de 2 en 1 para que el resultado se pueda imprimir, apilar y doblar por la mitad.",
-    "gridHtml": "<b>Grilla</b> ordena las páginas en un patrón fijo. De igual manera, reorganiza las páginas para que salgan a doble cara, o puedan ser cortadas y apiladas.",
+    "gridHtml": "<b>Cuadrícula</b> ordena páginas en diseños complejos.",
     "monkeyHtml": "<b>Varias páginas por hoja</b> encuentra el patrón óptimo para que quepa la mayor cantidad de páginas en una sola hoja.",
     "resizeHtml": "<b>Redimensionar</b> estira o encoge el contenido de la página para que quepan en cualquier tamaño de papel.",
     "rotateHtml": "<b>Rotar</b> rota las páginas en cualquier grado.",
     "cropHtml": "<b>Recortar</b> recorta los bordes de las páginas.",
     "shuffleHtml": "<b>Barajar</b> reorganiza el orden de las páginas y las rota.",
     "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!",
-    "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>."
+    "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>.",
+    "cardsHtml": "<b>Tarjetas</b> es la manera fácil de crear una hoja de tarjetas de visita, tarjetas postales, pegatinas, etc."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "Su suscripción expiró el {fecha}.",
     "subscriptionWillExpire": "Su suscripción ha sido cancelada y caducará el {fecha}.",
     "updateButton": "Modificar"
+  },
+  "cards": {
+    "help": {
+      "intro": "La herramienta Tarjetas crea hojas de tarjetas, adhesivos, etc. idénticos. Para diseños imponentes más complejos, consulte Cuadrícula."
+    }
   }
 }

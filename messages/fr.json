@@ -34,7 +34,8 @@
     "resize": "Redimensionner",
     "crop": "Recadrer",
     "rotate": "Faire pivoter",
-    "shuffle": "Mélangez"
+    "shuffle": "Mélangez",
+    "cards": "Cartes"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -279,7 +280,8 @@
     "cropHtml": "<b>Récolte</b> recouvre les bords des pages.",
     "shuffleHtml": " <b>Mélange</b> réorganise l'ordre des pages et fait tourner les pages. ",
     "imposeCount": "Les utilisateurs ont imposé {count} documents avec PDF Snake !",
-    "batchHtml": "Sélectionnez ou faites glisser et déposez plusieurs documents à la fois pour <b>traiter par lots</b>."
+    "batchHtml": "Sélectionnez ou faites glisser et déposez plusieurs documents à la fois pour <b>traiter par lots</b>.",
+    "cardsHtml": "<b>Cartes</b> est un moyen simple de créer une feuille de cartes de visite, cartes postales, autocollants, etc. identiques."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "Votre abonnement a expiré le {date}.",
     "subscriptionWillExpire": "Votre abonnement a été annulé et expirera le {date}.",
     "updateButton": "Modifier"
+  },
+  "cards": {
+    "help": {
+      "intro": "L'outil Cartes crée des feuilles de cartes, d'autocollants, etc. identiques. Pour des mises en page imposantes plus complexes, voir Grille."
+    }
   }
 }

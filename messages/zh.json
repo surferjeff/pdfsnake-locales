@@ -34,7 +34,8 @@
     "resize": "调整尺寸",
     "crop": "裁切",
     "rotate": "旋转",
-    "shuffle": "随机排序"
+    "shuffle": "随机排序",
+    "cards": "牌"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -279,7 +280,8 @@
     "cropHtml": "<b>裁切</b>可裁切页面边缘。",
     "shuffleHtml": "<b>随机排序</b>可对页面重新排序，还可以旋转页面。",
     "imposeCount": "用户使用 PDF Snake 强加了 {count} 个文档！",
-    "batchHtml": "一次选择或拖放多个文档到<b>批处理</b>。"
+    "batchHtml": "一次选择或拖放多个文档到<b>批处理</b>。",
+    "cardsHtml": "<b>牌</b>是制作一张完全相同的名片、明信片、贴纸等的简单方法。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -336,5 +338,10 @@
     "subscriptionExpiredDate": "您的订阅已于 {date}到期。",
     "subscriptionWillExpire": "您的订阅已取消，将于 {date}到期。",
     "updateButton": "调整"
+  },
+  "cards": {
+    "help": {
+      "intro": "卡片工具可创建相同卡片、贴纸等的表格。有关更复杂的气势布局，请参阅网格。"
+    }
   }
 }

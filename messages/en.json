@@ -34,7 +34,8 @@
     "resize": "Resize",
     "crop": "Crop",
     "rotate": "Rotate",
-    "shuffle": "Shuffle"
+    "shuffle": "Shuffle",
+    "cards": "Cards"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -272,14 +273,15 @@
   "help": {
     "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
     "bookletHtml": "<b>Booklet</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
-    "gridHtml": "<b>Grid</b> imposes pages in a fixed pattern. It also reorders pages so they come out double-sided, or can be cut and stacked.",
+    "gridHtml": "<b>Grid</b> imposes pages in complex layouts.",
     "monkeyHtml": "<b>Monkey</b> finds the optimal pattern to fit the most pages onto a single sheet.",
     "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
     "rotateHtml": "<b>Rotate</b> rotates pages by any degree.",
     "cropHtml": "<b>Crop</b> crops the edges of pages.",
     "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages.",
     "imposeCount": "Users have imposed {count} documents with PDF Snake!",
-    "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>."
+    "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>.",
+    "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -336,5 +338,10 @@
     "paymentAmount": "Amount",
     "receipt": "receipt",
     "quantity": "Quantity: {0}"
+  },
+  "cards": {
+    "help": {
+      "intro": "The Cards tool creates sheets of identical cards, stickers, etcs.  For more complex imposing layouts, see Grid."
+    }
   }
 }
