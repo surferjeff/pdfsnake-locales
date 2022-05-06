@@ -343,5 +343,15 @@
     "help": {
       "intro": "A ferramenta Cartões cria folhas de cartões idênticos, adesivos, etcs. Para layouts imponentes mais complexos, consulte Grade."
     }
+  },
+  "surveyA": {
+    "helpUs": "Ajude-nos a melhorar o PDF Snake completando as três frases a seguir:",
+    "whyPdfSnake": "Escolhi o PDF Snake em vez de outro software porque",
+    "difficulty": "Uma dificuldade que experimentei ao usar o PDF Snake foi",
+    "feature": "Um recurso que gostaria de ver adicionado ao PDF Snake é",
+    "submit": "Enviar",
+    "submitting": "Enviando...",
+    "thankYou": "Obrigado por completar a pesquisa.",
+    "editAnswers": "Visualize e edite suas respostas."
   }
 }

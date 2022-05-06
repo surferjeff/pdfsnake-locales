@@ -343,5 +343,15 @@
     "help": {
       "intro": "La herramienta Tarjetas crea hojas de tarjetas, adhesivos, etc. idénticos. Para diseños imponentes más complejos, consulte Cuadrícula."
     }
+  },
+  "surveyA": {
+    "helpUs": "Ayúdanos a mejorar PDF Snake completando las siguientes tres oraciones:",
+    "whyPdfSnake": "Elegí PDF Snake sobre otro software porque",
+    "difficulty": "Una dificultad que experimenté al usar PDF Snake fue",
+    "feature": "Una característica que me gustaría ver agregada a PDF Snake es",
+    "submit": "Entregar",
+    "submitting": "Entregando...",
+    "thankYou": "Gracias por completar la encuesta.",
+    "editAnswers": "Ver y editar sus respuestas."
   }
 }
