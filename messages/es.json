@@ -352,6 +352,7 @@
     "submit": "Entregar",
     "submitting": "Entregando...",
     "thankYou": "Gracias por completar la encuesta.",
-    "editAnswers": "Ver y editar sus respuestas."
+    "editAnswers": "Ver y editar sus respuestas.",
+    "userSurvey": "Encuesta de usuarios"
   }
 }

@@ -352,6 +352,7 @@
     "submit": "Submit",
     "submitting": "Submitting...",
     "thankYou": "Thank you for completing the survey.",
-    "editAnswers": "View and edit your answers."
+    "editAnswers": "View and edit your answers.",
+    "userSurvey": "User Survey"
   }
 }
