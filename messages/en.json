@@ -348,6 +348,10 @@
     "helpUs": "Help us improve PDF Snake by completing the following three sentences:",
     "whyPdfSnake": "I chose PDF Snake over other imposing software because",
     "difficulty": "One difficulty I experienced using PDF Snake was",
-    "feature": "One feature I'd like to see added to PDF Snake is"
+    "feature": "One feature I'd like to see added to PDF Snake is",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "thankYou": "Thank you for completing the survey.",
+    "editAnswers": "View and edit your answers."
   }
 }
