@@ -35,7 +35,8 @@
     "crop": "Cortar",
     "rotate": "Girar",
     "shuffle": "Embaralhar",
-    "cards": "Cartões"
+    "cards": "Cartões",
+    "flip": "Giro"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -281,7 +282,8 @@
     "shuffleHtml": "<b>Embaralhar</b> reorganiza a ordem das páginas e gira elas.",
     "imposeCount": "Os usuários ordenaram {count} documentos com o PDF Snake!",
     "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>.",
-    "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos."
+    "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos.",
+    "flipHtml": "<b>Giro</b> vira as páginas como um espelho."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -354,5 +356,8 @@
     "thankYou": "Obrigado por completar a pesquisa.",
     "editAnswers": "Visualize e edite suas respostas.",
     "userSurvey": "Pesquisa de usuários"
+  },
+  "flip": {
+    "help": "A ferramenta Giro do PDF Snake vira as páginas no acesso horizontal como um espelho. Isso é útil para preparar impressões por transferência de calor."
   }
 }

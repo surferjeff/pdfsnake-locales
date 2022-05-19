@@ -35,7 +35,8 @@
     "crop": "Crop",
     "rotate": "Rotate",
     "shuffle": "Shuffle",
-    "cards": "Cards"
+    "cards": "Cards",
+    "flip": "Flip"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -281,7 +282,8 @@
     "shuffleHtml": "<b>Shuffle</b> rearranges the page order and rotates pages.",
     "imposeCount": "Users have imposed {count} documents with PDF Snake!",
     "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>.",
-    "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc."
+    "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc.",
+    "flipHtml": "<b>Flip</b> flips pages like a mirror."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -354,5 +356,8 @@
     "thankYou": "Thank you for completing the survey.",
     "editAnswers": "View and edit your answers.",
     "userSurvey": "User Survey"
+  },
+  "flip": {
+    "help": "PDF Snake's flip tool flips pages on the horizontal access like a mirror. This is useful for preparing heat-transfer prints."
   }
 }
