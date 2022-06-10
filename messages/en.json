@@ -194,7 +194,8 @@
     "pageRange": "{first}-{last}",
     "viewNext": "View next {count} pages",
     "viewFinal": "View final {count} pages",
-    "recalculating": "Recalculating..."
+    "recalculating": "Recalculating...",
+    "overlayNumbers": "Overlay page numbers"
   },
   "home": {
     "step": "Step {number}: {name}",
