@@ -194,7 +194,8 @@
     "pageRange": "{first}-{last}",
     "viewNext": "次の{count}ページを表示",
     "viewFinal": "最後の{count}ページを表示",
-    "recalculating": "再計算中..."
+    "recalculating": "再計算中...",
+    "overlayNumbers": "オーバーレイページ番号"
   },
   "home": {
     "step": "ステップ {number}: {name}",

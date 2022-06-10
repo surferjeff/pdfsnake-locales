@@ -194,7 +194,8 @@
     "pageRange": "{first}-{last}",
     "viewNext": "查看此后的 {count} 页",
     "viewFinal": "查看最后 {count} 页",
-    "recalculating": "正在重新计算……"
+    "recalculating": "正在重新计算……",
+    "overlayNumbers": "叠加页码"
   },
   "home": {
     "step": "第 {number} 步：{name}",

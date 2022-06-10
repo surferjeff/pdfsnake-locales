@@ -194,7 +194,8 @@
     "pageRange": "{first} - {last}",
     "viewNext": "إظهار الـ {count} صفحات التالية",
     "viewFinal": "إظهار آخر {count} صفحات",
-    "recalculating": "إعادة الحساب..."
+    "recalculating": "إعادة الحساب...",
+    "overlayNumbers": "تراكب أرقام الصفحات"
   },
   "home": {
     "step": "خطوة {number} {name}",

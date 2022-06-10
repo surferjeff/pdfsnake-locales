@@ -194,7 +194,8 @@
     "pageRange": "{first}-{last}",
     "viewNext": "Lihat {count} halaman berikutnya",
     "viewFinal": "Lihat {count} halaman terakhir",
-    "recalculating": "Menghitung ulang..."
+    "recalculating": "Menghitung ulang...",
+    "overlayNumbers": "Overlay nomor halaman"
   },
   "home": {
     "step": "Langkah {number}: {name}",
