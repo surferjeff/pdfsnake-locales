@@ -219,7 +219,8 @@
     "badRange": "I'm confused here:",
     "reading": "Error reading {fileName}:",
     "error": "Error: {msg}",
-    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents."
+    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents.",
+    "powerOfTwo": "must be a power of two. ex: 2, 4, 8, 16, etc."
   },
   "paperSizes": {
     "paperSizes": "Paper Sizes",
