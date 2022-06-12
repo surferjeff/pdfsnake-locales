@@ -28,7 +28,7 @@
     "whatNext": "What next?"
   },
   "tools": {
-    "booklet": "Booklet",
+    "booklet": "Bi-fold",
     "grid": "Grid",
     "monkey": "Monkey",
     "resize": "Resize",
@@ -116,7 +116,7 @@
     "fillLastSaddle": "Fill last saddle",
     "scale": "Scale",
     "help": {
-      "intro": "PDF Snake's Booklet tool re-arranges pages to make a booklet. It first shuffles them into book page order, and then puts two pages side by side on each sheet of paper. The resulting document can be folded and stapled down the middle to make a booklet or book.",
+      "intro": "PDF Snake's Bi-fold tool reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
       "step0": "Books are bound using the following process:",
       "step1": "Sheets are printed 2 up, double sided.",
       "step2": "Sheets are put into stacks of N, usually around 5 sheets.",
@@ -274,7 +274,7 @@
   },
   "help": {
     "intro": "PDF Snake has all the tools you need to prepare your document for the printing press.",
-    "bookletHtml": "<b>Booklet</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
+    "bookletHtml": "<b>Bi-fold</b> reorders and imposes pages 2-up so the result can be printed, stacked, and folded in half.",
     "gridHtml": "<b>Grid</b> imposes pages in complex layouts.",
     "monkeyHtml": "<b>Monkey</b> finds the optimal pattern to fit the most pages onto a single sheet.",
     "resizeHtml": "<b>Resize</b> stretches and shrinks page contents to fit any paper size.",
