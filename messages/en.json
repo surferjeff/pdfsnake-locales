@@ -363,5 +363,14 @@
   },
   "flip": {
     "help": "PDF Snake's flip tool flips pages on the horizontal access like a mirror. This is useful for preparing heat-transfer prints."
+  },
+  "nupBook": {
+    "perfectBound": "Perfect Bound",
+    "saddleStitch": "Saddle Stitch",
+    "nup": "N up",
+    "bindingGutter": "Binding Gutter",
+    "otherGutters": "Other Gutters",
+    "creepInward": "Creep Inward",
+    "creepOutward": "Creep Outward"
   }
 }
