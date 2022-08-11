@@ -307,8 +307,7 @@
     "perYear": "{price} por ano",
     "subscribeNow": "Assinar agora",
     "stripeError": "Ocorreu um erro: {msg}",
-    "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:",
-    "subscriptionsRenewAutomatically": "As assinaturas são renovadas automaticamente e podem ser canceladas a qualquer momento acessando {cancelLink}"
+    "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:"
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."
