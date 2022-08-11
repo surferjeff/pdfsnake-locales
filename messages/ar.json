@@ -307,7 +307,8 @@
     "perYear": "{price} في السنة",
     "subscribeNow": "اشترك الآن",
     "stripeError": "حدث خطأ ما: {msg}",
-    "paymentsWillAppear": "ستظهر المدفوعات في كشف حسابك المصرفي / بطاقتك كـ"
+    "paymentsWillAppear": "ستظهر المدفوعات في كشف حسابك المصرفي / بطاقتك كـ",
+    "subscriptionsRenewAutomatically": "يتم تجديد الاشتراكات تلقائيًا ويمكن إلغاؤها في أي وقت بزيارة {إلغاء الرابط}"
   },
   "helpFor": {
     "noHelp": "لا يوجد مقال مساعدة بعنوان {topic}."

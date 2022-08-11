@@ -307,7 +307,8 @@
     "perYear": "{price} par an",
     "subscribeNow": "Abonnez-vous maintenant",
     "stripeError": "Une erreur s'est produite : {msg}",
-    "paymentsWillAppear": "Les paiements apparaîtront sur votre relevé bancaire/de carte sous la forme :"
+    "paymentsWillAppear": "Les paiements apparaîtront sur votre relevé bancaire/de carte sous la forme :",
+    "subscriptionsRenewAutomatically": "Les abonnements se renouvellent automatiquement et peuvent être annulés à tout moment en visitant {cancelLink}"
   },
   "helpFor": {
     "noHelp": "Il n'y a pas de rubrique d'aide nommée {topic}."
