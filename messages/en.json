@@ -308,7 +308,7 @@
     "subscribeNow": "Subscribe Now",
     "stripeError": "An error occurred: {msg}",
     "paymentsWillAppear": "Payments will appear on your bank/card statement as:",
-    "subscriptionsRenewAutomatically": "Subscriptions renew automatically and can be canceled any time by visiting {cancelLink}"
+    "subscriptionsRenewAutomatically": "I understand that subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."

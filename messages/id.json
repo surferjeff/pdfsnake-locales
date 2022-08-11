@@ -307,7 +307,8 @@
     "perYear": "{price} per tahun",
     "subscribeNow": "Langganan Sekarang",
     "stripeError": "Terjadi kegagalan: {msg}",
-    "paymentsWillAppear": "Pembayaran akan muncul di laporan mutasi bank/kartu Anda sebagai:"
+    "paymentsWillAppear": "Pembayaran akan muncul di laporan mutasi bank/kartu Anda sebagai:",
+    "subscriptionsRenewAutomatically": "Saya memahami bahwa langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan saya kapan saja dengan mengunjungi {cancelLink}."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."

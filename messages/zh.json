@@ -307,7 +307,8 @@
     "perYear": "每年 {price}",
     "subscribeNow": "立即订购",
     "stripeError": "已出错：{msg}",
-    "paymentsWillAppear": "付款将在您的银行/卡对帐单上显示为："
+    "paymentsWillAppear": "付款将在您的银行/卡对帐单上显示为：",
+    "subscriptionsRenewAutomatically": "我了解订阅会自动续订，我可以随时访问 {cancelLink} 取消订阅。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"

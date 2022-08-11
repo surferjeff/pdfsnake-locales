@@ -307,7 +307,8 @@
     "perYear": "{price} al año",
     "subscribeNow": "Suscríbase ahora",
     "stripeError": "Ha ocurrido un error: {msg}",
-    "paymentsWillAppear": "Los pagos aparecerán en el extracto de su banco/tarjeta como:"
+    "paymentsWillAppear": "Los pagos aparecerán en el extracto de su banco/tarjeta como:",
+    "subscriptionsRenewAutomatically": "Entiendo que las suscripciones se renuevan automáticamente y puedo cancelar mi suscripción en cualquier momento visitando {cancelLink}."
   },
   "helpFor": {
     "noHelp": "No hay ningún tema de ayuda llamado {topic}."
