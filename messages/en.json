@@ -36,7 +36,8 @@
     "rotate": "Rotate",
     "shuffle": "Shuffle",
     "cards": "Cards",
-    "flip": "Flip"
+    "flip": "Flip",
+    "nupBook": "N-up Book"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -219,7 +220,8 @@
     "badRange": "I'm confused here:",
     "reading": "Error reading {fileName}:",
     "error": "Error: {msg}",
-    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents."
+    "encrypted": "{fileName} is encrypted.  I can't copy pages from encrypted documents.",
+    "powerOfTwo": "must be a power of two. ex: 2, 4, 8, 16, etc."
   },
   "paperSizes": {
     "paperSizes": "Paper Sizes",
@@ -284,7 +286,8 @@
     "imposeCount": "Users have imposed {count} documents with PDF Snake!",
     "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>.",
     "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc.",
-    "flipHtml": "<b>Flip</b> flips pages like a mirror."
+    "flipHtml": "<b>Flip</b> flips pages like a mirror.",
+    "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -361,5 +364,14 @@
   },
   "flip": {
     "help": "PDF Snake's flip tool flips pages on the horizontal access like a mirror. This is useful for preparing heat-transfer prints."
+  },
+  "nupBook": {
+    "perfectBound": "Perfect Bound",
+    "saddleStitch": "Saddle Stitch",
+    "nup": "N up",
+    "bindingGutter": "Binding Gutter",
+    "otherGutters": "Other Gutters",
+    "creepInward": "Creep Inward",
+    "creepOutward": "Creep Outward"
   }
 }
