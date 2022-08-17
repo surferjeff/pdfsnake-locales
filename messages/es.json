@@ -36,7 +36,8 @@
     "rotate": "Rotar",
     "shuffle": "Barajar",
     "cards": "Tarjetas",
-    "flip": "Voltear"
+    "flip": "Voltear",
+    "nupBook": "Libro N-up"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -219,7 +220,8 @@
     "badRange": "Estoy confundido aquí:",
     "reading": "Error al leer {fileName}:",
     "error": "Error: {msg}",
-    "encrypted": "{fileName} está cifrado. No puedo hacer copias de documentos cifrados."
+    "encrypted": "{fileName} está cifrado. No puedo hacer copias de documentos cifrados.",
+    "powerOfTwo": "debe ser una potencia de dos. ej: 2, 4, 8, 16, etc."
   },
   "paperSizes": {
     "paperSizes": "Tamaños de Papel",
@@ -284,7 +286,8 @@
     "imposeCount": "¡Los usuarios han ordenado {count} documentos con PDF Snake!",
     "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>.",
     "cardsHtml": "<b>Tarjetas</b> es la manera fácil de crear una hoja de tarjetas de visita, tarjetas postales, pegatinas, etc.",
-    "flipHtml": "<b>Voltear</b> voltea las páginas como un espejo."
+    "flipHtml": "<b>Voltear</b> voltea las páginas como un espejo.",
+    "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -361,5 +364,14 @@
   },
   "flip": {
     "help": "La herramienta de volteo de PDF Snake voltea páginas en el acceso horizontal como un espejo. Esto es útil para preparar impresiones de transferencia de calor."
+  },
+  "nupBook": {
+    "bindingGutter": "Canaleta de encuadernación",
+    "creepInward": "Arrastrarse hacia adentro",
+    "creepOutward": "Arrastrarse hacia afuera",
+    "nup": "n arriba",
+    "otherGutters": "Otros canalones",
+    "perfectBound": "Perfecto atado",
+    "saddleStitch": "Encuadernador"
   }
 }

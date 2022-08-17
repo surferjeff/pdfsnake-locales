@@ -36,7 +36,8 @@
     "rotate": "旋转",
     "shuffle": "随机排序",
     "cards": "牌",
-    "flip": "翻动"
+    "flip": "翻动",
+    "nupBook": "N-up 书"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -219,7 +220,8 @@
     "badRange": "这里把我弄糊涂了：",
     "reading": "读取 {fileName} 时出错：",
     "error": "错误：{msg}",
-    "encrypted": "{fileName} 已经加密。我不能从已加密的文档中复制页面。"
+    "encrypted": "{fileName} 已经加密。我不能从已加密的文档中复制页面。",
+    "powerOfTwo": "必须是二的幂。例如：2、4、8、16 等。"
   },
   "paperSizes": {
     "paperSizes": "纸张大小",
@@ -284,7 +286,8 @@
     "imposeCount": "用户使用 PDF Snake 强加了 {count} 个文档！",
     "batchHtml": "一次选择或拖放多个文档到<b>批处理</b>。",
     "cardsHtml": "<b>牌</b>是制作一张完全相同的名片、明信片、贴纸等的简单方法。",
-    "flipHtml": "<b>Flip</b> 像镜子一样翻转页面。"
+    "flipHtml": "<b>Flip</b> 像镜子一样翻转页面。",
+    "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -350,5 +353,14 @@
   },
   "flip": {
     "help": "PDF Snake 的翻转工具可以像镜子一样在水平访问上翻转页面。这对于准备热转印打印很有用。"
+  },
+  "nupBook": {
+    "bindingGutter": "装订线",
+    "creepInward": "向内蠕动",
+    "creepOutward": "向外蠕动",
+    "nup": "向上",
+    "otherGutters": "其他排水沟",
+    "perfectBound": "完美绑定",
+    "saddleStitch": "鞍式针迹"
   }
 }

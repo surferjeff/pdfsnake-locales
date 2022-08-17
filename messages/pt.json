@@ -36,7 +36,8 @@
     "rotate": "Girar",
     "shuffle": "Embaralhar",
     "cards": "Cartões",
-    "flip": "Giro"
+    "flip": "Giro",
+    "nupBook": "Livro N-up"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -219,7 +220,8 @@
     "badRange": "Estou confuso(a) aqui:",
     "reading": "Erro ao ler {fileName}:",
     "error": "Erro: {msg}",
-    "encrypted": "{fileName} está criptografado. Não conseguimos copiar páginas de documentos criptografados."
+    "encrypted": "{fileName} está criptografado. Não conseguimos copiar páginas de documentos criptografados.",
+    "powerOfTwo": "deve ser uma potência de dois. ex: 2, 4, 8, 16, etc."
   },
   "paperSizes": {
     "paperSizes": "Tamanhos de papel",
@@ -284,7 +286,8 @@
     "imposeCount": "Os usuários ordenaram {count} documentos com o PDF Snake!",
     "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>.",
     "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos.",
-    "flipHtml": "<b>Giro</b> vira as páginas como um espelho."
+    "flipHtml": "<b>Giro</b> vira as páginas como um espelho.",
+    "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -361,5 +364,14 @@
   },
   "flip": {
     "help": "A ferramenta Giro do PDF Snake vira as páginas no acesso horizontal como um espelho. Isso é útil para preparar impressões por transferência de calor."
+  },
+  "nupBook": {
+    "bindingGutter": "Calha de encadernação",
+    "creepInward": "Deslizar para dentro",
+    "creepOutward": "Deslizar para fora",
+    "nup": "N para cima",
+    "otherGutters": "Outras calhas",
+    "perfectBound": "Encadernação perfeita",
+    "saddleStitch": "Encadernação"
   }
 }

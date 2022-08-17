@@ -36,7 +36,8 @@
     "rotate": "Putar",
     "shuffle": "Acak",
     "cards": "Kartu-kartu",
-    "flip": "Balik"
+    "flip": "Balik",
+    "nupBook": "Buku N-up"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -219,7 +220,8 @@
     "badRange": "Saya bingung:",
     "reading": "Gagal membaca {fileName}:",
     "error": "Gagal: {msg}",
-    "encrypted": "{fileName} terenkripsi. Saya tidak dapat menyalin halaman dari dokumen terenkripsi."
+    "encrypted": "{fileName} terenkripsi. Saya tidak dapat menyalin halaman dari dokumen terenkripsi.",
+    "powerOfTwo": "harus menjadi kekuatan dua. contoh: 2, 4, 8, 16, dst."
   },
   "paperSizes": {
     "paperSizes": "Ukuran Kertas",
@@ -284,7 +286,8 @@
     "imposeCount": "Pengguna telah menerapkan {count} dokumen dengan PDF Snake!",
     "batchHtml": "Pilih atau seret dan lepas beberapa dokumen sekaligus ke <b>proses batch</b>.",
     "cardsHtml": "<b>Kartu</b> adalah cara mudah untuk membuat selembar kartu nama, kartu pos, stiker, dll yang identik.",
-    "flipHtml": "<b>Membalik</b> membalik halaman seperti cermin."
+    "flipHtml": "<b>Membalik</b> membalik halaman seperti cermin.",
+    "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -350,5 +353,14 @@
   },
   "flip": {
     "help": "Alat flip PDF Snake membalik halaman pada akses horizontal seperti cermin. Ini berguna untuk menyiapkan cetakan perpindahan panas."
+  },
+  "nupBook": {
+    "bindingGutter": "Mengikat Talang",
+    "creepInward": "Merayap ke dalam",
+    "creepOutward": "Merayap ke Luar",
+    "nup": "N up",
+    "otherGutters": "Talang lainnya",
+    "perfectBound": "Terikat Sempurna",
+    "saddleStitch": "Jahitan pelana"
   }
 }

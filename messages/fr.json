@@ -36,7 +36,8 @@
     "rotate": "Faire pivoter",
     "shuffle": "Mélangez",
     "cards": "Cartes",
-    "flip": "Retourner"
+    "flip": "Retourner",
+    "nupBook": "N-up Livre"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -219,7 +220,8 @@
     "badRange": "Je suis confus ici :",
     "reading": "Erreur de lecture de {nomdufichier} :",
     "error": "Erreur: {msg}",
-    "encrypted": "{fileName} est crypté.  Je ne peux pas copier les pages de documents cryptés."
+    "encrypted": "{fileName} est crypté.  Je ne peux pas copier les pages de documents cryptés.",
+    "powerOfTwo": "doit être une puissance de deux. ex : 2, 4, 8, 16, etc."
   },
   "paperSizes": {
     "paperSizes": "Formats de papier",
@@ -284,7 +286,8 @@
     "imposeCount": "Les utilisateurs ont imposé {count} documents avec PDF Snake !",
     "batchHtml": "Sélectionnez ou faites glisser et déposez plusieurs documents à la fois pour <b>traiter par lots</b>.",
     "cardsHtml": "<b>Cartes</b> est un moyen simple de créer une feuille de cartes de visite, cartes postales, autocollants, etc. identiques.",
-    "flipHtml": "<b>Retourner</b> retourne les pages comme un miroir."
+    "flipHtml": "<b>Retourner</b> retourne les pages comme un miroir.",
+    "nupBookHtml": "<b>N-up Book</b> impose que les pages soient pliées, coupées et reliées dans un livre."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -350,5 +353,14 @@
   },
   "flip": {
     "help": "L'outil de retournement de PDF Snake retourne les pages sur l'accès horizontal comme un miroir. Ceci est utile pour préparer des impressions par transfert thermique."
+  },
+  "nupBook": {
+    "bindingGutter": "Gouttière de reliure",
+    "creepInward": "Ramper vers l'intérieur",
+    "creepOutward": "ramper vers l'extérieur",
+    "nup": "N vers le haut",
+    "otherGutters": "Autres gouttières",
+    "perfectBound": "Parfait lié",
+    "saddleStitch": "Piqûre à cheval"
   }
 }

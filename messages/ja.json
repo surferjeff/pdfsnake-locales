@@ -36,7 +36,8 @@
     "rotate": "回転",
     "shuffle": "並び替え",
     "cards": "カード",
-    "flip": "めくり"
+    "flip": "めくり",
+    "nupBook": "Nアップブック"
   },
   "pageSize": {
     "paperSize": "用紙サイズ",
@@ -219,7 +220,8 @@
     "badRange": "ご不明な点",
     "reading": "読み込みエラー {fileName}:",
     "error": "エラー： {msg}",
-    "encrypted": "{fileName} は暗号化されています。暗号化された文書からページをコピーすることができません。"
+    "encrypted": "{fileName} は暗号化されています。暗号化された文書からページをコピーすることができません。",
+    "powerOfTwo": "2 の累乗でなければなりません。例: 2、4、8、16 など"
   },
   "paperSizes": {
     "paperSizes": "用紙サイズ",
@@ -284,7 +286,8 @@
     "imposeCount": "ユーザーはPDFSnakeで{count}ドキュメントを課しました！",
     "batchHtml": "複数のドキュメントを一度に選択またはドラッグアンドドロップして、<b>バッチ処理</ b>します。",
     "cardsHtml": "<b>カード</b>は、同じ名刺、はがき、ステッカーなどのシートを簡単に作成する方法です。",
-    "flipHtml": "<b>めくり</b>は鏡のようにページをめくります。"
+    "flipHtml": "<b>めくり</b>は鏡のようにページをめくります。",
+    "nupBookHtml": "<b>N-up Book</b> は、ページを折り、トリミングし、綴じて本にします。"
   },
   "account": {
     "signedInUsersCan": "ログインユーザーは、10日間の無料試用期間中に無制限で文書をダウンロードできます。",
@@ -350,5 +353,14 @@
   },
   "flip": {
     "help": "PDF Snakeのめくりツールは、鏡のように水平アクセスでページをめくります。これは、熱転写プリントの作成に役立ちます。"
+  },
+  "nupBook": {
+    "bindingGutter": "バインディングガター",
+    "creepInward": "内側に忍び寄る",
+    "creepOutward": "外側にクリープ",
+    "nup": "Nアップ",
+    "otherGutters": "その他の樋",
+    "perfectBound": "パーフェクトバウンド",
+    "saddleStitch": "サドルステッチ"
   }
 }
