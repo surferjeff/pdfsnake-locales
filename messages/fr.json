@@ -196,7 +196,13 @@
     "viewNext": "Voir les pages suivantes {count}",
     "viewFinal": "Voir les pages finales {count}",
     "recalculating": "Recalculer...",
-    "overlayNumbers": "Superposer les numéros de page"
+    "overlayNumbers": "Superposer les numéros de page",
+    "clickAgain": "Cliquez à nouveau sur le bouton pour voir votre document.",
+    "clickOverlay": "Cliquez sur le bouton ci-dessus pour superposer les numéros de page.",
+    "toWorkFaster": "Pour travailler plus vite,",
+    "neverShowSlowRenderMessage": "Ne me montre plus jamais ce message.",
+    "thisDocumentTakesALongTime": "Ce document prend beaucoup de temps à s'afficher.",
+    "useTheTools": "Utilisez les outils pour produire la mise en page souhaitée."
   },
   "home": {
     "step": "Étape {number}: {name}",
@@ -362,5 +368,10 @@
     "otherGutters": "Autres gouttières",
     "perfectBound": "Parfait lié",
     "saddleStitch": "Piqûre à cheval"
+  },
+  "cat": {
+    "incognitoModeDetected": "Mode navigation privée détecté",
+    "providesMoney": "PDF Snake fournit de l'argent pour nourrir mon chat.",
+    "starveMyCat": "Affamer mon chat"
   }
 }

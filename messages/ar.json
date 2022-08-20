@@ -196,7 +196,13 @@
     "viewNext": "إظهار الـ {count} صفحات التالية",
     "viewFinal": "إظهار آخر {count} صفحات",
     "recalculating": "إعادة الحساب...",
-    "overlayNumbers": "تراكب أرقام الصفحات"
+    "overlayNumbers": "تراكب أرقام الصفحات",
+    "clickAgain": "انقر فوق الزر مرة أخرى لرؤية المستند الخاص بك.",
+    "clickOverlay": "انقر فوق الزر أعلاه لتراكب أرقام الصفحات.",
+    "toWorkFaster": "للعمل بشكل أسرع ،",
+    "neverShowSlowRenderMessage": "لا تظهر لي هذه الرسالة مرة أخرى.",
+    "thisDocumentTakesALongTime": "يستغرق عرض هذا المستند وقتًا طويلاً.",
+    "useTheTools": "استخدم الأدوات لإنتاج التخطيط الذي تريده."
   },
   "home": {
     "step": "خطوة {number} {name}",
@@ -362,5 +368,10 @@
     "otherGutters": "المزاريب الأخرى",
     "perfectBound": "الكمال ملزمة",
     "saddleStitch": "غرزة السرج"
+  },
+  "cat": {
+    "incognitoModeDetected": "تم اكتشاف وضع التصفح المتخفي",
+    "providesMoney": "يوفر برنامج PDF Snake المال لإطعام قطتي.",
+    "starveMyCat": "تجويع قطتي"
   }
 }

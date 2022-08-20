@@ -196,7 +196,13 @@
     "viewNext": "查看此后的 {count} 页",
     "viewFinal": "查看最后 {count} 页",
     "recalculating": "正在重新计算……",
-    "overlayNumbers": "叠加页码"
+    "overlayNumbers": "叠加页码",
+    "clickAgain": "再次单击该按钮以查看您的文档。",
+    "clickOverlay": "单击上面的按钮以覆盖页码。",
+    "toWorkFaster": "为了更快地工作，",
+    "neverShowSlowRenderMessage": "再也不要向我显示此消息。",
+    "thisDocumentTakesALongTime": "该文档需要很长时间才能显示。",
+    "useTheTools": "使用工具生成您想要的布局。"
   },
   "home": {
     "step": "第 {number} 步：{name}",
@@ -362,5 +368,10 @@
     "otherGutters": "其他排水沟",
     "perfectBound": "完美绑定",
     "saddleStitch": "鞍式针迹"
+  },
+  "cat": {
+    "incognitoModeDetected": "检测到隐身模式",
+    "providesMoney": "PDF Snake 提供钱来喂我的猫。",
+    "starveMyCat": "饿死我的猫"
   }
 }

@@ -196,7 +196,13 @@
     "viewNext": "次の{count}ページを表示",
     "viewFinal": "最後の{count}ページを表示",
     "recalculating": "再計算中...",
-    "overlayNumbers": "オーバーレイページ番号"
+    "overlayNumbers": "オーバーレイページ番号",
+    "clickAgain": "ボタンをもう一度クリックすると、ドキュメントが表示されます。",
+    "clickOverlay": "上のボタンをクリックすると、ページ番号がオーバーレイされます。",
+    "toWorkFaster": "仕事を早くするには、",
+    "neverShowSlowRenderMessage": "今後このメッセージを表示しない。",
+    "thisDocumentTakesALongTime": "このドキュメントは表示に時間がかかります。",
+    "useTheTools": "ツールを使用して、必要なレイアウトを作成します。"
   },
   "home": {
     "step": "ステップ {number}: {name}",
@@ -362,5 +368,10 @@
     "otherGutters": "その他の樋",
     "perfectBound": "パーフェクトバウンド",
     "saddleStitch": "サドルステッチ"
+  },
+  "cat": {
+    "incognitoModeDetected": "シークレット モードが検出されました",
+    "providesMoney": "PDF Snake は私の猫に餌をやるお金を提供してくれます。",
+    "starveMyCat": "私の猫を飢えさせる"
   }
 }

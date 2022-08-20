@@ -196,7 +196,13 @@
     "viewNext": "Lihat {count} halaman berikutnya",
     "viewFinal": "Lihat {count} halaman terakhir",
     "recalculating": "Menghitung ulang...",
-    "overlayNumbers": "Overlay nomor halaman"
+    "overlayNumbers": "Overlay nomor halaman",
+    "clickAgain": "Klik tombol lagi untuk melihat dokumen Anda.",
+    "clickOverlay": "Klik tombol di atas untuk menampilkan nomor halaman.",
+    "toWorkFaster": "Untuk bekerja lebih cepat,",
+    "neverShowSlowRenderMessage": "Jangan pernah tunjukkan pesan ini lagi.",
+    "thisDocumentTakesALongTime": "Dokumen ini membutuhkan waktu lama untuk ditampilkan.",
+    "useTheTools": "Gunakan alat untuk menghasilkan tata letak yang Anda inginkan."
   },
   "home": {
     "step": "Langkah {number}: {name}",
@@ -362,5 +368,10 @@
     "otherGutters": "Talang lainnya",
     "perfectBound": "Terikat Sempurna",
     "saddleStitch": "Jahitan pelana"
+  },
+  "cat": {
+    "incognitoModeDetected": "Mode Penyamaran Terdeteksi",
+    "providesMoney": "PDF Snake menyediakan uang untuk memberi makan kucing saya.",
+    "starveMyCat": "Membuat Kucingku Lapar"
   }
 }

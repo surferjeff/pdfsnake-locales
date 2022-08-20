@@ -196,7 +196,13 @@
     "viewNext": "Ver las siguientes {count} páginas",
     "viewFinal": "Ver las últimas {count} páginas",
     "recalculating": "Recalculando...",
-    "overlayNumbers": "Números de página superpuestos"
+    "overlayNumbers": "Números de página superpuestos",
+    "clickAgain": "Vuelva a hacer clic en el botón para ver su documento.",
+    "clickOverlay": "Haga clic en el botón de arriba para superponer los números de página.",
+    "toWorkFaster": "Para trabajar más rápido,",
+    "neverShowSlowRenderMessage": "No volver a mostrarme este mensaje nunca más.",
+    "thisDocumentTakesALongTime": "Este documento tarda mucho tiempo en mostrarse.",
+    "useTheTools": "Utilice las herramientas para producir el diseño que desee."
   },
   "home": {
     "step": "Etapa {number}: {name}",
@@ -373,5 +379,10 @@
     "otherGutters": "Otros canalones",
     "perfectBound": "Perfecto atado",
     "saddleStitch": "Encuadernador"
+  },
+  "cat": {
+    "incognitoModeDetected": "Modo de incógnito detectado",
+    "providesMoney": "PDF Snake proporciona dinero para alimentar a mi gato.",
+    "starveMyCat": "Matar de hambre a mi gato"
   }
 }
