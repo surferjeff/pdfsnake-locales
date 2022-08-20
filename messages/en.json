@@ -196,7 +196,13 @@
     "viewNext": "View next {count} pages",
     "viewFinal": "View final {count} pages",
     "recalculating": "Recalculating...",
-    "overlayNumbers": "Overlay page numbers"
+    "overlayNumbers": "Overlay page numbers",
+    "thisDocumentTakesALongTime": "This document takes a long time to display.",
+    "toWorkFaster": "To work faster,",
+    "clickOverlay": "Click the button above to overlay page numbers.",
+    "useTheTools": "Use the tools to produce the layout you want.",
+    "clickAgain": "Click the button again to see your document.",
+    "neverShowSlowRenderMessage": "Never show me this message again."
   },
   "home": {
     "step": "Step {number}: {name}",
@@ -373,5 +379,10 @@
     "otherGutters": "Other Gutters",
     "creepInward": "Creep Inward",
     "creepOutward": "Creep Outward"
+  },
+  "cat": {
+    "incognitoModeDetected": "Incognito Mode Detected",
+    "providesMoney": "PDF Snake provides money to feed my cat.",
+    "starveMyCat": "Starve My Cat"
   }
 }
