@@ -384,5 +384,11 @@
     "incognitoModeDetected": "Incognito Mode Detected",
     "providesMoney": "PDF Snake provides money to feed my cat.",
     "starveMyCat": "Starve My Cat"
+  },
+  "incognito": {
+    "weRecommend": "Concerned about your privacy?  So are we.  We recommend:",
+    "pleaseExit": "Please exit your browser's incognito/private mode.",
+    "usingFirefox": "Using {firefox}.  It protects your privacy even when not in incognito mode.",
+    "readingOur": "Reading our {privacyPolicy}."
   }
 }

@@ -373,5 +373,11 @@
     "incognitoModeDetected": "シークレット モードが検出されました",
     "providesMoney": "PDF Snake は私の猫に餌をやるお金を提供してくれます。",
     "starveMyCat": "私の猫を飢えさせる"
+  },
+  "incognito": {
+    "pleaseExit": "ブラウザのシークレット/プライベート モードを終了してください。",
+    "readingOur": "{privacyPolicy} を読んで下さい。",
+    "usingFirefox": "{firefox} を使用って下さい。シークレット モードでなくてもプライバシーを保護します。",
+    "weRecommend": "プライバシーが心配ですか？私たちもそうだ。推奨事項:"
   }
 }

@@ -373,5 +373,11 @@
     "incognitoModeDetected": "Mode navigation privée détecté",
     "providesMoney": "PDF Snake fournit de l'argent pour nourrir mon chat.",
     "starveMyCat": "Affamer mon chat"
+  },
+  "incognito": {
+    "pleaseExit": "Veuillez quitter le mode incognito/privé de votre navigateur.",
+    "readingOur": "Lire notre {privacyPolicy}.",
+    "usingFirefox": "Utilisation de {firefox}. Il protège votre vie privée même lorsqu'il n'est pas en mode incognito.",
+    "weRecommend": "Préoccupé par votre vie privée ? Nous aussi. Nous recommandons:"
   }
 }

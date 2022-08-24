@@ -373,5 +373,11 @@
     "incognitoModeDetected": "تم اكتشاف وضع التصفح المتخفي",
     "providesMoney": "يوفر برنامج PDF Snake المال لإطعام قطتي.",
     "starveMyCat": "تجويع قطتي"
+  },
+  "incognito": {
+    "pleaseExit": "يرجى الخروج من وضع التصفح المتخفي / الخاص في متصفحك.",
+    "weRecommend": "قلق بشأن خصوصيتك؟ ونحن كذلك. نوصي:",
+    "readingOur": "قراءة {privacyPolicy}.",
+    "usingFirefox": "باستخدام {firefox}. إنه يحمي خصوصيتك حتى عندما لا تكون في وضع التصفح المتخفي."
   }
 }

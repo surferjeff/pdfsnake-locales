@@ -384,5 +384,11 @@
     "incognitoModeDetected": "Modo de incógnito detectado",
     "providesMoney": "PDF Snake proporciona dinero para alimentar a mi gato.",
     "starveMyCat": "Matar de hambre a mi gato"
+  },
+  "incognito": {
+    "pleaseExit": "Salga del modo incógnito/privado de su navegador.",
+    "weRecommend": "¿Preocupado por tu privacidad? Así somos nosotros. Nosotros recomendamos:",
+    "readingOur": "Leyendo nuestra {privacyPolicy}.",
+    "usingFirefox": "Usando {firefox}. Protege su privacidad incluso cuando no está en modo de incógnito."
   }
 }

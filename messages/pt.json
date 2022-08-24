@@ -384,5 +384,11 @@
     "incognitoModeDetected": "Modo de navegação anônima detectado",
     "providesMoney": "PDF Snake fornece dinheiro para alimentar meu gato.",
     "starveMyCat": "Matar a fome meu gato"
+  },
+  "incognito": {
+    "pleaseExit": "Saia do modo de navegação anônima/privado do seu navegador.",
+    "readingOur": "Lendo nossa {privacyPolicy}.",
+    "usingFirefox": "Usando {firefox}. Ele protege sua privacidade mesmo quando não está no modo de navegação anônima.",
+    "weRecommend": "Preocupado com a sua privacidade? Nós também. Nós recomendamos:"
   }
 }

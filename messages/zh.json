@@ -373,5 +373,11 @@
     "incognitoModeDetected": "检测到隐身模式",
     "providesMoney": "PDF Snake 提供钱来喂我的猫。",
     "starveMyCat": "饿死我的猫"
+  },
+  "incognito": {
+    "pleaseExit": "请退出浏览器的隐身/隐私模式。",
+    "readingOur": "阅读我们的 {privacyPolicy}。",
+    "usingFirefox": "使用 {firefox}。即使不在隐身模式下，它也能保护您的隐私。",
+    "weRecommend": "担心您的隐私？我们也是。我们推荐："
   }
 }

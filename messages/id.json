@@ -373,5 +373,11 @@
     "incognitoModeDetected": "Mode Penyamaran Terdeteksi",
     "providesMoney": "PDF Snake menyediakan uang untuk memberi makan kucing saya.",
     "starveMyCat": "Membuat Kucingku Lapar"
+  },
+  "incognito": {
+    "pleaseExit": "Harap keluar dari mode penyamaran/pribadi browser Anda.",
+    "readingOur": "Membaca {privacyPolicy} kami.",
+    "usingFirefox": "Menggunakan {firefox}. Ini melindungi privasi Anda bahkan ketika tidak dalam mode penyamaran.",
+    "weRecommend": "Khawatir tentang privasi Anda? Kita juga. Kami merekomendasikan:"
   }
 }
