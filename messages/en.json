@@ -37,7 +37,8 @@
     "shuffle": "Shuffle",
     "cards": "Cards",
     "flip": "Flip",
-    "nupBook": "N-up Book"
+    "nupBook": "N-up Book",
+    "split": "Split"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -293,7 +294,8 @@
     "batchHtml": "Select or drag and drop multiple documents at once to <b>batch process</b>.",
     "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc.",
     "flipHtml": "<b>Flip</b> flips pages like a mirror.",
-    "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book."
+    "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book.",
+    "splitHtml": "<b>Split</b> splits a large document into smaller documents."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
