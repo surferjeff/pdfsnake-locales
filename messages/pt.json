@@ -395,6 +395,7 @@
     "help": {
       "explanation": "Por exemplo, um documento de 25 páginas chamado <tt>cats.pdf</tt> é dividido em 3 documentos com um tamanho de bloco de 10 páginas."
     },
-    "chunkSize": "Tamanho do bloco: {n} páginas"
+    "chunkSize": "Tamanho do bloco: {n} páginas",
+    "note": "Observação: {link} oferece mais maneiras de dividir documentos."
   }
 }

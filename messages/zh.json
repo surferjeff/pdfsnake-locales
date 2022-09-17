@@ -384,6 +384,7 @@
     "help": {
       "explanation": "例如，一个名为 <tt>cats.pdf</tt> 的 25 页文档被拆分为 3 个文档，块大小为 10 页。"
     },
-    "chunkSize": "块大小：{n} 页"
+    "chunkSize": "块大小：{n} 页",
+    "note": "注意：{link} 提供了更多拆分文档的方法。"
   }
 }

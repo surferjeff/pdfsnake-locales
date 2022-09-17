@@ -395,6 +395,7 @@
     "help": {
       "explanation": "Por ejemplo, un documento de 25 páginas llamado <tt>cats.pdf</tt> se divide en 3 documentos con un tamaño de fragmento de 10 páginas."
     },
-    "chunkSize": "Tamaño de fragmento: {n} páginas"
+    "chunkSize": "Tamaño de fragmento: {n} páginas",
+    "note": "Nota: {link} proporciona más formas de dividir documentos."
   }
 }
