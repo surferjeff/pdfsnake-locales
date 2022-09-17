@@ -383,6 +383,7 @@
   "split": {
     "help": {
       "explanation": "Misalnya, dokumen 25 halaman bernama <tt>cats.pdf</tt> dipecah menjadi 3 dokumen dengan ukuran chunk 10 halaman."
-    }
+    },
+    "chunkSize": "Ukuran potongan: {n} halaman"
   }
 }

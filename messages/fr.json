@@ -383,6 +383,7 @@
   "split": {
     "help": {
       "explanation": "Par exemple, un document de 25 pages nommé <tt>cats.pdf</tt> est divisé en 3 documents avec une taille de bloc de 10 pages."
-    }
+    },
+    "chunkSize": "Taille de bloc : {n} pages"
   }
 }
