@@ -381,9 +381,7 @@
     "saddleStitch": "Encuadernador"
   },
   "cat": {
-    "incognitoModeDetected": "Modo de incógnito detectado",
-    "providesMoney": "PDF Snake proporciona dinero para alimentar a mi gato.",
-    "starveMyCat": "Matar de hambre a mi gato"
+    "incognitoModeDetected": "Modo de incógnito detectado"
   },
   "incognito": {
     "pleaseExit": "Salga del modo incógnito/privado de su navegador.",

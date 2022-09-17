@@ -383,9 +383,7 @@
     "creepOutward": "Creep Outward"
   },
   "cat": {
-    "incognitoModeDetected": "Incognito Mode Detected",
-    "providesMoney": "PDF Snake provides money to feed my cat.",
-    "starveMyCat": "Starve My Cat"
+    "incognitoModeDetected": "Incognito Mode Detected"
   },
   "incognito": {
     "weRecommend": "Concerned about your privacy?  So are we.  We recommend:",

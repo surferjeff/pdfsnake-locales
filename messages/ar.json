@@ -370,9 +370,7 @@
     "saddleStitch": "غرزة السرج"
   },
   "cat": {
-    "incognitoModeDetected": "تم اكتشاف وضع التصفح المتخفي",
-    "providesMoney": "يوفر برنامج PDF Snake المال لإطعام قطتي.",
-    "starveMyCat": "تجويع قطتي"
+    "incognitoModeDetected": "تم اكتشاف وضع التصفح المتخفي"
   },
   "incognito": {
     "pleaseExit": "يرجى الخروج من وضع التصفح المتخفي / الخاص في متصفحك.",

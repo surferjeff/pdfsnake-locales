@@ -370,9 +370,7 @@
     "saddleStitch": "サドルステッチ"
   },
   "cat": {
-    "incognitoModeDetected": "シークレット モードが検出されました",
-    "providesMoney": "PDF Snake は私の猫に餌をやるお金を提供してくれます。",
-    "starveMyCat": "私の猫を飢えさせる"
+    "incognitoModeDetected": "シークレット モードが検出されました"
   },
   "incognito": {
     "pleaseExit": "ブラウザのシークレット/プライベート モードを終了してください。",

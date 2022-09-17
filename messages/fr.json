@@ -370,9 +370,7 @@
     "saddleStitch": "Piqûre à cheval"
   },
   "cat": {
-    "incognitoModeDetected": "Mode navigation privée détecté",
-    "providesMoney": "PDF Snake fournit de l'argent pour nourrir mon chat.",
-    "starveMyCat": "Affamer mon chat"
+    "incognitoModeDetected": "Mode navigation privée détecté"
   },
   "incognito": {
     "pleaseExit": "Veuillez quitter le mode incognito/privé de votre navigateur.",
