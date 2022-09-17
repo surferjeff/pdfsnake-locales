@@ -37,7 +37,8 @@
     "shuffle": "Embaralhar",
     "cards": "Cartões",
     "flip": "Giro",
-    "nupBook": "Livro N-up"
+    "nupBook": "Livro N-up",
+    "split": "Dividir"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -293,7 +294,8 @@
     "batchHtml": "Selecione ou arraste e solte vários documentos de uma vez para <b>processo em lote</b>.",
     "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos.",
     "flipHtml": "<b>Giro</b> vira as páginas como um espelho.",
-    "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro."
+    "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro.",
+    "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -388,5 +390,10 @@
     "readingOur": "Lendo nossa {privacyPolicy}.",
     "usingFirefox": "Usando {firefox}. Ele protege sua privacidade mesmo quando não está no modo de navegação anônima.",
     "weRecommend": "Preocupado com a sua privacidade? Nós também. Nós recomendamos:"
+  },
+  "split": {
+    "help": {
+      "explanation": "Por exemplo, um documento de 25 páginas chamado <tt>cats.pdf</tt> é dividido em 3 documentos com um tamanho de bloco de 10 páginas."
+    }
   }
 }

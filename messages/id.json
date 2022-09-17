@@ -37,7 +37,8 @@
     "shuffle": "Acak",
     "cards": "Kartu-kartu",
     "flip": "Balik",
-    "nupBook": "Buku N-up"
+    "nupBook": "Buku N-up",
+    "split": "Membelah"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -293,7 +294,8 @@
     "batchHtml": "Pilih atau seret dan lepas beberapa dokumen sekaligus ke <b>proses batch</b>.",
     "cardsHtml": "<b>Kartu</b> adalah cara mudah untuk membuat selembar kartu nama, kartu pos, stiker, dll yang identik.",
     "flipHtml": "<b>Membalik</b> membalik halaman seperti cermin.",
-    "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku."
+    "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku.",
+    "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -377,5 +379,10 @@
     "readingOur": "Membaca {privacyPolicy} kami.",
     "usingFirefox": "Menggunakan {firefox}. Ini melindungi privasi Anda bahkan ketika tidak dalam mode penyamaran.",
     "weRecommend": "Khawatir tentang privasi Anda? Kita juga. Kami merekomendasikan:"
+  },
+  "split": {
+    "help": {
+      "explanation": "Misalnya, dokumen 25 halaman bernama <tt>cats.pdf</tt> dipecah menjadi 3 dokumen dengan ukuran chunk 10 halaman."
+    }
   }
 }

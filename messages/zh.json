@@ -37,7 +37,8 @@
     "shuffle": "随机排序",
     "cards": "牌",
     "flip": "翻动",
-    "nupBook": "N-up 书"
+    "nupBook": "N-up 书",
+    "split": "分裂"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -293,7 +294,8 @@
     "batchHtml": "一次选择或拖放多个文档到<b>批处理</b>。",
     "cardsHtml": "<b>牌</b>是制作一张完全相同的名片、明信片、贴纸等的简单方法。",
     "flipHtml": "<b>Flip</b> 像镜子一样翻转页面。",
-    "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。"
+    "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。",
+    "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -377,5 +379,10 @@
     "readingOur": "阅读我们的 {privacyPolicy}。",
     "usingFirefox": "使用 {firefox}。即使不在隐身模式下，它也能保护您的隐私。",
     "weRecommend": "担心您的隐私？我们也是。我们推荐："
+  },
+  "split": {
+    "help": {
+      "explanation": "例如，一个名为 <tt>cats.pdf</tt> 的 25 页文档被拆分为 3 个文档，块大小为 10 页。"
+    }
   }
 }

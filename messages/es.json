@@ -37,7 +37,8 @@
     "shuffle": "Barajar",
     "cards": "Tarjetas",
     "flip": "Voltear",
-    "nupBook": "Libro N-up"
+    "nupBook": "Libro N-up",
+    "split": "Separar"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -293,7 +294,8 @@
     "batchHtml": "Seleccione o arrastre y suelte varios documentos a la vez para <b>procesar por lotes</b>.",
     "cardsHtml": "<b>Tarjetas</b> es la manera fácil de crear una hoja de tarjetas de visita, tarjetas postales, pegatinas, etc.",
     "flipHtml": "<b>Voltear</b> voltea las páginas como un espejo.",
-    "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro."
+    "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro.",
+    "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -388,5 +390,10 @@
     "weRecommend": "¿Preocupado por tu privacidad? Así somos nosotros. Nosotros recomendamos:",
     "readingOur": "Leyendo nuestra {privacyPolicy}.",
     "usingFirefox": "Usando {firefox}. Protege su privacidad incluso cuando no está en modo de incógnito."
+  },
+  "split": {
+    "help": {
+      "explanation": "Por ejemplo, un documento de 25 páginas llamado <tt>cats.pdf</tt> se divide en 3 documentos con un tamaño de fragmento de 10 páginas."
+    }
   }
 }
