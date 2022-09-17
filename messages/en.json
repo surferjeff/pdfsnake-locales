@@ -394,6 +394,7 @@
   "split": {
     "help": {
       "explanation": "For example, a 25-page document named <tt>cats.pdf</tt> is split into 3 documents with a chunk size of 10 pages."
-    }
+    },
+    "chunkSize": "Chunk size: {n} pages"
   }
 }
