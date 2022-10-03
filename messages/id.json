@@ -38,7 +38,8 @@
     "cards": "Kartu-kartu",
     "flip": "Balik",
     "nupBook": "Buku N-up",
-    "split": "Membelah"
+    "split": "Membelah",
+    "overlay": "Hamparan"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -295,7 +296,8 @@
     "cardsHtml": "<b>Kartu</b> adalah cara mudah untuk membuat selembar kartu nama, kartu pos, stiker, dll yang identik.",
     "flipHtml": "<b>Membalik</b> membalik halaman seperti cermin.",
     "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku.",
-    "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil."
+    "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil.",
+    "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -386,5 +388,10 @@
     },
     "chunkSize": "Ukuran potongan: {n} halaman",
     "note": "Catatan: {link} menyediakan lebih banyak cara untuk membagi dokumen."
+  },
+  "overlay": {
+    "blendMode": "Modus Campuran",
+    "padding": "Lapisan",
+    "repeat": "Ulang"
   }
 }

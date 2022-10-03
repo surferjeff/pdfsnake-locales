@@ -38,7 +38,8 @@
     "cards": "Tarjetas",
     "flip": "Voltear",
     "nupBook": "Libro N-up",
-    "split": "Separar"
+    "split": "Separar",
+    "overlay": "Superponer"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -295,7 +296,8 @@
     "cardsHtml": "<b>Tarjetas</b> es la manera fácil de crear una hoja de tarjetas de visita, tarjetas postales, pegatinas, etc.",
     "flipHtml": "<b>Voltear</b> voltea las páginas como un espejo.",
     "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro.",
-    "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños."
+    "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños.",
+    "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -397,5 +399,10 @@
     },
     "chunkSize": "Tamaño de fragmento: {n} páginas",
     "note": "Nota: {link} proporciona más formas de dividir documentos."
+  },
+  "overlay": {
+    "blendMode": "Modo de mezcla",
+    "padding": "Relleno",
+    "repeat": "Repetir"
   }
 }

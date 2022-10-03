@@ -38,7 +38,8 @@
     "cards": "牌",
     "flip": "翻动",
     "nupBook": "N-up 书",
-    "split": "分裂"
+    "split": "分裂",
+    "overlay": "覆盖"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -295,7 +296,8 @@
     "cardsHtml": "<b>牌</b>是制作一张完全相同的名片、明信片、贴纸等的简单方法。",
     "flipHtml": "<b>Flip</b> 像镜子一样翻转页面。",
     "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。",
-    "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。"
+    "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。",
+    "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -386,5 +388,10 @@
     },
     "chunkSize": "块大小：{n} 页",
     "note": "注意：{link} 提供了更多拆分文档的方法。"
+  },
+  "overlay": {
+    "blendMode": "混合模式",
+    "padding": "填充",
+    "repeat": "重复"
   }
 }

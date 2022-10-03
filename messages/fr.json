@@ -38,7 +38,8 @@
     "cards": "Cartes",
     "flip": "Retourner",
     "nupBook": "N-up Livre",
-    "split": "Diviser"
+    "split": "Diviser",
+    "overlay": "Recouvrir"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -295,7 +296,8 @@
     "cardsHtml": "<b>Cartes</b> est un moyen simple de créer une feuille de cartes de visite, cartes postales, autocollants, etc. identiques.",
     "flipHtml": "<b>Retourner</b> retourne les pages comme un miroir.",
     "nupBookHtml": "<b>N-up Book</b> impose que les pages soient pliées, coupées et reliées dans un livre.",
-    "splitHtml": "<b>Diviser</b> divise un gros document en documents plus petits."
+    "splitHtml": "<b>Diviser</b> divise un gros document en documents plus petits.",
+    "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -386,5 +388,10 @@
     },
     "chunkSize": "Taille de bloc : {n} pages",
     "note": "Remarque : {link} fournit d'autres moyens de fractionner des documents."
+  },
+  "overlay": {
+    "blendMode": "Mode de fusion",
+    "padding": "Rembourrage",
+    "repeat": "Répéter"
   }
 }

@@ -296,7 +296,8 @@
     "cardsHtml": "<b>Cards</b> is the easy way to create a sheet of identical business cards, post cards, stickers, etc.",
     "flipHtml": "<b>Flip</b> flips pages like a mirror.",
     "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book.",
-    "splitHtml": "<b>Split</b> splits a large document into smaller documents."
+    "splitHtml": "<b>Split</b> splits a large document into smaller documents.",
+    "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -398,5 +399,10 @@
     },
     "chunkSize": "Chunk size: {n} pages",
     "note": "Note: {link} provides more ways to split documents."
+  },
+  "overlay": {
+    "blendMode": "Blend Mode",
+    "repeat": "Repeat",
+    "padding": "Padding"
   }
 }

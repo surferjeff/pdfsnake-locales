@@ -38,7 +38,8 @@
     "cards": "Cartões",
     "flip": "Giro",
     "nupBook": "Livro N-up",
-    "split": "Dividir"
+    "split": "Dividir",
+    "overlay": "Sobreposição"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -295,7 +296,8 @@
     "cardsHtml": "<b>Cartões</b> é a maneira mais fácil de criar uma folha de cartões de visita, cartões postais, adesivos, etc. idênticos.",
     "flipHtml": "<b>Giro</b> vira as páginas como um espelho.",
     "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro.",
-    "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores."
+    "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores.",
+    "overlayHtml": "<b>Sobreposição</b> sobrepõe o conteúdo de um documento PDF em outro."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -397,5 +399,10 @@
     },
     "chunkSize": "Tamanho do bloco: {n} páginas",
     "note": "Observação: {link} oferece mais maneiras de dividir documentos."
+  },
+  "overlay": {
+    "blendMode": "Modo de mistura",
+    "padding": "Preenchimento",
+    "repeat": "Repetir"
   }
 }
