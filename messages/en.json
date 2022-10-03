@@ -38,7 +38,8 @@
     "cards": "Cards",
     "flip": "Flip",
     "nupBook": "N-up Book",
-    "split": "Split"
+    "split": "Split",
+    "overlay": "Overlay"
   },
   "pageSize": {
     "paperSize": "Paper Size",
