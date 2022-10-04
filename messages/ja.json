@@ -392,6 +392,7 @@
   "overlay": {
     "blendMode": "ブレンドモード",
     "padding": "パディング",
-    "repeat": "繰り返す"
+    "repeat": "繰り返す",
+    "opacity": "不透明度"
   }
 }

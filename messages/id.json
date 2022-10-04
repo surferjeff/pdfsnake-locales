@@ -392,6 +392,7 @@
   "overlay": {
     "blendMode": "Modus Campuran",
     "padding": "Lapisan",
-    "repeat": "Ulang"
+    "repeat": "Ulang",
+    "opacity": "Kegelapan"
   }
 }

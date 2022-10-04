@@ -392,6 +392,7 @@
   "overlay": {
     "blendMode": "وضع المزج",
     "padding": "حشوة",
-    "repeat": "يكرر"
+    "repeat": "يكرر",
+    "opacity": "التعتيم"
   }
 }

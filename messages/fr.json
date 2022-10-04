@@ -392,6 +392,7 @@
   "overlay": {
     "blendMode": "Mode de fusion",
     "padding": "Rembourrage",
-    "repeat": "Répéter"
+    "repeat": "Répéter",
+    "opacity": "Opacité"
   }
 }

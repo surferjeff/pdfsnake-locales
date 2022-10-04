@@ -392,6 +392,7 @@
   "overlay": {
     "blendMode": "混合模式",
     "padding": "填充",
-    "repeat": "重复"
+    "repeat": "重复",
+    "opacity": "不透明度"
   }
 }

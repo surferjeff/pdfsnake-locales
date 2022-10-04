@@ -403,6 +403,7 @@
   "overlay": {
     "blendMode": "Modo de mezcla",
     "padding": "Relleno",
-    "repeat": "Repetir"
+    "repeat": "Repetir",
+    "opacity": "Opacidad"
   }
 }
