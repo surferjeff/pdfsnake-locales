@@ -404,6 +404,13 @@
     "blendMode": "Blend Mode",
     "repeat": "Repeat",
     "padding": "Padding",
-    "opacity": "Opacity"
+    "opacity": "Opacity",
+    "help": {
+      "repeat": "When there are more pages in the bottom document than the top document, repeat pages from the top document.  For example, if there is only one page in the top document, it will be overlaid onto all the pages in the top document.",
+      "normal": "Content in the top document replaces content in the bottom document. White blocks out content underneath.",
+      "multiply": "Content in the top document is combined with content in the bottom document. White is transparent.",
+      "opacity": "Opacity of the top content.  100% is fully opaque.  0% is invisible.",
+      "paddingHtml": "Set <b>Left</b> and <b>Top</b> to control the location where the top document is overlaid."
+    }
   }
 }

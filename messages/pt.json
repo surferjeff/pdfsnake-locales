@@ -404,6 +404,13 @@
     "blendMode": "Modo de mistura",
     "padding": "Preenchimento",
     "repeat": "Repetir",
-    "opacity": "Opacidade"
+    "opacity": "Opacidade",
+    "help": {
+      "multiply": "O conteúdo do documento superior é combinado com o conteúdo do documento inferior. O branco é transparente.",
+      "normal": "O conteúdo do documento superior substitui o conteúdo do documento inferior. O branco bloqueia o conteúdo por baixo.",
+      "opacity": "Opacidade do conteúdo superior. 100% é totalmente opaco. 0% é invisível.",
+      "paddingHtml": "Defina <b>Esquerda</b> e <b>Superior</b> para controlar o local onde o documento superior é sobreposto.",
+      "repeat": "Quando houver mais páginas no documento inferior do que no documento superior, repita as páginas do documento superior. Por exemplo, se houver apenas uma página no documento superior, ela será sobreposta em todas as páginas do documento superior."
+    }
   }
 }
