@@ -204,7 +204,11 @@
     "clickOverlay": "Click the button above to overlay page numbers.",
     "useTheTools": "Use the tools to produce the layout you want.",
     "clickAgain": "Click the button again to see your document.",
-    "neverShowSlowRenderMessage": "Never show me this message again."
+    "neverShowSlowRenderMessage": "Never show me this message again.",
+    "pause": "Pause automatic recalculation",
+    "play": "Resume automatic recalculation",
+    "recalculatingPaused": "Recalculating paused.",
+    "clickPlay": "Click {play} to resume."
   },
   "home": {
     "step": "Step {number}: {name}",
