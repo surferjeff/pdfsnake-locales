@@ -204,7 +204,11 @@
     "toWorkFaster": "Para trabalhar mais rápido,",
     "neverShowSlowRenderMessage": "Nunca mais me mostre esta mensagem.",
     "thisDocumentTakesALongTime": "Este documento leva muito tempo para ser exibido.",
-    "useTheTools": "Use as ferramentas para produzir o layout desejado."
+    "useTheTools": "Use as ferramentas para produzir o layout desejado.",
+    "pause": "Pausar recálculo automático",
+    "play": "Retomar recálculo automático",
+    "recalculatingPaused": "Recalculando pausado.",
+    "clickPlay": "Clique em {play} para retomar."
   },
   "home": {
     "step": "Etapa {number}: {name}",

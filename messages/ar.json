@@ -204,7 +204,11 @@
     "toWorkFaster": "للعمل بشكل أسرع ،",
     "neverShowSlowRenderMessage": "لا تظهر لي هذه الرسالة مرة أخرى.",
     "thisDocumentTakesALongTime": "يستغرق عرض هذا المستند وقتًا طويلاً.",
-    "useTheTools": "استخدم الأدوات لإنتاج التخطيط الذي تريده."
+    "useTheTools": "استخدم الأدوات لإنتاج التخطيط الذي تريده.",
+    "pause": "إيقاف إعادة الحساب التلقائي مؤقتًا",
+    "play": "استئناف إعادة الحساب التلقائي",
+    "recalculatingPaused": "توقفت إعادة الحساب مؤقتًا.",
+    "clickPlay": "انقر فوق {play} للاستئناف."
   },
   "home": {
     "step": "خطوة {number} {name}",

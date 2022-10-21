@@ -204,7 +204,11 @@
     "toWorkFaster": "仕事を早くするには、",
     "neverShowSlowRenderMessage": "今後このメッセージを表示しない。",
     "thisDocumentTakesALongTime": "このドキュメントは表示に時間がかかります。",
-    "useTheTools": "ツールを使用して、必要なレイアウトを作成します。"
+    "useTheTools": "ツールを使用して、必要なレイアウトを作成します。",
+    "pause": "自動再計算を一時停止",
+    "play": "自動再計算を再開",
+    "recalculatingPaused": "再計算を一時停止しました。",
+    "clickPlay": "{play} をクリックして再開します。"
   },
   "home": {
     "step": "ステップ {number}: {name}",

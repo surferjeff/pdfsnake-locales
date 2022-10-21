@@ -204,7 +204,11 @@
     "toWorkFaster": "Untuk bekerja lebih cepat,",
     "neverShowSlowRenderMessage": "Jangan pernah tunjukkan pesan ini lagi.",
     "thisDocumentTakesALongTime": "Dokumen ini membutuhkan waktu lama untuk ditampilkan.",
-    "useTheTools": "Gunakan alat untuk menghasilkan tata letak yang Anda inginkan."
+    "useTheTools": "Gunakan alat untuk menghasilkan tata letak yang Anda inginkan.",
+    "pause": "Jeda penghitungan ulang otomatis",
+    "play": "Lanjutkan perhitungan ulang otomatis",
+    "recalculatingPaused": "Penghitungan ulang dijeda.",
+    "clickPlay": "Klik {play} untuk melanjutkan."
   },
   "home": {
     "step": "Langkah {number}: {name}",

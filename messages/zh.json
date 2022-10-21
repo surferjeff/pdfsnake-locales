@@ -204,7 +204,11 @@
     "toWorkFaster": "为了更快地工作，",
     "neverShowSlowRenderMessage": "再也不要向我显示此消息。",
     "thisDocumentTakesALongTime": "该文档需要很长时间才能显示。",
-    "useTheTools": "使用工具生成您想要的布局。"
+    "useTheTools": "使用工具生成您想要的布局。",
+    "pause": "暂停自动重新计算",
+    "play": "恢复自动重新计算",
+    "recalculatingPaused": "重新计算已暂停。",
+    "clickPlay": "点击{play}继续。"
   },
   "home": {
     "step": "第 {number} 步：{name}",
