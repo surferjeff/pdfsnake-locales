@@ -39,7 +39,8 @@
     "flip": "Flip",
     "nupBook": "N-up Book",
     "split": "Split",
-    "overlay": "Overlay"
+    "overlay": "Overlay",
+    "nudge": "Nudge"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -301,7 +302,8 @@
     "flipHtml": "<b>Flip</b> flips pages like a mirror.",
     "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book.",
     "splitHtml": "<b>Split</b> splits a large document into smaller documents.",
-    "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another."
+    "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another.",
+    "nudgeHtml": "<b>Nudge</b> moves content around the page."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -415,6 +417,14 @@
       "multiply": "Content in the top document is combined with content in the bottom document. White is transparent.",
       "opacity": "Opacity of the top content.  100% is fully opaque.  0% is invisible.",
       "paddingHtml": "Set <b>Left</b> and <b>Top</b> to control the location where the top document is overlaid."
+    }
+  },
+  "nudge": {
+    "move": "Move",
+    "reset": "Reset",
+    "help": {
+      "move": "The distance to move the contents.",
+      "intro": "Nudge moves contents around pages.  It's the perfect tool for fixing registration issues with your scanner, press, or printer."
     }
   }
 }
