@@ -39,7 +39,8 @@
     "flip": "翻动",
     "nupBook": "N-up 书",
     "split": "分裂",
-    "overlay": "覆盖"
+    "overlay": "覆盖",
+    "nudge": "Nudge"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -301,7 +302,8 @@
     "flipHtml": "<b>Flip</b> 像镜子一样翻转页面。",
     "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。",
     "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。",
-    "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。"
+    "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。",
+    "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -404,6 +406,14 @@
       "opacity": "顶部内容的不透明度。 100% 完全不透明。 0% 是不可见的。",
       "paddingHtml": "设置 <b>Left</b> 和 <b>Top</b> 以控制顶部文档重叠的位置。",
       "repeat": "当底部文档中的页面多于顶部文档时，从顶部文档开始重复页面。例如，如果顶部文档中只有一页，它将覆盖到顶部文档中的所有页面上。"
+    }
+  },
+  "nudge": {
+    "move": "移动",
+    "reset": "重置",
+    "help": {
+      "move": "移动内容的距离。",
+      "intro": "轻推在页面周围移动内容。它是解决您的扫描仪、印刷机或打印机的注册问题的完美工具。"
     }
   }
 }

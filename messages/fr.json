@@ -39,7 +39,8 @@
     "flip": "Retourner",
     "nupBook": "N-up Livre",
     "split": "Diviser",
-    "overlay": "Recouvrir"
+    "overlay": "Recouvrir",
+    "nudge": "Nudge"
   },
   "pageSize": {
     "paperSize": "Taille du papier",
@@ -301,7 +302,8 @@
     "flipHtml": "<b>Retourner</b> retourne les pages comme un miroir.",
     "nupBookHtml": "<b>N-up Book</b> impose que les pages soient pliées, coupées et reliées dans un livre.",
     "splitHtml": "<b>Diviser</b> divise un gros document en documents plus petits.",
-    "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre."
+    "overlayHtml": "<b>Superposer</b> superpose le contenu d'un document PDF sur un autre.",
+    "nudgeHtml": "<b>Nudge</b> déplace le contenu sur la page."
   },
   "account": {
     "signedInUsersCan": "Les utilisateurs connectés peuvent télécharger un nombre illimité de documents pendant une période d'essai gratuite de 10 jours.",
@@ -404,6 +406,14 @@
       "opacity": "Opacité du contenu supérieur. 100% est entièrement opaque. 0% est invisible.",
       "paddingHtml": "Définissez <b>Gauche</b> et <b>Haut</b> pour contrôler l'emplacement où le document du haut est superposé.",
       "repeat": "Lorsqu'il y a plus de pages dans le document du bas que dans le document du haut, répétez les pages du document du haut. Par exemple, s'il n'y a qu'une seule page dans le document du haut, elle sera superposée sur toutes les pages du document du haut."
+    }
+  },
+  "nudge": {
+    "move": "Déplacer",
+    "reset": "Réinitialiser",
+    "help": {
+      "move": "La distance pour déplacer le contenu.",
+      "intro": "Nudge déplace le contenu autour des pages. C'est l'outil parfait pour résoudre les problèmes d'enregistrement avec votre scanner, presse ou imprimante."
     }
   }
 }

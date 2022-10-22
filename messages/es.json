@@ -39,7 +39,8 @@
     "flip": "Voltear",
     "nupBook": "Libro N-up",
     "split": "Separar",
-    "overlay": "Superponer"
+    "overlay": "Superponer",
+    "nudge": "Nudge"
   },
   "pageSize": {
     "paperSize": "Tamaño de papel",
@@ -301,7 +302,8 @@
     "flipHtml": "<b>Voltear</b> voltea las páginas como un espejo.",
     "nupBookHtml": "<b>N-up Book</b> impone páginas para doblar, recortar y encuadernar en un libro.",
     "splitHtml": "<b>Separar</b> divide un documento grande en documentos más pequeños.",
-    "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro."
+    "overlayHtml": "<b>Superponer</b> superpone el contenido de un documento PDF sobre otro.",
+    "nudgeHtml": "<b>Nudge</b> mueve el contenido por la página."
   },
   "account": {
     "signedInUsersCan": "Los usuarios que hayan iniciado sesión pueden descargar documentos ilimitados por un periodo de prueba gratuito de 10 días .",
@@ -415,6 +417,14 @@
       "opacity": "Opacidad del contenido superior. 100% es totalmente opaco. 0% es invisible.",
       "paddingHtml": "Configure <b>Izquierda</b> y <b>Superior</b> para controlar la ubicación en la que se superpone el documento superior.",
       "repeat": "Cuando haya más páginas en el documento inferior que en el documento superior, repita las páginas del documento superior. Por ejemplo, si solo hay una página en el documento superior, se superpondrá a todas las páginas del documento superior."
+    }
+  },
+  "nudge": {
+    "move": "Muevete",
+    "reset": "Reiniciar",
+    "help": {
+      "move": "La distancia para mover el contenido.",
+      "intro": "Nudge mueve el contenido por las páginas. Es la herramienta perfecta para solucionar problemas de registro con su escáner, prensa o impresora."
     }
   }
 }

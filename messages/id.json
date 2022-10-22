@@ -39,7 +39,8 @@
     "flip": "Balik",
     "nupBook": "Buku N-up",
     "split": "Membelah",
-    "overlay": "Hamparan"
+    "overlay": "Hamparan",
+    "nudge": "Nudge"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -301,7 +302,8 @@
     "flipHtml": "<b>Membalik</b> membalik halaman seperti cermin.",
     "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku.",
     "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil.",
-    "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya."
+    "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya.",
+    "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -404,6 +406,14 @@
       "opacity": "Opacity dari konten teratas. 100% sepenuhnya buram. 0% tidak terlihat.",
       "paddingHtml": "Setel <b>Kiri</b> dan <b>Atas</b> untuk mengontrol lokasi tempat dokumen teratas dihamparkan.",
       "repeat": "Ketika ada lebih banyak halaman di dokumen bawah daripada dokumen atas, ulangi halaman dari dokumen atas. Misalnya, jika hanya ada satu halaman di dokumen teratas, halaman tersebut akan dihamparkan ke semua halaman di dokumen teratas."
+    }
+  },
+  "nudge": {
+    "move": "Bergerak",
+    "reset": "Mengatur ulang",
+    "help": {
+      "move": "Jarak untuk memindahkan konten.",
+      "intro": "Nudge memindahkan konten di sekitar halaman. Ini adalah alat yang sempurna untuk memperbaiki masalah pendaftaran dengan pemindai, mesin cetak, atau printer Anda."
     }
   }
 }
