@@ -209,7 +209,8 @@
     "pause": "Pausar recálculo automático",
     "play": "Reanudar recálculo automático",
     "recalculatingPaused": "Recalculando en pausa.",
-    "clickPlay": "Haga clic en {play} para reanudar."
+    "clickPlay": "Haga clic en {play} para reanudar.",
+    "clickToPause": "Haga clic en este botón para pausar el recálculo automático."
   },
   "home": {
     "step": "Etapa {number}: {name}",

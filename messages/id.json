@@ -209,7 +209,8 @@
     "pause": "Jeda penghitungan ulang otomatis",
     "play": "Lanjutkan perhitungan ulang otomatis",
     "recalculatingPaused": "Penghitungan ulang dijeda.",
-    "clickPlay": "Klik {play} untuk melanjutkan."
+    "clickPlay": "Klik {play} untuk melanjutkan.",
+    "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis."
   },
   "home": {
     "step": "Langkah {number}: {name}",

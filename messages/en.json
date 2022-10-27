@@ -209,7 +209,8 @@
     "pause": "Pause automatic recalculation",
     "play": "Resume automatic recalculation",
     "recalculatingPaused": "Recalculating paused.",
-    "clickPlay": "Click {play} to resume."
+    "clickPlay": "Click {play} to resume.",
+    "clickToPause": "Click this button to pause automatic recalculation."
   },
   "home": {
     "step": "Step {number}: {name}",

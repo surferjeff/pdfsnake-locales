@@ -209,7 +209,8 @@
     "pause": "自動再計算を一時停止",
     "play": "自動再計算を再開",
     "recalculatingPaused": "再計算を一時停止しました。",
-    "clickPlay": "{play} をクリックして再開します。"
+    "clickPlay": "{play} をクリックして再開します。",
+    "clickToPause": "このボタンをクリックして、自動再計算を一時停止します。"
   },
   "home": {
     "step": "ステップ {number}: {name}",
