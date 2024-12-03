@@ -22,10 +22,15 @@
     "terms": "Using this website means that you agree with our {link}.",
     "plugIn": "PDF Snake 6 is a new online version of the best-selling Adobe Acrobat Plug-In {link}.",
     "questions": "We love to hear your questions and comments.",
-    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Copyright 2002-{year} Rennie Glen Software LLC",
+    "support": "Support",
+    "readHelp": "Read the {link}.",
+    "helpAndTutorials": "online help and tutorials",
+    "pricing": "Pricing"
   },
   "choose": {
-    "whatNext": "What next?"
+    "whatNext": "What next?",
+    "trashTip": "Drag and drop tools here to remove them from the toolbox."
   },
   "tools": {
     "booklet": "Booklet",
@@ -40,7 +45,11 @@
     "nupBook": "N-up Book",
     "split": "Split",
     "overlay": "Overlay",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Header or Footer",
+    "colorBar": "Color Bar",
+    "nest": "Stickers",
+    "calendar": "Calendar"
   },
   "pageSize": {
     "paperSize": "Paper Size",
@@ -54,7 +63,9 @@
       "width": "The width of the pages in the resulting document. Must be greater than zero.",
       "height": "The height of the pages in the resulting document. Must be greater than zero.",
       "landscapeHtml": "When checked, swaps the values for the width and height when creating pages in the resulting document. For example, if <strong>Letter</strong> is selected and <strong>Landscape</strong> is not checked then the resulting pages will be 8.5 by 11 inches. If <strong>Landscape</strong> is checked then the resulting pages will be 11 by 8.5 inches."
-    }
+    },
+    "ratioLocked": "The aspect ratio is locked. Click to unlock.",
+    "ratioUnlocked": "The aspect ratio is unlocked. Click to lock."
   },
   "units": {
     "mms": "mms",
@@ -70,7 +81,12 @@
     "sequential": "sequential",
     "sequentialHelp": "Pages will be imposed in the same order they appear in the source document.",
     "stack": "stack",
-    "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document."
+    "stackHelp": "Pages will be arranged so that after being printed and cut, the resulting stacks can be stacked upon each other, and the resulting page order will match the source document.",
+    "trueStack": "True stack",
+    "trueStackHelpHtml": "<p> There was a defect in PDF Snake versions 6.152 and older. With <b>Page Order = stack</b> and <b>Repeat each page > 1</b>, PDF Snake arranged the pages in the wrong order. </p> <p> Clear the <b>True stack</b> checkbox to continue arranging pages in the same order as PDF Snake versions 6.152 and older. </p> <p> Check the <b>True stack</b> checkbox and PDF Snake will reorder the pages correctly. </p> <p> When <b>Repeat each page = 1</b>, the old page order and new page order are the same, the checkbox has no effect, so PDF Snake hides it. </p>",
+    "fillSheet": "fill sheet",
+    "stepAndRepeat": "step and repeat",
+    "stepAndRepeatHelp": "Repeat each page so it fills one sheet."
   },
   "whiteSpace": {
     "whiteSpace": "White Space",
@@ -189,6 +205,17 @@
       "pages-1-X-3": "page 1, a blank page, page 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "PDF Snake's Calendar tool creates a calendar booklet from the imported PDF. It is formatted so that there is a picture and a calendar page on the same sheet of paper.",
+      "rotateBackCover": "Rotates the back cover by 180 degrees to format it correctly for a calendar.",
+      "pageLayout": "Choose the layout of the calendar to either fit each page by half sheets or full sheets."
+    },
+    "rotateBackCover": "Rotate back cover",
+    "pageLayout": "Page Layout",
+    "halfSheet": "Half Sheet",
+    "fullSheet": "Full Sheet"
+  },
   "pages": {
     "zoomIn": "Zoom in",
     "zoomOut": "Zoom out",
@@ -210,7 +237,11 @@
     "play": "Resume automatic recalculation",
     "recalculatingPaused": "Recalculating paused.",
     "clickPlay": "Click {play} to resume.",
-    "clickToPause": "Click this button to pause automatic recalculation."
+    "clickToPause": "Click this button to pause automatic recalculation.",
+    "xray": "X-ray",
+    "showRules": "Draw rules",
+    "showCheckerboard": "Fill background",
+    "settings": "Settings"
   },
   "home": {
     "step": "Step {number}: {name}",
@@ -221,7 +252,8 @@
     "addStep": "Add Step",
     "saveSteps": "Record Steps",
     "saveButton": "Save",
-    "batchLog": "Batch Log"
+    "batchLog": "Batch Log",
+    "safariNoStickers": "Safari has defects that prevent the Stickers tool from working correctly. Use the Monkey tool instead, or another browser."
   },
   "error": {
     "notEmpty": "must not be empty",
@@ -262,8 +294,10 @@
   "resize": {
     "help": {
       "intro": "PDF Snake's Resize tool shrinks or expands the pages' contents to fit any size paper.",
-      "preserveAspectRatio": " When checked, preserves the ratio of height-to-width in the pages of the source document. If this box is not checked, the pages may be significantly stretched either horizontally or vertically."
-    }
+      "preserveAspectRatio": " When checked, preserves the ratio of height-to-width in the pages of the source document. If this box is not checked, the pages may be significantly stretched either horizontally or vertically.",
+      "stretch": "Stretch the page to fit the new size. This may distort the image."
+    },
+    "stretch": "Stretch to fit"
   },
   "impose": {
     "help": {
@@ -304,7 +338,11 @@
     "nupBookHtml": "<b>N-up Book</b> imposes pages to be folded, trimmed and bound into a book.",
     "splitHtml": "<b>Split</b> splits a large document into smaller documents.",
     "overlayHtml": "<b>Overlay</b> overlays the content of one PDF document onto another.",
-    "nudgeHtml": "<b>Nudge</b> moves content around the page."
+    "nudgeHtml": "<b>Nudge</b> moves content around the page.",
+    "headerFooterHtml": "<b>Header or Footer</b> adds page numbers, file names, or other text to the bottom or top of pages.",
+    "colorBarHtml": "<b>Color Bar</b> adds color patches for monitoring and controlling the printing process.",
+    "nestHtml": "<b>Stickers</b> imposes a sheet of stickers with overlapping white space.",
+    "calendarHtml": "<b>Calendar</b> creates a calendar booklet from the imported PDF."
   },
   "account": {
     "signedInUsersCan": "Signed-in users can download unlimited documents during a 10-day free trial.",
@@ -328,7 +366,10 @@
     "subscribeNow": "Subscribe Now",
     "stripeError": "An error occurred: {msg}",
     "paymentsWillAppear": "Payments will appear on your bank/card statement as:",
-    "subscriptionsRenewAutomatically": "I understand that subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}."
+    "subscriptionsRenewAutomatically": "I understand that subscriptions renew automatically, and I can cancel my subscription any time by visiting {cancelLink}.",
+    "noDisposableEmail": "Disposable e-mail addresses are not eligible for free trials.",
+    "creatingFreeTrial": "Creating free trial...",
+    "imReadyToSubscribe": "I'm ready to subscribe now."
   },
   "helpFor": {
     "noHelp": "There's no help topic named {topic}."
@@ -361,7 +402,10 @@
     "paymentEvent": "Event",
     "paymentAmount": "Amount",
     "receipt": "receipt",
-    "quantity": "Quantity: {0}"
+    "quantity": "Quantity: {0}",
+    "tellUsWhy": "Your subscription has been canceled. We're sorry to see you go. If you have a moment, please let us know why you canceled.",
+    "thankYou": "Thank you for telling us why you cancelled.",
+    "editAnswer": "Edit your answer"
   },
   "cards": {
     "help": {
@@ -418,7 +462,8 @@
       "multiply": "Content in the top document is combined with content in the bottom document. White is transparent.",
       "opacity": "Opacity of the top content.  100% is fully opaque.  0% is invisible.",
       "paddingHtml": "Set <b>Left</b> and <b>Top</b> to control the location where the top document is overlaid."
-    }
+    },
+    "chooseFile": "Choose File"
   },
   "nudge": {
     "move": "Move",
@@ -427,5 +472,65 @@
       "move": "The distance to move the contents.",
       "intro": "Nudge moves contents around pages.  It's the perfect tool for fixing registration issues with your scanner, press, or printer."
     }
+  },
+  "headerFooter": {
+    "template": "Template",
+    "hint": "Edit the template here.",
+    "insertVariable": "Insert variable",
+    "font": "Font",
+    "size": "Size",
+    "location": "Location",
+    "alternate": "Alternate sides for odd and even pages.",
+    "margins": "Margins",
+    "help": {
+      "intro": "The Header or Footer tool adds page numbers, file names, or other text to the bottom or top of pages."
+    },
+    "edit": "Edit",
+    "fileName": "file name",
+    "pageNumber": "page number",
+    "pageCount": "page count"
+  },
+  "colorBar": {
+    "marks": "Marks",
+    "colors": "Colors",
+    "spotColors": "Spot colors",
+    "shapes": "Shapes",
+    "help": {
+      "p1": "In printing, a color bar, also known as a color control strip or color test strip, is a strip of color patches printed alongside the main image. It serves as a reference for monitoring and controlling the printing process. The color bar typically contains a range of color patches, including primary colors (cyan, magenta, yellow, and black), as well as secondary colors and grayscale tones.",
+      "p2": "Printers use color bars to ensure accurate and consistent color reproduction throughout the printing job. By comparing the printed color patches to a standard reference, such as a color chart or target, printers can make adjustments to maintain color accuracy, adjust ink levels, and detect any issues with color registration.",
+      "p3": "Color bars are essential tools in the printing industry, helping to achieve consistent and high-quality color output in various printing processes, including offset printing, digital printing, and other color reproduction methods.",
+      "margins": "The distance between the color bar and the edge of the page is called the margin. The margin is typically 1/4 inch (6.35 mm) or less. The margin is measured from the edge of the color bar to the edge of the page.",
+      "size": "The size of the color bar is the width of the color bar.  Each shape in the color bar is a square with this size.",
+      "spotColors": "Spot colors are colors that are printed using premixed inks, rather than by combining primary colors (cyan, magenta, yellow, and black). Spot colors are used to print solid colors, such as logos, that are not easily reproduced using the primary colors. Check this box to print a color bar using spot colors.",
+      "shapes": "The color bar consists of a variety of shapes to help you evaluate the quality of the printing process. Choose the shapes you want to include in the color bar.",
+      "repeat": "Repeat the shapes in color bar across the page.  When not checked, each shape is printed only once."
+    }
+  },
+  "progress": {
+    "copying": "Copying page {0}",
+    "imposing": "Imposing page {0}",
+    "saving": "Compressing"
+  },
+  "safariBroken": {
+    "title": "Safari is Broken",
+    "defective": "Your current browser, Safari, has defects that prevent PDF Snake from working correctly.",
+    "bestWithFirefox": "PDF Snake works best with the Firefox browser.",
+    "wellWithChrome": "PDF Snake also works well with {link}, but Firefox is faster.",
+    "googleChrome": "Google Chrome"
+  },
+  "nest": {
+    "whitespace": "Whitespace",
+    "nesting": "Nesting",
+    "effort": "Effort",
+    "help": {
+      "p1": "It packs as many stickers as possible onto a single sheet.",
+      "p2": "When your stickers are rectangles, then the Stickers tool is no better than the Monkey tool.",
+      "p3": "When your stickers are odd shapes with a transparent background, then the Stickers tool may pack more stickers onto a sheet than the Monkey tool.  Click {checkerboard} to see if your document has a transparent background.",
+      "p4": "Of course, your printer paper need not have an adhesive backing. The Stickers tool is useful any time you intend to cut odd shapes from the paper.",
+      "padding": "The minimum space between stickers on the resulting sheet.",
+      "margins": "The minimum space between the stickers and the edge of the sheet.",
+      "nestingEffort": "The higher the effort, the more time PDF Snake will spend trying to pack stickers onto the sheet.  The higher the effort, the more stickers may be packed onto the sheet."
+    },
+    "nestingEffort": "Nesting Effort"
   }
 }

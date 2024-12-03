@@ -22,10 +22,15 @@
     "terms": "使用此网站即表示您同意遵守我们的{link}。",
     "plugIn": "PDF Snake 6 是畅销 Adobe Acrobat 插件 {link} 的新在线版本。",
     "questions": "我们非常愿意听取您的问题和意见。",
-    "copyright": "版权所有 2002-{year} Rennie Glen Software LLC"
+    "copyright": "版权所有 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "阅读{link}。",
+    "support": "支持",
+    "helpAndTutorials": "在线帮助和教程",
+    "pricing": "价钱"
   },
   "choose": {
-    "whatNext": "下一步是什么？"
+    "whatNext": "下一步是什么？",
+    "trashTip": "将工具拖放到此处可将其从工具箱中删除。"
   },
   "tools": {
     "booklet": "手册",
@@ -40,7 +45,11 @@
     "nupBook": "N-up 书",
     "split": "分裂",
     "overlay": "覆盖",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "页眉或页脚",
+    "colorBar": "彩条",
+    "nest": "贴纸",
+    "calendar": "日历"
   },
   "pageSize": {
     "paperSize": "纸张大小",
@@ -54,7 +63,9 @@
       "width": "得出的文档中的页面的宽度。必须大于零。",
       "height": "得出的文档中的页面的高度。必须大于零。",
       "landscapeHtml": "选中后，会在创建得出的文档中的页面时对调宽度和高度的值。例如，如果已选择 <strong>Letter</strong>，但未选中<strong>横向</strong>，则得出的页面的大小会是 8.5 英寸乘以 11 英寸。如果已选中<strong>横向</strong>，则得出的页面的大小会是 11 英寸乘以 8.5 英寸。"
-    }
+    },
+    "ratioLocked": "宽高比已锁定。\n点击解锁。",
+    "ratioUnlocked": "宽高比已解锁。\n单击以锁定。"
   },
   "units": {
     "mms": "毫米",
@@ -70,7 +81,12 @@
     "sequential": "顺排",
     "sequentialHelp": "会按页面出现在源文档中的顺序对页面进行排版。",
     "stack": "码堆",
-    "stackHelp": "排列页面时会使码出的纸堆可在印刷并裁切完毕后堆在一起，最终页面顺序会与源文档相同。"
+    "stackHelp": "排列页面时会使码出的纸堆可在印刷并裁切完毕后堆在一起，最终页面顺序会与源文档相同。",
+    "trueStack": "真实堆栈",
+    "trueStackHelpHtml": "<p> PDF Snake 6.152 及更早版本中存在缺陷。\n使用<b>页面顺序=堆栈</b>和<b>重复每个页面> 1</b>时，PDF Snake以错误的顺序排列页面。 \n</p> <p> 清除<b>真实堆栈</b>复选框可继续按照与 PDF Snake 版本 6.152 及更早版本相同的顺序排列页面。 \n</p> <p> 选中<b>真实堆栈</b>复选框，PDF Snake 将正确地对页面重新排序。 \n</p> <p> 当<b>重复每个页面= 1</b>时，旧页面顺序和新页面顺序相同，该复选框不起作用，因此PDF Snake将其隐藏。 \n</p>",
+    "fillSheet": "填表",
+    "stepAndRepeat": "步骤并重复",
+    "stepAndRepeatHelp": "重复每一页，使其填满一张纸。"
   },
   "whiteSpace": {
     "whiteSpace": "空白区域",
@@ -189,6 +205,17 @@
       "pages-1-X-3": "第 1 页，空页，第 3 页"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>日历</b>从导入的 PDF 创建日历小册子。",
+      "rotateBackCover": "将后盖旋转 180 度以正确格式化日历。",
+      "pageLayout": "选择日历的布局，以半页或整页适合每页。"
+    },
+    "rotateBackCover": "旋转后盖",
+    "pageLayout": "页面布局",
+    "halfSheet": "半张",
+    "fullSheet": "全张"
+  },
   "pages": {
     "zoomIn": "放大",
     "zoomOut": "缩小",
@@ -210,7 +237,11 @@
     "play": "恢复自动重新计算",
     "recalculatingPaused": "重新计算已暂停。",
     "clickPlay": "点击{play}继续。",
-    "clickToPause": "单击此按钮可暂停自动重新计算。"
+    "clickToPause": "单击此按钮可暂停自动重新计算。",
+    "xray": "射线照相",
+    "settings": "设置",
+    "showCheckerboard": "填充背景",
+    "showRules": "抽奖规则"
   },
   "home": {
     "step": "第 {number} 步：{name}",
@@ -221,7 +252,8 @@
     "addStep": "添加步骤",
     "saveSteps": "保存步骤",
     "saveButton": "保存",
-    "batchLog": "批处理日志"
+    "batchLog": "批处理日志",
+    "safariNoStickers": "Safari 存在一些缺陷，导致贴纸工具无法正常工作。\n请改用 Monkey 工具或其他浏览器。"
   },
   "error": {
     "notEmpty": "不得空着",
@@ -262,8 +294,10 @@
   "resize": {
     "help": {
       "intro": "PDF Snake 的“调整尺寸”工具可缩小或扩大页面的内容，使其与任何纸张大小相配。",
-      "preserveAspectRatio": " 选中后，会保持源文档页面的高宽比。如果未选中此框，则可能会大幅横向或纵向拉伸页面。"
-    }
+      "preserveAspectRatio": " 选中后，会保持源文档页面的高宽比。如果未选中此框，则可能会大幅横向或纵向拉伸页面。",
+      "stretch": "拉伸页面以适应新的尺寸。\n这可能会使图像变形。"
+    },
+    "stretch": "拉伸以适应"
   },
   "impose": {
     "help": {
@@ -304,7 +338,11 @@
     "nupBookHtml": "<b>N-up Book</b> 将页面折叠、修剪并装订成一本书。",
     "splitHtml": "<b>分裂</b> 将大文档拆分为较小的文档。",
     "overlayHtml": "<b>叠加</b> 将一个 PDF 文档的内容叠加到另一个文档上。",
-    "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。"
+    "nudgeHtml": "<b>Nudge</b> 在页面周围移动内容。",
+    "headerFooterHtml": "<b>页眉或页脚</b>将页码、文件名或其他文本添加到页面底部或顶部。",
+    "colorBarHtml": "<b>颜色栏</b>添加色块以监视和控制打印过程。",
+    "nestHtml": "<b>贴纸</b>施加一张带有重叠空白的贴纸。",
+    "help.calendarHtml": "<b>日历</b>从导入的 PDF 创建日历小册子。"
   },
   "account": {
     "signedInUsersCan": "已登录的用户可在 10 天的免费试用期间下载的文档数量没有限制。",
@@ -328,7 +366,10 @@
     "subscribeNow": "立即订购",
     "stripeError": "已出错：{msg}",
     "paymentsWillAppear": "付款将在您的银行/卡对帐单上显示为：",
-    "subscriptionsRenewAutomatically": "我了解订阅会自动续订，我可以随时访问 {cancelLink} 取消订阅。"
+    "subscriptionsRenewAutomatically": "我了解订阅会自动续订，我可以随时访问 {cancelLink} 取消订阅。",
+    "creatingFreeTrial": "正在创建免费试用...",
+    "noDisposableEmail": "一次性电子邮件地址不符合免费试用资格。",
+    "imReadyToSubscribe": "我现在准备订阅了。"
   },
   "helpFor": {
     "noHelp": "没有名为 {topic} 的帮助主题。"
@@ -361,7 +402,10 @@
     "subscriptionExpired": "订阅已过期",
     "subscriptionExpiredDate": "您的订阅已于 {date}到期。",
     "subscriptionWillExpire": "您的订阅已取消，将于 {date}到期。",
-    "updateButton": "调整"
+    "updateButton": "调整",
+    "editAnswer": "编辑你的答案",
+    "tellUsWhy": "您的订阅已被取消。\n看到你离开我们感到很遗憾。\n如果您有时间，请告诉我们您取消的原因。",
+    "thankYou": "感谢您告诉我们取消的原因。"
   },
   "cards": {
     "help": {
@@ -407,7 +451,8 @@
       "opacity": "顶部内容的不透明度。 100% 完全不透明。 0% 是不可见的。",
       "paddingHtml": "设置 <b>Left</b> 和 <b>Top</b> 以控制顶部文档重叠的位置。",
       "repeat": "当底部文档中的页面多于顶部文档时，从顶部文档开始重复页面。例如，如果顶部文档中只有一页，它将覆盖到顶部文档中的所有页面上。"
-    }
+    },
+    "chooseFile": "选择文件"
   },
   "nudge": {
     "move": "移动",
@@ -416,5 +461,76 @@
       "move": "移动内容的距离。",
       "intro": "轻推在页面周围移动内容。它是解决您的扫描仪、印刷机或打印机的注册问题的完美工具。"
     }
+  },
+  "headerFooter": {
+    "alternate": "奇数页和偶数页交替面。",
+    "font": "字体",
+    "hint": "在此编辑模板。",
+    "insertVariable": "插入变量",
+    "location": "地点",
+    "margins": "边距",
+    "size": "尺寸",
+    "template": "模板",
+    "help": {
+      "intro": "页眉或页脚工具将页码、文件名或其他文本添加到页面底部或顶部。"
+    },
+    "edit": "编辑",
+    "fileName": "文件名",
+    "pageCount": "页数",
+    "pageNumber": "页码"
+  },
+  "colorBar": {
+    "marks": "分数",
+    "colors": "颜色",
+    "spotColors": "专色",
+    "shapes": "形状",
+    "help": {
+      "margins": "颜色条与页面边缘之间的距离称为边距。\n页边距通常为 1/4 英寸（6.35 毫米）或更小。\n页边距是从颜色条边缘到页面边缘的距离。",
+      "p1": "在打印中，色条也称为颜色控制条或颜色测试条，是沿着主图像打印的一条色块。\n它可以作为监视和控制印刷过程的参考。\n颜色条通常包含一系列色块，包括原色（青色、品红色、黄色和黑色）以及辅助色和灰度色调。",
+      "p2": "打印机使用色条来确保整个打印作业中色彩再现的准确和一致。\n通过将打印的色块与标准参考（例如色卡或目标）进行比较，打印机可以进行调整以保持颜色准确性、调整墨水量并检测颜色注册的任何问题。",
+      "p3": "色条是印刷行业必不可少的工具，有助于在各种印刷工艺中实现一致和高质量的色彩输出，包括胶印、数字印刷和其他色彩复制方法。",
+      "shapes": "颜色条由多种形状组成，可帮助您评估印刷过程的质量。\n选择要包含在颜色栏中的形状。",
+      "size": "颜色条的大小是颜色条的宽度。\n颜色条中的每个形状都是具有此大小的正方形。",
+      "spotColors": "专色是使用预混合油墨打印的颜色，而不是通过组合原色（青色、品红色、黄色和黑色）来打印的颜色。\n专色用于打印纯色，例如使用原色不易复制的徽标。\n选中此框可使用专色打印颜色条。",
+      "repeat": "在整个页面上重复颜色栏中的形状。\n未选中时，每个形状仅打印一次。"
+    }
+  },
+  "progress": {
+    "copying": "正在复制第 {0} 页",
+    "imposing": "令人印象深刻的页面{0}",
+    "saving": "压缩"
+  },
+  "nest": {
+    "effort": "努力",
+    "nesting": "嵌套",
+    "whitespace": "空白",
+    "help": {
+      "margins": "贴纸与纸张边缘之间的最小间距。",
+      "nestingEffort": "工作量越大，PDF Snake 尝试将贴纸贴到纸张上的时间就越多。\n努力越大，纸张上贴的贴纸就越多。",
+      "p1": "它将尽可能多的贴纸包装到一张纸上。",
+      "p2": "当您的贴纸是矩形时，贴纸工具并不比猴子工具好。",
+      "p3": "当您的贴纸是带有透明背景的奇怪形状时，贴纸工具可能会比猴子工具在一张纸上打包更多贴纸。\n单击 {checkerboard} 查看您的文档是否具有透明背景。",
+      "p4": "当然，您的打印纸不需要有背胶。\n每当您打算从纸张上剪出奇怪的形状时，贴纸工具都非常有用。",
+      "padding": "生成的纸张上贴纸之间的最小间距。"
+    },
+    "nestingEffort": "筑巢努力"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake 在 Firefox 浏览器中效果最佳。",
+    "defective": "您当前的浏览器 Safari 存在缺陷，导致 PDF Snake 无法正常工作。",
+    "googleChrome": "谷歌浏览器",
+    "title": "Safari 坏了",
+    "wellWithChrome": "PDF Snake 也可以与 {link} 配合使用，但 Firefox 速度更快。"
+  },
+  "surveyA": {
+    "difficulty": "我在使用 PDF Snake 时遇到的一个困难是",
+    "editAnswers": "查看并编辑您的答案。",
+    "feature": "我希望添加到 PDF Snake 中的一项功能是",
+    "helpUs": "完成以下三句话，帮助我们改进 PDF Snake：",
+    "submit": "提交",
+    "submitting": "正在提交...",
+    "thankYou": "感谢您完成调查。",
+    "userSurvey": "用户调查",
+    "whyPdfSnake": "我选择 PDF Snake 而不是其他强大的软件是因为"
   }
 }

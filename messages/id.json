@@ -22,10 +22,15 @@
     "terms": "Dengan menggunakan situs web ini, Anda setuju dengan {link} kami.",
     "plugIn": "PDF Snake 6 adalah versi daring baru dari Plug-In Adobe Acrobat yang terkenal, {link}.",
     "questions": "Kami senang menerima pertanyaan dan komentar Anda.",
-    "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Hak Cipta 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "Baca {link}.",
+    "support": "Mendukung",
+    "helpAndTutorials": "bantuan online dan tutorial",
+    "pricing": "Harga"
   },
   "choose": {
-    "whatNext": "Apa selanjutnya?"
+    "whatNext": "Apa selanjutnya?",
+    "trashTip": "Seret dan lepas alat di sini untuk menghapusnya dari kotak alat."
   },
   "tools": {
     "booklet": "Buklet",
@@ -40,7 +45,11 @@
     "nupBook": "Buku N-up",
     "split": "Membelah",
     "overlay": "Hamparan",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Header atau Footer",
+    "colorBar": "Diskriminasi rasial",
+    "nest": "Stiker",
+    "calendar": "Kalender"
   },
   "pageSize": {
     "paperSize": "Ukuran Kertas",
@@ -54,7 +63,9 @@
       "width": "Lebar halaman pada dokumen hasil. Harus lebih besar dari nol.",
       "height": "Tinggi halaman pada dokumen hasil. Harus lebih besar dari nol.",
       "landscapeHtml": "Ketika dicentang, akan menukar nilai lebar dan tinggi ketika membuat halaman di dokumen hasil. Contohnya, jika <strong>Letter</strong> dipilih dan <strong>Lanskap</strong> tidak dicentang, maka hasil halamannya akan berukuran 8.5 x 11 inci. Jika <strong>Lanskap</strong> dicentang maka hasil halamannya akan berukuran 11 x 8.5 inci."
-    }
+    },
+    "ratioLocked": "Rasio aspek terkunci. \nKlik untuk membuka kunci.",
+    "ratioUnlocked": "Rasio aspek tidak terkunci. \nKlik untuk mengunci."
   },
   "units": {
     "mms": "mm",
@@ -70,7 +81,12 @@
     "sequential": "berurutan",
     "sequentialHelp": "Halaman-halaman akan diatur dengan urutan yang sama seperti yang terlihat pada dokumen sumber.",
     "stack": "tumpukan",
-    "stackHelp": "Halaman-halaman akan diatur supaya setelah dicetak dan dipotong, tumpukan hasilnya dapat ditumpuk di atas satu sama lain, dan urutan halamannya akan sama dengan dokumen sumber."
+    "stackHelp": "Halaman-halaman akan diatur supaya setelah dicetak dan dipotong, tumpukan hasilnya dapat ditumpuk di atas satu sama lain, dan urutan halamannya akan sama dengan dokumen sumber.",
+    "trueStack": "Tumpukan yang benar",
+    "trueStackHelpHtml": "<p> Ada kerusakan pada PDF Snake versi 6.152 dan yang lebih lama. \nDengan <b>Urutan Halaman = tumpukan</b> dan <b>Ulangi setiap halaman > 1</b>, PDF Snake menyusun halaman dalam urutan yang salah. \n</p> <p> Kosongkan kotak centang <b>Tumpukan sejati</b> untuk melanjutkan menyusun halaman dalam urutan yang sama seperti PDF Snake versi 6.152 dan yang lebih lama. \n</p> <p> Centang kotak <b>True stack</b> dan PDF Snake akan menyusun ulang halaman dengan benar. \n</p> <p> Ketika <b>Ulangi setiap halaman = 1</b>, urutan halaman lama dan urutan halaman baru sama, kotak centang tidak berpengaruh, jadi PDF Snake menyembunyikannya. \n</p>",
+    "fillSheet": "lembar isian",
+    "stepAndRepeat": "melangkah dan ulangi",
+    "stepAndRepeatHelp": "Ulangi setiap halaman sehingga memenuhi satu lembar."
   },
   "whiteSpace": {
     "whiteSpace": "Spasi",
@@ -189,6 +205,17 @@
       "pages-1-X-3": "halaman 1, halaman kosong, halaman 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor.",
+      "rotateBackCover": "Putar sampul belakang sebesar 180 derajat untuk memformatnya dengan benar untuk kalender.",
+      "pageLayout": "Pilih tata letak kalender agar sesuai dengan setiap halaman setengah lembar atau lembar penuh."
+    },
+    "rotateBackCover": "Putar penutup belakang",
+    "pageLayout": "Tata letak halaman",
+    "halfSheet": "Setengah Lembar",
+    "fullSheet": "Lembar Penuh"
+  },
   "pages": {
     "zoomIn": "Perbesar",
     "zoomOut": "Perkecil",
@@ -210,7 +237,11 @@
     "play": "Lanjutkan perhitungan ulang otomatis",
     "recalculatingPaused": "Penghitungan ulang dijeda.",
     "clickPlay": "Klik {play} untuk melanjutkan.",
-    "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis."
+    "clickToPause": "Klik tombol ini untuk menjeda penghitungan ulang otomatis.",
+    "xray": "radiografi",
+    "settings": "Pengaturan",
+    "showCheckerboard": "Isi latar belakang",
+    "showRules": "Menggambar aturan"
   },
   "home": {
     "step": "Langkah {number}: {name}",
@@ -221,7 +252,8 @@
     "addStep": "Tambahkan Langkah",
     "saveSteps": "Simpan Langkah-Langkah",
     "saveButton": "Simpan",
-    "batchLog": "Log Batch"
+    "batchLog": "Log Batch",
+    "safariNoStickers": "Safari memiliki cacat yang membuat alat Stiker tidak berfungsi dengan benar. \nGunakan alat Monkey sebagai gantinya, atau browser lain."
   },
   "error": {
     "notEmpty": "tidak boleh kosong",
@@ -262,8 +294,10 @@
   "resize": {
     "help": {
       "intro": "Alat Ubah Ukuran PDF Snake memperkecil atau memperbesar isi halaman supaya cocok dengan kertas ukuran apa saja.",
-      "preserveAspectRatio": "Ketika dicentang, mempertahankan rasio tinggi-ke-lebar halaman dari dokumen sumber. Jika tidak dicentang, halaman-halaman mungkin akan diregangkan secara signifikan secara horizontal atau vertikal."
-    }
+      "preserveAspectRatio": "Ketika dicentang, mempertahankan rasio tinggi-ke-lebar halaman dari dokumen sumber. Jika tidak dicentang, halaman-halaman mungkin akan diregangkan secara signifikan secara horizontal atau vertikal.",
+      "stretch": "Regangkan halaman agar sesuai dengan ukuran baru. \nHal ini dapat merusak gambar."
+    },
+    "stretch": "Regangkan agar pas"
   },
   "impose": {
     "help": {
@@ -304,7 +338,11 @@
     "nupBookHtml": "<b>N-up Book</b> memaksakan halaman untuk dilipat, dipangkas dan diikat menjadi sebuah buku.",
     "splitHtml": "<b>Membelah</b> membagi dokumen besar menjadi dokumen yang lebih kecil.",
     "overlayHtml": "<b>Hamparan</b> melapisi konten satu dokumen PDF ke dokumen PDF lainnya.",
-    "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman."
+    "nudgeHtml": "<b>Nudge</b> memindahkan konten di sekitar halaman.",
+    "headerFooterHtml": "<b>Header atau Footer</b> menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman.",
+    "colorBarHtml": "<b>Bilah Warna</b> menambahkan tambalan warna untuk memantau dan mengendalikan proses pencetakan.",
+    "nestHtml": "<b>Stiker</b> menampilkan selembar stiker dengan ruang putih yang tumpang tindih.",
+    "calendarHtml": "<b>Kalender</b> membuat buklet kalender dari PDF yang diimpor."
   },
   "account": {
     "signedInUsersCan": "Pengguna yang masuk dapat mengunduh dokumen tanpa jumlah batas selama masa percobaan gratis 10 hari.",
@@ -328,7 +366,10 @@
     "subscribeNow": "Langganan Sekarang",
     "stripeError": "Terjadi kegagalan: {msg}",
     "paymentsWillAppear": "Pembayaran akan muncul di laporan mutasi bank/kartu Anda sebagai:",
-    "subscriptionsRenewAutomatically": "Saya memahami bahwa langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan saya kapan saja dengan mengunjungi {cancelLink}."
+    "subscriptionsRenewAutomatically": "Saya memahami bahwa langganan diperpanjang secara otomatis, dan saya dapat membatalkan langganan saya kapan saja dengan mengunjungi {cancelLink}.",
+    "creatingFreeTrial": "Membuat uji coba gratis...",
+    "noDisposableEmail": "Alamat email sekali pakai tidak memenuhi syarat untuk uji coba gratis.",
+    "imReadyToSubscribe": "Saya siap berlangganan sekarang."
   },
   "helpFor": {
     "noHelp": "Tidak ada topik bantuan bernama {topic}."
@@ -361,7 +402,10 @@
     "subscriptionExpired": "Langganan Kedaluwarsa",
     "subscriptionExpiredDate": "Langganan Anda berakhir pada {date}.",
     "subscriptionWillExpire": "Langganan Anda telah dibatalkan dan akan kedaluwarsa pada {date}.",
-    "updateButton": "Memodifikasi"
+    "updateButton": "Memodifikasi",
+    "editAnswer": "Edit jawaban Anda",
+    "tellUsWhy": "Langganan Anda telah dibatalkan. \nKami sedih melihat Anda pergi. \nJika Anda punya waktu, beri tahu kami alasan Anda membatalkan.",
+    "thankYou": "Terima kasih telah memberi tahu kami alasan Anda membatalkan."
   },
   "cards": {
     "help": {
@@ -407,7 +451,8 @@
       "opacity": "Opacity dari konten teratas. 100% sepenuhnya buram. 0% tidak terlihat.",
       "paddingHtml": "Setel <b>Kiri</b> dan <b>Atas</b> untuk mengontrol lokasi tempat dokumen teratas dihamparkan.",
       "repeat": "Ketika ada lebih banyak halaman di dokumen bawah daripada dokumen atas, ulangi halaman dari dokumen atas. Misalnya, jika hanya ada satu halaman di dokumen teratas, halaman tersebut akan dihamparkan ke semua halaman di dokumen teratas."
-    }
+    },
+    "chooseFile": "Pilih File"
   },
   "nudge": {
     "move": "Bergerak",
@@ -416,5 +461,76 @@
       "move": "Jarak untuk memindahkan konten.",
       "intro": "Nudge memindahkan konten di sekitar halaman. Ini adalah alat yang sempurna untuk memperbaiki masalah pendaftaran dengan pemindai, mesin cetak, atau printer Anda."
     }
+  },
+  "headerFooter": {
+    "alternate": "Sisi alternatif untuk halaman ganjil dan genap.",
+    "font": "Fon",
+    "hint": "Edit template di sini.",
+    "insertVariable": "Sisipkan variabel",
+    "location": "Lokasi",
+    "margins": "Margin",
+    "size": "Ukuran",
+    "template": "Templat",
+    "help": {
+      "intro": "Alat Header atau Footer menambahkan nomor halaman, nama file, atau teks lain ke bagian bawah atau atas halaman."
+    },
+    "edit": "Sunting",
+    "fileName": "nama file",
+    "pageCount": "jumlah halaman",
+    "pageNumber": "nomor halaman"
+  },
+  "colorBar": {
+    "marks": "Tanda",
+    "colors": "Warna",
+    "spotColors": "Warna titik",
+    "shapes": "Bentuk",
+    "help": {
+      "margins": "Jarak antara bilah warna dan tepi halaman disebut margin. \nMarginnya biasanya 1/4 inci (6,35 mm) atau kurang. \nMargin diukur dari tepi bilah warna hingga tepi halaman.",
+      "p1": "Dalam pencetakan, bilah warna, juga dikenal sebagai strip kontrol warna atau strip uji warna, adalah strip tambalan warna yang dicetak di samping gambar utama. \nIni berfungsi sebagai referensi untuk memantau dan mengendalikan proses pencetakan. \nBilah warna biasanya berisi serangkaian bercak warna, termasuk warna primer (cyan, magenta, kuning, dan hitam), serta warna sekunder dan corak skala abu-abu.",
+      "p2": "Printer menggunakan bilah warna untuk memastikan reproduksi warna yang akurat dan konsisten selama pekerjaan pencetakan. \nDengan membandingkan tambalan warna yang dicetak dengan referensi standar, seperti bagan atau target warna, printer dapat melakukan penyesuaian untuk menjaga keakuratan warna, menyesuaikan level tinta, dan mendeteksi masalah apa pun pada registrasi warna.",
+      "p3": "Bilah warna adalah alat penting dalam industri percetakan, membantu mencapai keluaran warna yang konsisten dan berkualitas tinggi dalam berbagai proses pencetakan, termasuk pencetakan offset, pencetakan digital, dan metode reproduksi warna lainnya.",
+      "shapes": "Bilah warna terdiri dari berbagai bentuk untuk membantu Anda mengevaluasi kualitas proses pencetakan. \nPilih bentuk yang ingin Anda sertakan dalam bilah warna.",
+      "size": "Ukuran bilah warna adalah lebar bilah warna. \nSetiap bentuk pada bilah warna berbentuk persegi dengan ukuran ini.",
+      "spotColors": "Warna spot adalah warna yang dicetak menggunakan tinta yang sudah dicampur sebelumnya, bukan dengan menggabungkan warna primer (cyan, magenta, kuning, dan hitam). \nWarna spot digunakan untuk mencetak warna solid, seperti logo, yang tidak mudah direproduksi menggunakan warna primer. \nCentang kotak ini untuk mencetak bilah warna menggunakan warna spot.",
+      "repeat": "Ulangi bentuk di bilah warna di seluruh halaman. \nJika tidak dicentang, setiap bentuk hanya dicetak satu kali."
+    }
+  },
+  "progress": {
+    "copying": "Menyalin halaman {0}",
+    "imposing": "Laman yang mengesankan {0}",
+    "saving": "Mengompresi"
+  },
+  "nest": {
+    "effort": "Upaya",
+    "nesting": "Bersarang",
+    "whitespace": "Spasi putih",
+    "help": {
+      "margins": "Jarak minimum antara stiker dan tepi lembaran.",
+      "nestingEffort": "Semakin tinggi upayanya, semakin banyak waktu yang dihabiskan PDF Snake untuk mencoba mengemas stiker ke dalam lembaran. \nSemakin tinggi upayanya, semakin banyak stiker yang dapat dimasukkan ke dalam lembaran.",
+      "p1": "Ini mengemas stiker sebanyak mungkin ke dalam satu lembar.",
+      "p2": "Jika stiker Anda berbentuk persegi panjang, maka alat Stiker tidak lebih baik dari alat Monyet.",
+      "p3": "Jika stiker Anda berbentuk aneh dengan latar belakang transparan, alat Stiker mungkin mengemas lebih banyak stiker ke dalam satu lembar daripada alat Monyet. \nKlik {checkerboard} untuk melihat apakah dokumen Anda memiliki latar belakang transparan.",
+      "p4": "Tentu saja, kertas printer Anda tidak perlu memiliki lapisan perekat. \nAlat Stiker berguna kapan pun Anda ingin memotong bentuk aneh dari kertas.",
+      "padding": "Jarak minimum antar stiker pada lembar yang dihasilkan."
+    },
+    "nestingEffort": "Upaya Bersarang"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake berfungsi paling baik dengan browser Firefox.",
+    "defective": "Browser Anda saat ini, Safari, memiliki cacat yang mencegah PDF Snake berfungsi dengan benar.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari Rusak",
+    "wellWithChrome": "PDF Snake juga berfungsi baik dengan {link}, namun Firefox lebih cepat."
+  },
+  "surveyA": {
+    "difficulty": "Salah satu kesulitan yang saya alami saat menggunakan PDF Snake adalah",
+    "editAnswers": "Lihat dan edit jawaban Anda.",
+    "feature": "Salah satu fitur yang saya ingin lihat ditambahkan ke PDF Snake adalah",
+    "helpUs": "Bantu kami meningkatkan PDF Snake dengan menyelesaikan tiga kalimat berikut:",
+    "submit": "Kirim",
+    "submitting": "Mengirimkan...",
+    "thankYou": "Terima kasih telah menyelesaikan survei ini.",
+    "userSurvey": "Survei Pengguna",
+    "whyPdfSnake": "Saya memilih PDF Snake dibandingkan perangkat lunak mengesankan lainnya karena"
   }
 }

@@ -22,10 +22,15 @@
     "terms": "Usar este site significa que você concorda com nossos {link}.",
     "plugIn": "PDF Snake 6 é uma nova versão online do plug-in Adobe Acrobat mais vendido {link}.",
     "questions": "Nós adoramos ouvir suas perguntas e comentários.",
-    "copyright": "Direitos autorais 2002-{year} Rennie Glen Software LLC"
+    "copyright": "Direitos autorais 2002-{year} Rennie Glen Software LLC",
+    "readHelp": "Leia o {link}.",
+    "support": "Apoiar",
+    "helpAndTutorials": "ajuda online e tutoriais",
+    "pricing": "Preços"
   },
   "choose": {
-    "whatNext": "E agora?"
+    "whatNext": "E agora?",
+    "trashTip": "Arraste e solte as ferramentas aqui para removê-las da caixa de ferramentas."
   },
   "tools": {
     "booklet": "Livreto",
@@ -40,7 +45,11 @@
     "nupBook": "Livro N-up",
     "split": "Dividir",
     "overlay": "Sobreposição",
-    "nudge": "Nudge"
+    "nudge": "Nudge",
+    "headerFooter": "Cabeçalho ou Rodapé",
+    "colorBar": "Barra de cor",
+    "nest": "Adesivos",
+    "calendar": "Calendário"
   },
   "pageSize": {
     "paperSize": "Tamanhos de papel",
@@ -54,7 +63,9 @@
       "width": "A largura das páginas do documento resultante. Deve ser maior que zero.",
       "height": "A altura das páginas do documento resultante. Deve ser maior que zero.",
       "landscapeHtml": "Quando marcada, troca os valores de largura e altura ao criar páginas no documento resultante. Por exemplo, se a opção <strong>Carta</strong> estiver selecionada e <strong>Paisagem</strong> não estiver marcada, as páginas resultantes terão 216 x 279mm. Se a opção <strong>Paisagem</strong> estiver marcada, as páginas resultantes terão 279 x 216mm."
-    }
+    },
+    "ratioLocked": "A proporção está bloqueada. \nClique para desbloquear.",
+    "ratioUnlocked": "A proporção está desbloqueada. \nClique para bloquear."
   },
   "units": {
     "mms": "mms",
@@ -70,7 +81,12 @@
     "sequential": "sequencial",
     "sequentialHelp": "As páginas serão incluídas na mesma ordem em que aparecem no documento de origem.",
     "stack": "empilhar",
-    "stackHelp": "As páginas serão organizadas de forma que, após serem impressas e cortadas, as pilhas resultantes possam ser empilhadas umas sobre as outras e a ordem das páginas resultantes coincida com o documento de origem."
+    "stackHelp": "As páginas serão organizadas de forma que, após serem impressas e cortadas, as pilhas resultantes possam ser empilhadas umas sobre as outras e a ordem das páginas resultantes coincida com o documento de origem.",
+    "trueStack": "Pilha verdadeira",
+    "trueStackHelpHtml": "<p> Houve um defeito nas versões 6.152 e anteriores do PDF Snake. \nCom <b>Page Order = stack</b> e <b>Repeat each page > 1</b>, o PDF Snake organizou as páginas na ordem errada. \n</p> <p> Desmarque a caixa de seleção <b>Pilha verdadeira</b> para continuar organizando as páginas na mesma ordem que o PDF Snake versões 6.152 e anteriores. \n</p> <p> Marque a caixa de seleção <b>Pilha verdadeira</b> e o PDF Snake reordenará as páginas corretamente. \n</p> <p> Quando <b>Repetir cada página = 1</b>, a ordem antiga e a nova ordem das páginas são as mesmas, a caixa de seleção não tem efeito, então o PDF Snake a oculta. \n</p>",
+    "fillSheet": "preencher folha",
+    "stepAndRepeat": "passo e repita",
+    "stepAndRepeatHelp": "Repita cada página para preencher uma folha."
   },
   "whiteSpace": {
     "whiteSpace": "Espaço em branco",
@@ -189,6 +205,17 @@
       "pages-1-X-3": "página 1, uma página em branco, página 3"
     }
   },
+  "calendar": {
+    "help": {
+      "intro": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado.",
+      "rotateBackCover": "Gira a capa traseira em 180 graus para formatá-la corretamente para um calendário.",
+      "pageLayout": "Escolha o layout do calendário para ajustar cada página em meias folhas ou folhas inteiras."
+    },
+    "rotateBackCover": "Girar a tampa traseira",
+    "pageLayout": "Layout da página",
+    "halfSheet": "Meia Folha",
+    "fullSheet": "Folha Completa"
+  },
   "pages": {
     "zoomIn": "Aumentar o zoom",
     "zoomOut": "Diminuir o zoom",
@@ -210,7 +237,11 @@
     "play": "Retomar recálculo automático",
     "recalculatingPaused": "Recalculando pausado.",
     "clickPlay": "Clique em {play} para retomar.",
-    "clickToPause": "Clique neste botão para pausar o recálculo automático."
+    "clickToPause": "Clique neste botão para pausar o recálculo automático.",
+    "xray": "radiografia",
+    "settings": "Configurações",
+    "showCheckerboard": "Preencher plano de fundo",
+    "showRules": "Regras de sorteio"
   },
   "home": {
     "step": "Etapa {number}: {name}",
@@ -221,7 +252,8 @@
     "addStep": "Adicionar etapa",
     "saveSteps": "Salvar etapas",
     "saveButton": "Salval",
-    "batchLog": "Log de lote"
+    "batchLog": "Log de lote",
+    "safariNoStickers": "O Safari possui defeitos que impedem o funcionamento correto da ferramenta Stickers. \nEm vez disso, use a ferramenta Monkey ou outro navegador."
   },
   "error": {
     "notEmpty": "não deve estar vazio",
@@ -262,8 +294,10 @@
   "resize": {
     "help": {
       "intro": "A ferramenta Redimensionar do PDF Snake reduz ou expande o conteúdo das páginas para caber em qualquer tamanho de papel.",
-      "preserveAspectRatio": "Quando a opção estiver marcada, preserva a proporção entre a altura e a largura nas páginas do documento de origem. Se esta caixa não estiver marcada, as páginas podem ser significamente alongadas horizontal ou verticalmente."
-    }
+      "preserveAspectRatio": "Quando a opção estiver marcada, preserva a proporção entre a altura e a largura nas páginas do documento de origem. Se esta caixa não estiver marcada, as páginas podem ser significamente alongadas horizontal ou verticalmente.",
+      "stretch": "Estique a página para caber no novo tamanho. \nIsto pode distorcer a imagem."
+    },
+    "stretch": "Esticar para caber"
   },
   "impose": {
     "help": {
@@ -304,7 +338,11 @@
     "nupBookHtml": "<b>N-up Book</b> impõe que as páginas sejam dobradas, cortadas e encadernadas em um livro.",
     "splitHtml": "<b>Dividir</b> divide um documento grande em documentos menores.",
     "overlayHtml": "<b>Sobreposição</b> sobrepõe o conteúdo de um documento PDF em outro.",
-    "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página."
+    "nudgeHtml": "<b>Nudge</b> move o conteúdo pela página.",
+    "headerFooterHtml": "<b>Cabeçalho ou Rodapé</b> adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas.",
+    "colorBarHtml": "A <b>Barra de Cores</b> adiciona amostras de cores para monitorar e controlar o processo de impressão.",
+    "nestHtml": "<b>Adesivos</b> impõe uma folha de adesivos com espaços em branco sobrepostos.",
+    "calendarHtml": "<b>Calendário</b> cria um livreto de calendário a partir do PDF importado."
   },
   "account": {
     "signedInUsersCan": "Usuários cadastrados podem baixar documentos ilimitados durante um período de teste gratuito de 10 dias.",
@@ -328,7 +366,10 @@
     "subscribeNow": "Assinar agora",
     "stripeError": "Ocorreu um erro: {msg}",
     "paymentsWillAppear": "Os pagamentos aparecerão no seu extrato bancário/cartão como:",
-    "subscriptionsRenewAutomatically": "Entendo que as assinaturas são renovadas automaticamente e posso cancelar minha assinatura a qualquer momento acessando {cancelLink}."
+    "subscriptionsRenewAutomatically": "Entendo que as assinaturas são renovadas automaticamente e posso cancelar minha assinatura a qualquer momento acessando {cancelLink}.",
+    "creatingFreeTrial": "Criando teste gratuito...",
+    "noDisposableEmail": "Endereços de e-mail descartáveis ​​não são elegíveis para testes gratuitos.",
+    "imReadyToSubscribe": "Estou pronto para me inscrever agora."
   },
   "helpFor": {
     "noHelp": "Não há nenhum tópico de ajuda chamado {topic}."
@@ -361,7 +402,10 @@
     "subscriptionExpired": "Assinatura expirada",
     "subscriptionExpiredDate": "Sua assinatura expirou em {date}.",
     "subscriptionWillExpire": "Sua assinatura foi cancelada e expirará em {date}.",
-    "updateButton": "Modificar"
+    "updateButton": "Modificar",
+    "editAnswer": "Edite sua resposta",
+    "tellUsWhy": "Sua assinatura foi cancelada. \nLamentamos ver você partir. \nSe você tiver um momento, informe-nos por que você cancelou.",
+    "thankYou": "Obrigado por nos contar por que você cancelou."
   },
   "cards": {
     "help": {
@@ -418,7 +462,8 @@
       "opacity": "Opacidade do conteúdo superior. 100% é totalmente opaco. 0% é invisível.",
       "paddingHtml": "Defina <b>Esquerda</b> e <b>Superior</b> para controlar o local onde o documento superior é sobreposto.",
       "repeat": "Quando houver mais páginas no documento inferior do que no documento superior, repita as páginas do documento superior. Por exemplo, se houver apenas uma página no documento superior, ela será sobreposta em todas as páginas do documento superior."
-    }
+    },
+    "chooseFile": "Escolher arquivo"
   },
   "nudge": {
     "move": "Jogada",
@@ -427,5 +472,65 @@
       "move": "A distância para mover o conteúdo.",
       "intro": "Nudge move o conteúdo pelas páginas. É a ferramenta perfeita para corrigir problemas de registro com seu scanner, impressora ou impressora."
     }
+  },
+  "headerFooter": {
+    "alternate": "Lados alternativos para páginas ímpares e pares.",
+    "font": "Fonte",
+    "hint": "Edite o modelo aqui.",
+    "insertVariable": "Inserir variável",
+    "location": "Localização",
+    "margins": "Margens",
+    "size": "Tamanho",
+    "template": "Modelo",
+    "help": {
+      "intro": "A ferramenta Cabeçalho ou Rodapé adiciona números de página, nomes de arquivo ou outro texto na parte inferior ou superior das páginas."
+    },
+    "edit": "Editar",
+    "fileName": "nome do arquivo",
+    "pageCount": "contagem de páginas",
+    "pageNumber": "número de página"
+  },
+  "colorBar": {
+    "marks": "Marcas",
+    "colors": "Cores",
+    "spotColors": "Cores exatas",
+    "shapes": "Formas",
+    "help": {
+      "margins": "A distância entre a barra colorida e a borda da página é chamada de margem. \nA margem é normalmente de 1/4 polegada (6,35 mm) ou menos. \nA margem é medida da borda da barra colorida até a borda da página.",
+      "p1": "Na impressão, uma barra de cores, também conhecida como tira de controle de cores ou tira de teste de cores, é uma tira de amostras coloridas impressas ao lado da imagem principal. \nServe como referência para monitoramento e controle do processo de impressão. \nA barra de cores normalmente contém uma variedade de amostras de cores, incluindo cores primárias (ciano, magenta, amarelo e preto), bem como cores secundárias e tons de escala de cinza.",
+      "p2": "As impressoras usam barras de cores para garantir uma reprodução de cores precisa e consistente durante todo o trabalho de impressão. \nAo comparar as amostras de cores impressas com uma referência padrão, como uma tabela de cores ou um alvo, as impressoras podem fazer ajustes para manter a precisão das cores, ajustar os níveis de tinta e detectar quaisquer problemas com o registro de cores.",
+      "p3": "As barras de cores são ferramentas essenciais na indústria de impressão, ajudando a obter resultados de cores consistentes e de alta qualidade em vários processos de impressão, incluindo impressão offset, impressão digital e outros métodos de reprodução de cores.",
+      "shapes": "A barra de cores consiste em uma variedade de formas para ajudá-lo a avaliar a qualidade do processo de impressão. \nEscolha as formas que deseja incluir na barra de cores.",
+      "size": "O tamanho da barra de cores é a largura da barra de cores. \nCada forma na barra de cores é um quadrado com esse tamanho.",
+      "spotColors": "Cores exatas são cores impressas com tintas pré-misturadas, em vez de combinar cores primárias (ciano, magenta, amarelo e preto). \nAs cores exatas são usadas para imprimir cores sólidas, como logotipos, que não são facilmente reproduzidas com as cores primárias. \nMarque esta caixa para imprimir uma barra de cores usando cores exatas.",
+      "repeat": "Repita as formas na barra de cores em toda a página. \nQuando não marcada, cada forma é impressa apenas uma vez."
+    }
+  },
+  "progress": {
+    "copying": "Copiando página {0}",
+    "imposing": "Página imponente {0}",
+    "saving": "Comprimindo"
+  },
+  "nest": {
+    "effort": "Esforço",
+    "nesting": "Aninhamento",
+    "whitespace": "Espaço em branco",
+    "help": {
+      "margins": "O espaço mínimo entre os adesivos e a borda da folha.",
+      "nestingEffort": "Quanto maior o esforço, mais tempo o PDF Snake gastará tentando colocar adesivos na folha. \nQuanto maior o esforço, mais adesivos poderão ser colocados na folha.",
+      "p1": "Ele embala tantos adesivos quanto possível em uma única folha.",
+      "p2": "Quando seus adesivos são retângulos, a ferramenta Adesivos não é melhor que a ferramenta Macaco.",
+      "p3": "Quando seus adesivos têm formatos estranhos e fundo transparente, a ferramenta Adesivos pode colocar mais adesivos em uma folha do que a ferramenta Macaco. \nClique em {checkerboard} para ver se o seu documento tem um fundo transparente.",
+      "p4": "É claro que o papel da impressora não precisa ter adesivo. \nA ferramenta Adesivos é útil sempre que você pretende cortar formas estranhas do papel.",
+      "padding": "O espaço mínimo entre os adesivos na folha resultante."
+    },
+    "nestingEffort": "Esforço de aninhamento"
+  },
+  "safariBroken": {
+    "bestWithFirefox": "PDF Snake funciona melhor com o navegador Firefox.",
+    "defective": "Seu navegador atual, Safari, possui defeitos que impedem o funcionamento correto do PDF Snake.",
+    "googleChrome": "Google Chrome",
+    "title": "Safari está quebrado",
+    "wellWithChrome": "PDF Snake também funciona bem com {link}, mas o Firefox é mais rápido."
   }
 }
